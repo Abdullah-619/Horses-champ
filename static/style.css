@@ -18,7 +18,7 @@ form { display: flex; flex-wrap: wrap; gap: 12px; align-items: end; background: 
 .medal.silver:has(input:checked) { border-color: var(--silver); }
 .medal.bronze:has(input:checked) { border-color: var(--bronze); }
 .field { display: flex; flex-direction: column; gap: 4px; flex: 1 1 260px; color: var(--muted); font-size: .9rem; }
-select, button { font: inherit; padding: 8px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--bg); color: var(--fg); }
+select, input, button { font: inherit; padding: 8px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--bg); color: var(--fg); }
 button { background: var(--accent); color: #fff; border: 0; font-weight: 600; cursor: pointer; }
 #status { color: var(--muted); }
 .table-wrap { overflow-x: auto; }
@@ -27,3 +27,8 @@ th, td { padding: 10px; text-align: left; border-bottom: 1px solid var(--line); 
 th { font-size: .85rem; color: var(--muted); }
 .pill { display: inline-block; padding: 2px 10px; border-radius: 999px; color: #fff; font-size: .85rem; white-space: nowrap; }
 .pill.gold { background: var(--gold); } .pill.silver { background: var(--silver); } .pill.bronze { background: var(--bronze); }
+details { margin: 0 0 16px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 10px 16px; }
+summary { cursor: pointer; font-weight: 600; }
+#changes { margin: 8px 0 0; padding-left: 18px; }
+#changes li { margin: 4px 0; }
+.pill { text-transform: capitalize; }

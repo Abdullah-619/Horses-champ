@@ -9,7 +9,9 @@
 <body>
   <header>
     <h1>Arabian Horse Championship Results</h1>
-    <p class="sub">Data from <a href="https://www.arabianessence.tv/" target="_blank" rel="noopener">arabianessence.tv</a></p>
+    <p class="sub">Data from <a href="https://www.arabianessence.tv/" target="_blank" rel="noopener">arabianessence.tv</a>,
+      checked every hour<span id="updated"></span>.
+      <a href="/download/results.xlsx">Download Excel</a></p>
   </header>
 
   <main>
@@ -21,13 +23,21 @@
       </div>
       <label class="field">Event
         <select name="event" id="event">
-          <option value="">Latest finished events</option>
+          <option value="">All events</option>
         </select>
+      </label>
+      <label class="field">Search
+        <input type="search" name="q" placeholder="Horse, championship or event">
       </label>
       <button type="submit">Show results</button>
     </form>
 
     <p id="status" aria-live="polite"></p>
+
+    <details id="changes-box" hidden>
+      <summary>Latest new wins</summary>
+      <ul id="changes"></ul>
+    </details>
 
     <div class="table-wrap">
       <table id="results" hidden>
@@ -56,14 +66,26 @@
       return url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(text)}</a>` : esc(text);
     }
 
-    fetch('/api/events').then(r => r.json()).then(events => {
-      if (!Array.isArray(events)) return;
-      for (const e of events) {
+    fetch('/api/events').then(r => r.json()).then(data => {
+      if (data.updated_at) document.getElementById('updated').textContent =
+        ' (last check ' + new Date(data.updated_at).toLocaleString() + ')';
+      for (const e of data.events || []) {
         const opt = document.createElement('option');
-        opt.value = e.url;
+        opt.value = e.event_id;
         opt.textContent = e.start_date ? `${e.name} (${e.start_date})` : e.name;
         eventSel.appendChild(opt);
       }
+    }).catch(() => {});
+
+    fetch('/api/changes').then(r => r.json()).then(changes => {
+      if (!changes.length) return;
+      const ul = document.getElementById('changes');
+      for (const c of changes.slice(0, 20)) {
+        ul.insertAdjacentHTML('beforeend', `<li><span class="pill ${esc(c.medal)}">${esc(c.medal)}</span>
+          ${link(c.horse_url, c.horse_name)}, ${esc(c.championship)}, ${link(c.event_url, c.event_name)}
+          <small>${new Date(c.detected_at).toLocaleString()}</small></li>`);
+      }
+      document.getElementById('changes-box').hidden = false;
     }).catch(() => {});
 
     form.addEventListener('submit', async ev => {
@@ -71,19 +93,21 @@
       const data = new FormData(form);
       const params = new URLSearchParams({ medal: data.get('medal') });
       if (data.get('event')) params.set('event', data.get('event'));
-      statusEl.textContent = 'Fetching results from arabianessence.tv… this can take a minute the first time.';
+      if (data.get('q')) params.set('q', data.get('q'));
+      statusEl.textContent = 'Loading…';
       table.hidden = true;
       tbody.innerHTML = '';
       try {
         const res = await fetch('/api/results?' + params);
-        const rows = await res.json();
-        if (!res.ok) throw new Error(rows.error || res.statusText);
+        const body = await res.json();
+        if (!res.ok) throw new Error(body.error || res.statusText);
+        const rows = body.results;
         if (!rows.length) { statusEl.textContent = 'No results found for that medal.'; return; }
         for (const r of rows) {
           const vids = (r.videos || []).map((v, i) => link(v, `Video ${i + 1}`)).join('<br>') || '—';
           tbody.insertAdjacentHTML('beforeend', `<tr>
-            <td>${link(r.horse_url, r.horse_name)}</td>
-            <td>${link(r.championship_url, r.championship)}</td>
+            <td>${link(r.horse_url, r.horse_name)}${r.horse_number ? ' <small>#' + esc(r.horse_number) + '</small>' : ''}</td>
+            <td>${esc(r.championship)}</td>
             <td><span class="pill ${esc(r.medal)}">${esc(r.result)}</span></td>
             <td>${link(r.event_url, r.event_name)}${r.location ? '<br><small>' + esc(r.location) + '</small>' : ''}</td>
             <td>${esc(r.start_date) || '—'}</td>
@@ -98,6 +122,7 @@
         statusEl.textContent = 'Could not load results: ' + err.message;
       }
     });
+    form.requestSubmit();
   </script>
 </body>
 </html>

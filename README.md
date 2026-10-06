@@ -18,12 +18,23 @@ python app.py
 
 Open http://localhost:5000.
 
-You can also try the scraper on its own:
+## How results stay up to date
 
-```bash
-python scraper.py gold
-python scraper.py silver https://www.arabianessence.tv/events/<event-slug>/<id>/
-```
+A GitHub Actions job (`.github/workflows/update.yml`) runs every hour. It checks
+arabianessence.tv for events that have started, reads each event's
+Championships section (Gold / Silver / Bronze) and the class videos, and saves:
+
+- `data/results.json` with every result (the website reads this file)
+- `data/results.xlsx` with the same results plus a **Changes** sheet
+- `data/changes.json` with each new or changed win and when it was found
+
+When something changes, the job commits the new files. Render then redeploys
+the site with the new data automatically.
+
+To load older years, open the repo's **Actions** tab, pick **Update results**,
+click **Run workflow** and enter years such as `2023 2024`.
+
+To refresh the data on your own computer: `python update_results.py`.
 
 ## Deploy on Render
 
@@ -39,8 +50,7 @@ python scraper.py silver https://www.arabianessence.tv/events/<event-slug>/<id>/
 
 ## API
 
-- `GET /api/events` lists events found on the site.
-- `GET /api/results?medal=gold[&event=<event url>][&max_events=5]` returns results.
-
-Results are cached for 6 hours (`CACHE_TTL_SECONDS`) so the source site is only
-crawled once in a while. The first search after a restart takes longer.
+- `GET /api/events` lists events that have results.
+- `GET /api/results?medal=gold[&event=<event id>][&q=<text>]` returns results.
+- `GET /api/changes` lists the latest new or changed wins.
+- `GET /download/results.xlsx` downloads the Excel sheet.
