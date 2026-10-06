@@ -1,0 +1,44 @@
+name: Save sample pages
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch pages
+        run: |
+          mkdir out && cd out
+          UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36"
+          i=0
+          for u in \
+            https://www.arabianessence.tv/ \
+            https://www.arabianessence.tv/events/ \
+            https://www.arabianessence.tv/events/world-arabian-horse-championship-2024-paris/853/ \
+            https://www.arabianessence.tv/events/the-saudi-national-championships-2023/572/senior-stallions-championship-class-ssc/12565/ \
+            https://www.arabianessence.tv/events/kingdom-international-championship-for-arabian-horse-2024/775/junior-fillies-championship-class-jfc/17032/ \
+            https://www.arabianessence.tv/events/paris-2015-world-championship/46/awards/world-platinum-champion-female/special-awards/ \
+            https://www.arabianessence.tv/events/hail-international-arabian-horse-show-2024/854/horses/kahil-al-shaqab/12/ \
+            https://www.arabianessence.tv/horses/aj-kafu-ae/10166/ \
+            https://www.arabianessence.tv/events/spanish-nationals-2026/1158/ \
+            https://msgsrv.arabianessence.tv/service.json ; do
+            i=$((i+1))
+            code=$(curl -sSL -A "$UA" -o "p$i.html" -w "%{http_code}" "$u" || echo ERR)
+            echo "p$i.html $code $u" | tee -a index.txt
+          done
+          # also follow first links found on the Paris 2024 event page
+          grep -oE 'href="[^"]*/events/world-arabian-horse-championship-2024-paris/853/[^"]+"' p3.html | sort -u | head -40 | tee links.txt || true
+          n=0
+          for l in $(sed -E 's/href="([^"]*)"/\1/' links.txt | head -6); do
+            n=$((n+1)); case "$l" in http*) u="$l";; *) u="https://www.arabianessence.tv$l";; esac
+            code=$(curl -sSL -A "$UA" -o "f$n.html" -w "%{http_code}" "$u" || echo ERR)
+            echo "f$n.html $code $u" | tee -a index.txt
+          done
+      - name: Commit to research branch
+        run: |
+          cd out
+          git init -q -b research
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A && git commit -qm "Sample pages"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" research
