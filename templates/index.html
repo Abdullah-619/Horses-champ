@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Championship Results</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header>
+    <h1>Arabian Horse Championship Results</h1>
+    <p class="sub">Data from <a href="https://www.arabianessence.tv/" target="_blank" rel="noopener">arabianessence.tv</a></p>
+  </header>
+
+  <main>
+    <form id="search">
+      <div class="medals" role="radiogroup" aria-label="Medal">
+        <label class="medal gold"><input type="radio" name="medal" value="gold" checked> Gold</label>
+        <label class="medal silver"><input type="radio" name="medal" value="silver"> Silver</label>
+        <label class="medal bronze"><input type="radio" name="medal" value="bronze"> Bronze</label>
+      </div>
+      <label class="field">Event
+        <select name="event" id="event">
+          <option value="">Latest finished events</option>
+        </select>
+      </label>
+      <button type="submit">Show results</button>
+    </form>
+
+    <p id="status" aria-live="polite"></p>
+
+    <div class="table-wrap">
+      <table id="results" hidden>
+        <thead>
+          <tr>
+            <th>Horse</th><th>Championship</th><th>Result</th><th>Event</th>
+            <th>Start</th><th>End</th><th>Source</th><th>Videos</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </main>
+
+  <script>
+    const form = document.getElementById('search');
+    const statusEl = document.getElementById('status');
+    const table = document.getElementById('results');
+    const tbody = table.querySelector('tbody');
+    const eventSel = document.getElementById('event');
+
+    function esc(s) {
+      return String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    }
+    function link(url, text) {
+      return url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(text)}</a>` : esc(text);
+    }
+
+    fetch('/api/events').then(r => r.json()).then(events => {
+      if (!Array.isArray(events)) return;
+      for (const e of events) {
+        const opt = document.createElement('option');
+        opt.value = e.url;
+        opt.textContent = e.start_date ? `${e.name} (${e.start_date})` : e.name;
+        eventSel.appendChild(opt);
+      }
+    }).catch(() => {});
+
+    form.addEventListener('submit', async ev => {
+      ev.preventDefault();
+      const data = new FormData(form);
+      const params = new URLSearchParams({ medal: data.get('medal') });
+      if (data.get('event')) params.set('event', data.get('event'));
+      statusEl.textContent = 'Fetching results from arabianessence.tv… this can take a minute the first time.';
+      table.hidden = true;
+      tbody.innerHTML = '';
+      try {
+        const res = await fetch('/api/results?' + params);
+        const rows = await res.json();
+        if (!res.ok) throw new Error(rows.error || res.statusText);
+        if (!rows.length) { statusEl.textContent = 'No results found for that medal.'; return; }
+        for (const r of rows) {
+          const vids = (r.videos || []).map((v, i) => link(v, `Video ${i + 1}`)).join('<br>') || '—';
+          tbody.insertAdjacentHTML('beforeend', `<tr>
+            <td>${link(r.horse_url, r.horse_name)}</td>
+            <td>${link(r.championship_url, r.championship)}</td>
+            <td><span class="pill ${esc(r.medal)}">${esc(r.result)}</span></td>
+            <td>${link(r.event_url, r.event_name)}${r.location ? '<br><small>' + esc(r.location) + '</small>' : ''}</td>
+            <td>${esc(r.start_date) || '—'}</td>
+            <td>${esc(r.end_date) || '—'}</td>
+            <td>${link(r.source, 'Source')}</td>
+            <td>${vids}</td>
+          </tr>`);
+        }
+        statusEl.textContent = `${rows.length} result${rows.length === 1 ? '' : 's'}.`;
+        table.hidden = false;
+      } catch (err) {
+        statusEl.textContent = 'Could not load results: ' + err.message;
+      }
+    });
+  </script>
+</body>
+</html>
