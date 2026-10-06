@@ -68,7 +68,7 @@
 
     fetch('/api/events').then(r => r.json()).then(data => {
       if (data.updated_at) document.getElementById('updated').textContent =
-        ' (last check ' + new Date(data.updated_at).toLocaleString() + ')';
+        ' (last update ' + new Date(data.updated_at).toLocaleString() + ')';
       for (const e of data.events || []) {
         const opt = document.createElement('option');
         opt.value = e.event_id;

@@ -133,6 +133,7 @@ def main(argv: list[str]) -> int:
     due = events_to_check(store, years)
     print(f"Checking {len(due)} event(s) for years {years}")
     new_changes = []
+    dirty = False
     for ev in due:
         try:
             event, results = scraper.event_results(ev.url)
@@ -152,9 +153,17 @@ def main(argv: list[str]) -> int:
         recent = (date.today() - timedelta(days=RECHECK_DAYS)).isoformat()
         if not first_run and (event.event_id in store["events"] or ev.start_date >= recent):
             new_changes.extend(found)
-        store["events"][event.event_id] = {**asdict(event), "checked_at": checked_at,
-                                           "results": rows}
+        entry = {**asdict(event), "results": rows}
+        if {k: v for k, v in saved.items() if k != "checked_at"} != entry:
+            dirty = True
+            store["events"][event.event_id] = {**entry, "checked_at": checked_at}
         print(f"  {event.name}: {len(rows)} results, {len(found)} new/changed")
+
+    if not dirty and RESULTS_FILE.exists():
+        # Leave the files alone so the hourly job only commits (and Render only
+        # redeploys) when the results really changed.
+        print("No changes; data files left as they are")
+        return _report([])
 
     changes = (changes + new_changes)[-MAX_CHANGES_KEPT:]
     store["updated_at"] = _now()
@@ -170,6 +179,10 @@ def main(argv: list[str]) -> int:
     write_excel(all_results, changes)
 
     print(f"{len(new_changes)} new or changed result(s); {len(all_results)} saved in total")
+    return _report(new_changes)
+
+
+def _report(new_changes: list[dict]) -> int:
     summary = os.environ.get("GITHUB_STEP_SUMMARY")
     if summary:
         with open(summary, "a", encoding="utf-8") as fh:
