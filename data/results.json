@@ -26927,12 +26927,337 @@
    "url": "https://www.arabianessence.tv/events/eahgc-usa-2026/1089/"
   },
   "1090": {
-   "checked_at": "2026-10-06T09:28:54+00:00",
-   "end_date": "2026-10-08",
+   "checked_at": "2026-10-07T11:27:23+00:00",
+   "end_date": "2026-10-07",
    "event_id": "1090",
    "location": "Shanghai - China",
    "name": "EAHGC China 2026",
-   "results": [],
+   "results": [
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "NA DI LA",
+     "horse_number": "19",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/na-di-la/97305/",
+     "location": "Shanghai - China",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104803"
+     ]
+    },
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "NANSHAN LIUYING",
+     "horse_number": "4",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/nanshan-liuying/111164/",
+     "location": "Shanghai - China",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104803"
+     ]
+    },
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "JUEDAI FENGHUA",
+     "horse_number": "18",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/juedai-fenghua/97307/",
+     "location": "Shanghai - China",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104803"
+     ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "SA BU LI NA",
+     "horse_number": "22",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/sa-bu-li-na/95374/",
+     "location": "Shanghai - China",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104811"
+     ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "AI MI LI",
+     "horse_number": "32",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/ai-mi-li/92390/",
+     "location": "Shanghai - China",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104811"
+     ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "BAN ZHAO DYNASTY",
+     "horse_number": "24",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/ban-zhao-dynasty/92383/",
+     "location": "Shanghai - China",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104811"
+     ]
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "XI WA NA",
+     "horse_number": "42",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/xi-wa-na/69165/",
+     "location": "Shanghai - China",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104812"
+     ]
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "RAYANA WJ",
+     "horse_number": "43",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/rayana-wj/109176/",
+     "location": "Shanghai - China",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104812"
+     ]
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "RAYA AL KHOR",
+     "horse_number": "41",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/raya-al-khor/74522/",
+     "location": "Shanghai - China",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104812"
+     ]
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "A LEI LI YA",
+     "horse_number": "58",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/a-lei-li-ya/109155/",
+     "location": "Shanghai - China",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104813"
+     ]
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "MAN SU ER",
+     "horse_number": "50",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/man-su-er/111183/",
+     "location": "Shanghai - China",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104813"
+     ]
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "PAN AN",
+     "horse_number": "51",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/pan-an/109145/",
+     "location": "Shanghai - China",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104813"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "XIN XIANG SHI CHENG",
+     "horse_number": "62",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/xin-xiang-shi-cheng/111189/",
+     "location": "Shanghai - China",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104810"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "KE LI SI TING",
+     "horse_number": "63",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/ke-li-si-ting/95425/",
+     "location": "Shanghai - China",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104810"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "KAI LEI SI",
+     "horse_number": "68",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/kai-lei-si/92466/",
+     "location": "Shanghai - China",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104810"
+     ]
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "AJ SABRAN",
+     "horse_number": "77",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/aj-sabran/97375/",
+     "location": "Shanghai - China",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104814"
+     ]
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "SINMAR AL BIDAYER",
+     "horse_number": "80",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/sinmar-al-bidayer/99485/",
+     "location": "Shanghai - China",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104814"
+     ]
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-10-07",
+     "event_id": "1090",
+     "event_name": "EAHGC China 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "horse_name": "FA ZHA YI",
+     "horse_number": "73",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/horses/fa-zha-yi/69213/",
+     "location": "Shanghai - China",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
+     "start_date": "2026-10-06",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104814"
+     ]
+    }
+   ],
    "start_date": "2026-10-06",
    "url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/"
   },
@@ -112042,5 +112367,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-06T09:29:07+00:00"
+ "updated_at": "2026-10-07T11:27:41+00:00"
 }
