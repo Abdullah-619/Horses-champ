@@ -1,0 +1,26 @@
+{
+ "checked": 783,
+ "ok": 781,
+ "failed": [],
+ "missing": [
+  {
+   "horse_id": "25263",
+   "horse": "KHALEESI",
+   "medal": "bronze",
+   "event_id": "477",
+   "event_name": "Egyptian Event Europe - Bergamo 2022",
+   "championship": "Mares Championship (Class MC)",
+   "url": "https://www.arabianessence.tv/events/egyptian-event-europe-bergamo-2022/477/mares-championship-class-mc/10881/#competition10881",
+   "event_saved": true
+  }
+ ],
+ "extra": [
+  {
+   "horse_id": "85962",
+   "horse": "QD MAYA",
+   "event_id": "1044",
+   "medal": "bronze",
+   "count": 1
+  }
+ ]
+}
