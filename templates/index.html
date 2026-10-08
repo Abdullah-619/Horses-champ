@@ -105,7 +105,8 @@
       if (data.get('q').trim()) params.set('q', data.get('q'));
       statusEl.textContent = 'Loading…';
       try {
-        const res = await fetch('/api/results?' + params);
+        // POST, so a long list of names never makes the address too long.
+        const res = await fetch('/api/results', { method: 'POST', body: params });
         const body = await res.json();
         if (!res.ok) throw new Error(body.error || res.statusText);
         show(body, medal);
