@@ -45489,12 +45489,28 @@
    "url": "https://www.arabianessence.tv/events/kahbs-2024/727/"
   },
   "729": {
-   "checked_at": "2026-10-06T08:19:13+00:00",
+   "checked_at": "2026-10-08T04:49:09+00:00",
    "end_date": "2024-01-27",
    "event_id": "729",
    "location": "King Abdulaziz Arabian Horses Center at Dirab",
    "name": "PSAIAHF 2024",
    "results": [
+    {
+     "championship": "Platinum Prize",
+     "end_date": "2024-01-27",
+     "event_id": "729",
+     "event_name": "PSAIAHF 2024",
+     "event_url": "https://www.arabianessence.tv/events/psaiahf-2024/729/",
+     "horse_name": "SUNDOWN KA",
+     "horse_number": "212",
+     "horse_url": "https://www.arabianessence.tv/events/psaiahf-2024/729/horses/sundown-ka/10307/",
+     "location": "King Abdulaziz Arabian Horses Center at Dirab",
+     "medal": "platinum",
+     "result": "Platinum Champion",
+     "source": "https://www.arabianessence.tv/events/psaiahf-2024/729/awards/platinum-prize/16011/",
+     "start_date": "2024-01-25",
+     "videos": []
+    },
     {
      "championship": "KSA Desert Bred – Fillies (Class 13)",
      "end_date": "2024-01-27",
@@ -112377,5 +112393,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-08T04:39:41+00:00"
+ "updated_at": "2026-10-08T04:49:22+00:00"
 }
