@@ -7,6 +7,7 @@ changed in data/changes.json.
 
     python update_results.py                # current year (normal hourly run)
     python update_results.py 2023 2024      # also load older years
+    python update_results.py --repair report/   # add wins a horse check found missing
     RECHECK_DAYS=100000 python update_results.py   # re-read every saved event
 """
 
@@ -73,6 +74,24 @@ def events_to_check(store: dict, years: list[int]) -> list[scraper.Event]:
     return sorted(due, key=lambda e: e.start_date, reverse=True)
 
 
+def events_to_repair(store: dict, report_dir: Path) -> list[scraper.Event]:
+    """Saved events where a horse check (verify_horses.py) found wins we don't
+    have. The class pages it names are remembered and read on every re-check."""
+    due: dict[str, scraper.Event] = {}
+    for path in sorted(report_dir.glob("*.json")):
+        for miss in json.loads(path.read_text(encoding="utf-8"))["missing"]:
+            saved = store["events"].get(miss["event_id"])
+            if not saved or not miss.get("url"):
+                continue
+            ev = due.setdefault(miss["event_id"], scraper.Event(
+                event_id=saved["event_id"], name=saved["name"], url=saved["url"],
+                start_date=saved["start_date"], end_date=saved["end_date"],
+                location=saved["location"]))
+            ev.extra_classes = sorted(set(getattr(ev, "extra_classes", [])) | {miss["url"].split("#")[0]})
+    print(f"Repairing {len(due)} event(s) from {report_dir}")
+    return list(due.values())
+
+
 def diff(old: list[dict], new: list[dict], checked_at: str) -> list[dict]:
     def key(r):
         return f"{r['championship']}|{r['medal']}"
@@ -134,13 +153,19 @@ def main(argv: list[str]) -> int:
     if date.today().month == 1:
         years.append(this_year - 1)
 
-    due = events_to_check(store, years)
+    repairing = "--repair" in argv
+    if repairing:
+        due = events_to_repair(store, Path(argv[argv.index("--repair") + 1]))
+    else:
+        due = events_to_check(store, years)
     print(f"Checking {len(due)} event(s) for years {years}")
     new_changes = []
     dirty = False
     for ev in due:
         try:
-            event, results = scraper.event_results(ev.url)
+            saved_extra = store["events"].get(ev.event_id, {}).get("extra_classes", [])
+            extra = sorted(set(saved_extra) | set(getattr(ev, "extra_classes", [])))
+            event, results = scraper.event_results(ev.url, extra)
         except Exception as exc:  # keep going if one event page fails
             print(f"  ! {ev.name}: {exc}")
             continue
@@ -156,9 +181,11 @@ def main(argv: list[str]) -> int:
         # appeared), not whole old events loaded or re-read in bulk.
         recent = (date.today() - timedelta(days=REPORT_DAYS)).isoformat()
         late = event.event_id in store["events"] and not saved["results"]
-        if REPORT_CHANGES and not first_run and (ev.start_date >= recent or late):
+        if REPORT_CHANGES and not repairing and not first_run and (ev.start_date >= recent or late):
             new_changes.extend(found)
         entry = {**asdict(event), "results": rows}
+        if extra:
+            entry["extra_classes"] = extra
         if {k: v for k, v in saved.items() if k != "checked_at"} != entry:
             dirty = True
             store["events"][event.event_id] = {**entry, "checked_at": checked_at}

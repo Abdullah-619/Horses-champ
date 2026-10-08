@@ -236,46 +236,65 @@ def _championship_classes(soup: BeautifulSoup) -> list[tuple[str, str]]:
     return classes
 
 
-def _class_page_results(soup: BeautifulSoup, event: Event, covered: set[str]) -> list[Result]:
-    """Championship classes missing from the Championships section, read from
-    each class's own page."""
-    videos = _competition_videos(soup)
+def class_results(event: Event, cid: str, name: str, source: str,
+                  videos: list[str]) -> list[Result]:
+    """GOLD / SILVER / BRONZE rows on one class's own page."""
+    page = _get(source)
+    opened = page.select_one(f"#competition{cid}")
+    if not opened:
+        return []
     results = []
-    for cid, name in _championship_classes(soup):
-        if cid in covered:
+    for row in opened.select(".results-rows"):
+        label = row.select_one("h4")
+        link = row.select_one(".horse-name a[href]")
+        medal = _clean(label.get_text()).lower() if label else ""
+        if medal not in MEDALS or not link:
             continue
-        source = f"{event.url.rstrip('/')}/{_slug(name)}/{cid}/"
-        page = _get(source)
-        opened = page.select_one(f"#competition{cid}")
-        if not opened:
-            continue
-        for row in opened.select(".results-rows"):
-            label = row.select_one("h4")
-            link = row.select_one(".horse-name a[href]")
-            medal = _clean(label.get_text()).lower() if label else ""
-            if medal not in MEDALS or not link:
-                continue
-            num = row.select_one(".horse-name strong")
-            results.append(Result(
-                medal=medal,
-                result=f"{medal.title()} Champion",
-                horse_name=_clean(link.get_text()),
-                horse_number=_clean(num.get_text()) if num else "",
-                horse_url=urljoin(BASE_URL, link["href"]),
-                championship=name,
-                event_id=event.event_id,
-                event_name=event.name,
-                event_url=event.url,
-                start_date=event.start_date,
-                end_date=event.end_date,
-                location=event.location,
-                source=source,
-                videos=videos.get(cid, []),
-            ))
+        num = row.select_one(".horse-name strong")
+        results.append(Result(
+            medal=medal,
+            result=f"{medal.title()} Champion",
+            horse_name=_clean(link.get_text()),
+            horse_number=_clean(num.get_text()) if num else "",
+            horse_url=urljoin(BASE_URL, link["href"]),
+            championship=name,
+            event_id=event.event_id,
+            event_name=event.name,
+            event_url=event.url,
+            start_date=event.start_date,
+            end_date=event.end_date,
+            location=event.location,
+            source=source,
+            videos=videos,
+        ))
     return results
 
 
-def event_results(url: str) -> tuple[Event, list[Result]]:
+def _class_page_results(soup: BeautifulSoup, event: Event, covered: set[str],
+                        extra_classes: list[str]) -> list[Result]:
+    """Championship classes missing from the Championships section, plus any
+    other classes known to award medals (extra_classes), read from each class's
+    own page."""
+    videos = _competition_videos(soup)
+    names = {}
+    for panel in soup.select('[id^="panel-competition"]'):
+        name_el = panel.select_one(".feature-name")
+        if name_el:
+            names[panel["id"].removeprefix("panel-competition")] = _clean(name_el.get_text())
+    todo = {cid: (name, f"{event.url.rstrip('/')}/{_slug(name)}/{cid}/")
+            for cid, name in _championship_classes(soup) if cid not in covered}
+    for url in extra_classes:  # read even if covered: the summary box may be incomplete
+        url = url.split("#")[0]
+        m = re.search(r"/(\d+)/?$", url)
+        if m and names.get(m.group(1)):
+            todo.setdefault(m.group(1), (names[m.group(1)], urljoin(BASE_URL, url)))
+    results = []
+    for cid, (name, source) in todo.items():
+        results += class_results(event, cid, name, source, videos.get(cid, []))
+    return results
+
+
+def event_results(url: str, extra_classes: list[str] = ()) -> tuple[Event, list[Result]]:
     soup = _get(url)
     event = _event_info(soup, url)
     videos = _competition_videos(soup)
@@ -289,7 +308,7 @@ def event_results(url: str) -> tuple[Event, list[Result]]:
         card = box.select_one('[id^="judges-card"]')
         cid = card["id"].removeprefix("judges-card") if card else ""
         cid = cid or class_ids.get(_slug(championship), "")  # some boxes have no judges card
-        covered.add(cid)
+        before = len(results)
         for row in box.select(".content .row.res"):
             label = row.select_one(".gold, .silver, .bronze")
             link = row.select_one("a[href]")
@@ -316,7 +335,10 @@ def event_results(url: str) -> tuple[Event, list[Result]]:
                 source=event.url,
                 videos=videos.get(cid, []),
             ))
-    found = _platinum_results(soup, event) + results + _class_page_results(soup, event, covered)
+        if len(results) > before:  # an empty box doesn't count; read the class page instead
+            covered.add(cid)
+    found = (_platinum_results(soup, event) + results
+             + _class_page_results(soup, event, covered, list(extra_classes)))
     unique, seen = [], set()
     for r in found:
         key = (_slug(r.championship), r.medal, r.horse_url)
