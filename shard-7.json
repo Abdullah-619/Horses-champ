@@ -1,0 +1,26 @@
+{
+ "checked": 783,
+ "ok": 781,
+ "failed": [],
+ "missing": [
+  {
+   "horse_id": "109582",
+   "horse": "NAJEM F.K",
+   "medal": "silver",
+   "event_id": "1141",
+   "event_name": "Middle East Championships 2026",
+   "championship": "Junior Colts Championship (Class JCC)",
+   "url": "https://www.arabianessence.tv/events/middle-east-championships-2026/1141/junior-colts-championship-class-jcc/25093/#competition25093",
+   "event_saved": true
+  }
+ ],
+ "extra": [
+  {
+   "horse_id": "108341",
+   "horse": "WEBISTA",
+   "event_id": "1119",
+   "medal": "silver",
+   "count": 1
+  }
+ ]
+}
