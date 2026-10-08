@@ -1,5 +1,6 @@
 import json
 import os
+import re
 from pathlib import Path
 
 from flask import Flask, abort, jsonify, render_template, request, send_file
@@ -36,20 +37,26 @@ def api_events():
 @app.get("/api/results")
 def api_results():
     medal = request.args.get("medal", "gold").lower()
-    if medal not in MEDALS:
-        return jsonify(error=f"medal must be one of {', '.join(MEDALS)}"), 400
+    if medal != "all" and medal not in MEDALS:
+        return jsonify(error=f"medal must be all or one of {', '.join(MEDALS)}"), 400
     event_id = request.args.get("event", "")
-    query = request.args.get("q", "").strip().lower()
+    # Several names can be searched at once, separated by commas or new lines.
+    terms = list(dict.fromkeys(t.strip().lower() for t in re.split(r"[,;\n]+", request.args.get("q", ""))
+                               if t.strip()))
     store = load_store()
     events = store["events"].values()
     if event_id:
         events = [e for e in events if e["event_id"] == event_id]
-    rows = [r for e in events for r in e["results"] if r["medal"] == medal]
-    if query:
-        rows = [r for r in rows if query in r["horse_name"].lower()
-                or query in r["championship"].lower() or query in r["event_name"].lower()]
+    rows = [r for e in events for r in e["results"] if medal == "all" or r["medal"] == medal]
+    not_found = []
+    if terms:
+        def matches(r, t):
+            return t in r["horse_name"].lower() or t in r["championship"].lower() \
+                or t in r["event_name"].lower()
+        not_found = [t for t in terms if not any(matches(r, t) for r in rows)]
+        rows = [r for r in rows if any(matches(r, t) for t in terms)]
     rows.sort(key=lambda r: (r["start_date"], r["event_id"]), reverse=True)
-    return jsonify(updated_at=store["updated_at"], results=rows)
+    return jsonify(updated_at=store["updated_at"], results=rows, not_found=not_found)
 
 
 @app.get("/api/changes")

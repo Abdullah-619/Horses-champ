@@ -3,7 +3,8 @@
 A small web app that reads championship results from
 [arabianessence.tv](https://www.arabianessence.tv/) and lists them by medal.
 
-Pick **Platinum**, **Gold**, **Silver** or **Bronze** (and optionally one event) and the app shows,
+Pick **Platinum**, **Gold**, **Silver**, **Bronze** or **All medals** (and optionally one event,
+or a list of horse names separated by commas or new lines) and the app shows,
 for every matching horse: horse name, championship, result, event, start date,
 end date, source page and any videos.
 
@@ -53,6 +54,7 @@ To refresh the data on your own computer: `python update_results.py`.
 ## API
 
 - `GET /api/events` lists events that have results.
-- `GET /api/results?medal=gold[&event=<event id>][&q=<text>]` returns results.
+- `GET /api/results?medal=gold[&event=<event id>][&q=<text>]` returns results. `medal=all`
+  returns every medal, and `q` can hold several names separated by commas or new lines.
 - `GET /api/changes` lists the latest new or changed wins.
 - `GET /download/results.xlsx` downloads the Excel sheet.
