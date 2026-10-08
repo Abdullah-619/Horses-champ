@@ -225,19 +225,24 @@ def _platinum_results(soup: BeautifulSoup, event: Event) -> list[Result]:
     return results
 
 
+def _championship_classes(soup: BeautifulSoup) -> list[tuple[str, str]]:
+    """(class id, name) of each championship class in the event's programme."""
+    classes = []
+    for body in soup.select(".competition-championship"):
+        panel = body.find_parent(id=re.compile(r"^panel-competition\d+$"))
+        name_el = panel.select_one(".feature-name") if panel else None
+        if name_el and _clean(name_el.get_text()):
+            classes.append((panel["id"].removeprefix("panel-competition"), _clean(name_el.get_text())))
+    return classes
+
+
 def _class_page_results(soup: BeautifulSoup, event: Event, covered: set[str]) -> list[Result]:
     """Championship classes missing from the Championships section, read from
     each class's own page."""
     videos = _competition_videos(soup)
     results = []
-    for body in soup.select(".competition-championship"):
-        panel = body.find_parent(id=re.compile(r"^panel-competition\d+$"))
-        if not panel:
-            continue
-        cid = panel["id"].removeprefix("panel-competition")
-        name_el = panel.select_one(".feature-name")
-        name = _clean(name_el.get_text()) if name_el else ""
-        if cid in covered or not name:
+    for cid, name in _championship_classes(soup):
+        if cid in covered:
             continue
         source = f"{event.url.rstrip('/')}/{_slug(name)}/{cid}/"
         page = _get(source)
@@ -276,12 +281,14 @@ def event_results(url: str) -> tuple[Event, list[Result]]:
     videos = _competition_videos(soup)
     results = []
     covered: set[str] = set()
+    class_ids = {_slug(name): cid for cid, name in _championship_classes(soup)}
     section = soup.select_one("#championship") or soup
     for box in section.select(".result-box"):
         heading = box.select_one(".header h4")
         championship = _clean(heading.get_text()) if heading else ""
         card = box.select_one('[id^="judges-card"]')
         cid = card["id"].removeprefix("judges-card") if card else ""
+        cid = cid or class_ids.get(_slug(championship), "")  # some boxes have no judges card
         covered.add(cid)
         for row in box.select(".content .row.res"):
             label = row.select_one(".gold, .silver, .bronze")
@@ -309,7 +316,14 @@ def event_results(url: str) -> tuple[Event, list[Result]]:
                 source=event.url,
                 videos=videos.get(cid, []),
             ))
-    return event, _platinum_results(soup, event) + results + _class_page_results(soup, event, covered)
+    found = _platinum_results(soup, event) + results + _class_page_results(soup, event, covered)
+    unique, seen = [], set()
+    for r in found:
+        key = (_slug(r.championship), r.medal, r.horse_url)
+        if key not in seen:
+            seen.add(key)
+            unique.append(r)
+    return event, unique
 
 
 if __name__ == "__main__":
