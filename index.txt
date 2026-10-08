@@ -1,0 +1,5 @@
+p1.html 200 /horses/spartacus-to/1282/
+p2.html 200 /horses/e-s-sarab/2322/
+p3.html 200 /horses/d-jubran/21296/
+p4.html 200 /events/palestine-international-ah-show-2025/1022/stallions-5-years-old-2020-class-32/22458/
+p5.html 200 /events/palestine-international-ah-show-2025/1022/
