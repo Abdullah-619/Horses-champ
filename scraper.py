@@ -7,6 +7,10 @@ Site layout:
                                         (#championship) has one .result-box per
                                         championship with GOLD / SILVER / BRONZE rows,
                                         and the schedule has a video link per class.
+                                        Its "Awards" section (#awards-wrap) lists
+                                        titles such as "Mares Platinum Championship".
+  /events/<slug>/<id>/awards/<award-slug>/<award-id>/
+                                        one award, opened, with its placings.
 """
 
 from __future__ import annotations
@@ -27,7 +31,7 @@ USER_AGENT = (
     "(KHTML, like Gecko) Chrome/128.0 Safari/537.36"
 )
 REQUEST_DELAY = 0.5
-MEDALS = ("gold", "silver", "bronze")
+MEDALS = ("platinum", "gold", "silver", "bronze")
 
 EVENT_RE = re.compile(r"/events/[^/]+/(\d+)/?$")
 
@@ -174,6 +178,49 @@ def _competition_videos(soup: BeautifulSoup) -> dict[str, list[str]]:
     return videos
 
 
+def _slug(text: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
+
+
+def _platinum_results(soup: BeautifulSoup, event: Event) -> list[Result]:
+    """Winners of the event's Platinum awards (only some shows have them)."""
+    results = []
+    for head in soup.select("#awards-wrap .awards-rows[data-award]"):
+        award_id = head["data-award"]
+        name_el = head.select_one(".feature-name")
+        name = _clean(name_el.get_text()) if name_el else ""
+        if not award_id.isdigit() or "platinum" not in name.lower():
+            continue
+        videos = [urljoin(BASE_URL, b["data-href"]) for b in head.select("[data-href]")]
+        page = _get(f"{event.url.rstrip('/')}/awards/{_slug(name)}/{award_id}/")
+        panel = page.select_one(f"#award{award_id}")
+        if not panel:
+            continue
+        for row in panel.select(".results-rows"):
+            place = row.select_one("h4")
+            link = row.select_one(".horse-name a[href]")
+            if not place or not link or not _clean(place.get_text()).startswith("1"):
+                continue
+            num = row.select_one(".horse-name strong")
+            results.append(Result(
+                medal="platinum",
+                result="Platinum Champion",
+                horse_name=_clean(link.get_text()),
+                horse_number=_clean(num.get_text()) if num else "",
+                horse_url=urljoin(BASE_URL, link["href"]),
+                championship=name,
+                event_id=event.event_id,
+                event_name=event.name,
+                event_url=event.url,
+                start_date=event.start_date,
+                end_date=event.end_date,
+                location=event.location,
+                source=f"{event.url.rstrip('/')}/awards/{_slug(name)}/{award_id}/",
+                videos=videos,
+            ))
+    return results
+
+
 def event_results(url: str) -> tuple[Event, list[Result]]:
     soup = _get(url)
     event = _event_info(soup, url)
@@ -211,7 +258,7 @@ def event_results(url: str) -> tuple[Event, list[Result]]:
                 source=event.url,
                 videos=videos.get(cid, []),
             ))
-    return event, results
+    return event, _platinum_results(soup, event) + results
 
 
 if __name__ == "__main__":

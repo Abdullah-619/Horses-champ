@@ -8,6 +8,10 @@ on:
         description: Extra years to load, e.g. "2024 2025" (optional)
         required: false
         default: ""
+      recheck_all:
+        description: Re-read every saved event (e.g. after the scraper learns something new)
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -28,6 +32,7 @@ jobs:
         id: update
         env:
           YEARS: ${{ inputs.years }}
+          RECHECK_DAYS: ${{ inputs.recheck_all && '100000' || '14' }}
         run: python update_results.py $YEARS
       - name: Save changes
         run: |

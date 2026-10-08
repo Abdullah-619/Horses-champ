@@ -7,6 +7,7 @@ changed in data/changes.json.
 
     python update_results.py                # current year (normal hourly run)
     python update_results.py 2023 2024      # also load older years
+    RECHECK_DAYS=100000 python update_results.py   # re-read every saved event
 """
 
 from __future__ import annotations
@@ -28,6 +29,7 @@ RESULTS_FILE = DATA_DIR / "results.json"
 CHANGES_FILE = DATA_DIR / "changes.json"
 EXCEL_FILE = DATA_DIR / "results.xlsx"
 RECHECK_DAYS = int(os.environ.get("RECHECK_DAYS", 14))
+REPORT_DAYS = 14
 MAX_CHANGES_KEPT = 1000
 
 COLUMNS = [
@@ -36,7 +38,7 @@ COLUMNS = [
     ("End date", "end_date"), ("Location", "location"), ("Horse page", "horse_url"),
     ("Source", "source"), ("Videos", "videos"),
 ]
-MEDAL_FILL = {"gold": "F4E3A1", "silver": "E1E4E8", "bronze": "EBCBAE"}
+MEDAL_FILL = {"platinum": "D9E4EC", "gold": "F4E3A1", "silver": "E1E4E8", "bronze": "EBCBAE"}
 
 
 def _load(path: Path, default):
@@ -148,10 +150,11 @@ def main(argv: list[str]) -> int:
         rows = [asdict(r) for r in results]
         saved = store["events"].get(event.event_id, {"results": []})
         found = diff(saved["results"], rows, checked_at)
-        # Report wins from recent events (and changes to ones already saved), not
-        # whole old events loaded for the first time.
-        recent = (date.today() - timedelta(days=RECHECK_DAYS)).isoformat()
-        if not first_run and (event.event_id in store["events"] or ev.start_date >= recent):
+        # Report wins from recent events (and old events whose results only just
+        # appeared), not whole old events loaded or re-read in bulk.
+        recent = (date.today() - timedelta(days=REPORT_DAYS)).isoformat()
+        late = event.event_id in store["events"] and not saved["results"]
+        if not first_run and (ev.start_date >= recent or late):
             new_changes.extend(found)
         entry = {**asdict(event), "results": rows}
         if {k: v for k, v in saved.items() if k != "checked_at"} != entry:

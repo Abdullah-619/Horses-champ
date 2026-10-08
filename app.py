@@ -5,7 +5,7 @@ from pathlib import Path
 from flask import Flask, abort, jsonify, render_template, request, send_file
 
 DATA_DIR = Path(__file__).parent / "data"
-MEDALS = ("gold", "silver", "bronze")
+MEDALS = ("platinum", "gold", "silver", "bronze")
 
 app = Flask(__name__)
 

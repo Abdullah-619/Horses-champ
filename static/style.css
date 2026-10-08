@@ -1,6 +1,6 @@
 :root {
   --bg: #faf8f4; --fg: #1f1b16; --muted: #6b6258; --card: #fff; --line: #e6e0d6;
-  --accent: #7a4b1e; --gold: #c9a227; --silver: #9aa3ab; --bronze: #b0703a;
+  --accent: #7a4b1e; --platinum: #8fa9bb; --gold: #c9a227; --silver: #9aa3ab; --bronze: #b0703a;
 }
 @media (prefers-color-scheme: dark) {
   :root { --bg: #16130f; --fg: #f2ede6; --muted: #a89e92; --card: #201c17; --line: #3a332b; --accent: #e0a868; }
@@ -12,8 +12,9 @@ h1 { margin: 16px 0 0; font-size: 1.6rem; }
 .sub { margin: 4px 0 0; color: var(--muted); }
 a { color: var(--accent); }
 form { display: flex; flex-wrap: wrap; gap: 12px; align-items: end; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 16px; }
-.medals { display: flex; gap: 8px; }
+.medals { display: flex; flex-wrap: wrap; gap: 8px; }
 .medal { display: flex; gap: 6px; align-items: center; padding: 8px 14px; border-radius: 999px; border: 2px solid var(--line); cursor: pointer; font-weight: 600; }
+.medal.platinum:has(input:checked) { border-color: var(--platinum); }
 .medal.gold:has(input:checked) { border-color: var(--gold); }
 .medal.silver:has(input:checked) { border-color: var(--silver); }
 .medal.bronze:has(input:checked) { border-color: var(--bronze); }
@@ -26,7 +27,7 @@ table { width: 100%; border-collapse: collapse; background: var(--card); border:
 th, td { padding: 10px; text-align: left; border-bottom: 1px solid var(--line); vertical-align: top; }
 th { font-size: .85rem; color: var(--muted); }
 .pill { display: inline-block; padding: 2px 10px; border-radius: 999px; color: #fff; font-size: .85rem; white-space: nowrap; }
-.pill.gold { background: var(--gold); } .pill.silver { background: var(--silver); } .pill.bronze { background: var(--bronze); }
+.pill.platinum { background: var(--platinum); } .pill.gold { background: var(--gold); } .pill.silver { background: var(--silver); } .pill.bronze { background: var(--bronze); }
 details { margin: 0 0 16px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 10px 16px; }
 summary { cursor: pointer; font-weight: 600; }
 #changes { margin: 8px 0 0; padding-left: 18px; }
