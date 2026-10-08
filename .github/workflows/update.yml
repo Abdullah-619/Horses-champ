@@ -20,7 +20,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -33,6 +33,7 @@ jobs:
         env:
           YEARS: ${{ inputs.years }}
           RECHECK_DAYS: ${{ inputs.recheck_all && '100000' || '14' }}
+          REPORT_CHANGES: ${{ inputs.recheck_all && '0' || '1' }}
         run: python update_results.py $YEARS
       - name: Save changes
         run: |

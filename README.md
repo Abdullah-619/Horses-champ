@@ -3,9 +3,10 @@
 A small web app that reads championship results from
 [arabianessence.tv](https://www.arabianessence.tv/) and lists them by medal.
 
-Pick **Platinum**, **Gold**, **Silver**, **Bronze** or **All medals** (and optionally one event,
-or a list of horse names separated by commas or new lines) and the app shows,
-for every matching horse: horse name, championship, result, event, start date,
+Type one or more horse names (one per line, or separated by commas), optionally pick
+an event, and the app shows every Platinum, Gold, Silver and Bronze win together, with a
+total per horse and a button per medal to narrow the list. For each win it shows the
+horse name, championship, result, event, start date,
 end date, source page and any videos.
 
 ## Run it on your computer (VS Code)
@@ -23,7 +24,8 @@ Open http://localhost:5000.
 
 A GitHub Actions job (`.github/workflows/update.yml`) runs every hour. It checks
 arabianessence.tv for events that have started, reads each event's
-Championships section (Gold / Silver / Bronze), the Platinum titles in its Awards section
+Championships section (Gold / Silver / Bronze; when an event leaves that section
+empty, each championship class page instead), the Platinum titles in its Awards section
 (only some shows, such as the World Championship, have them) and the class videos, and saves:
 
 - `data/results.json` with every result (the website reads this file)

@@ -16,23 +16,26 @@
 
   <main>
     <form id="search">
-      <div class="medals" role="radiogroup" aria-label="Medal">
-        <label class="medal platinum"><input type="radio" name="medal" value="platinum"> Platinum</label>
-        <label class="medal gold"><input type="radio" name="medal" value="gold" checked> Gold</label>
-        <label class="medal silver"><input type="radio" name="medal" value="silver"> Silver</label>
-        <label class="medal bronze"><input type="radio" name="medal" value="bronze"> Bronze</label>
-        <label class="medal all"><input type="radio" name="medal" value="all"> All medals</label>
-      </div>
+      <label class="field wide">Horse names
+        <textarea name="q" rows="3" placeholder="One horse per line, or separate them with commas. You can also search a championship or event name."></textarea>
+      </label>
       <label class="field">Event
         <select name="event" id="event">
           <option value="">All events</option>
         </select>
       </label>
-      <label class="field">Search
-        <textarea name="q" rows="2" placeholder="Horse, championship or event. For several horses, put one per line or separate them with commas."></textarea>
-      </label>
       <button type="submit">Show results</button>
     </form>
+
+    <div class="medals" role="radiogroup" aria-label="Medal">
+      <label class="medal all"><input type="radio" name="medal" value="all" checked> All medals <b data-count="all"></b></label>
+      <label class="medal platinum"><input type="radio" name="medal" value="platinum"> Platinum <b data-count="platinum"></b></label>
+      <label class="medal gold"><input type="radio" name="medal" value="gold"> Gold <b data-count="gold"></b></label>
+      <label class="medal silver"><input type="radio" name="medal" value="silver"> Silver <b data-count="silver"></b></label>
+      <label class="medal bronze"><input type="radio" name="medal" value="bronze"> Bronze <b data-count="bronze"></b></label>
+    </div>
+
+    <div id="horses" class="horses" hidden></div>
 
     <p id="status" aria-live="polite"></p>
 
@@ -45,7 +48,7 @@
       <table id="results" hidden>
         <thead>
           <tr>
-            <th>Horse</th><th>Championship</th><th>Result</th><th>Event</th>
+            <th>Horse</th><th>Result</th><th>Championship</th><th>Event</th>
             <th>Start</th><th>End</th><th>Source</th><th>Videos</th>
           </tr>
         </thead>
@@ -90,42 +93,73 @@
       document.getElementById('changes-box').hidden = false;
     }).catch(() => {});
 
-    form.addEventListener('submit', async ev => {
-      ev.preventDefault();
+    const MEDALS = ['platinum', 'gold', 'silver', 'bronze'];
+    const horsesEl = document.getElementById('horses');
+    const medalInputs = document.querySelectorAll('.medals input');
+
+    async function load() {
       const data = new FormData(form);
-      const params = new URLSearchParams({ medal: data.get('medal') });
+      const medal = document.querySelector('.medals input:checked').value;
+      const params = new URLSearchParams({ medal });
       if (data.get('event')) params.set('event', data.get('event'));
-      if (data.get('q')) params.set('q', data.get('q'));
+      if (data.get('q').trim()) params.set('q', data.get('q'));
       statusEl.textContent = 'Loading…';
-      table.hidden = true;
-      tbody.innerHTML = '';
       try {
         const res = await fetch('/api/results?' + params);
         const body = await res.json();
         if (!res.ok) throw new Error(body.error || res.statusText);
-        const rows = body.results;
-        const missing = (body.not_found || []).length ? ` Nothing found for: ${body.not_found.join(', ')}.` : '';
-        if (!rows.length) { statusEl.textContent = 'No results found for that medal.' + missing; return; }
-        for (const r of rows) {
-          const vids = (r.videos || []).map((v, i) => link(v, `Video ${i + 1}`)).join('<br>') || '—';
-          tbody.insertAdjacentHTML('beforeend', `<tr>
-            <td>${link(r.horse_url, r.horse_name)}${r.horse_number ? ' <small>#' + esc(r.horse_number) + '</small>' : ''}</td>
-            <td>${esc(r.championship)}</td>
-            <td><span class="pill ${esc(r.medal)}">${esc(r.result)}</span></td>
-            <td>${link(r.event_url, r.event_name)}${r.location ? '<br><small>' + esc(r.location) + '</small>' : ''}</td>
-            <td>${esc(r.start_date) || '—'}</td>
-            <td>${esc(r.end_date) || '—'}</td>
-            <td>${link(r.source, 'Source')}</td>
-            <td>${vids}</td>
-          </tr>`);
-        }
-        statusEl.textContent = `${rows.length} result${rows.length === 1 ? '' : 's'}.` + missing;
-        table.hidden = false;
+        show(body, medal);
       } catch (err) {
         statusEl.textContent = 'Could not load results: ' + err.message;
       }
+    }
+
+    function show(body, medal) {
+      const total = MEDALS.reduce((n, m) => n + body.counts[m], 0);
+      document.querySelector('[data-count="all"]').textContent = total;
+      for (const m of MEDALS) document.querySelector(`[data-count="${m}"]`).textContent = body.counts[m];
+
+      horsesEl.innerHTML = '';
+      for (const h of body.horses || []) {
+        const pills = MEDALS.filter(m => h[m]).map(m =>
+          `<span class="pill ${m}">${h[m]} ${m[0].toUpperCase() + m.slice(1)}</span>`).join(' ');
+        horsesEl.insertAdjacentHTML('beforeend',
+          `<div class="horse">${link(h.horse_url, h.horse_name)}<div>${pills}</div></div>`);
+      }
+      horsesEl.hidden = !horsesEl.children.length;
+
+      tbody.innerHTML = '';
+      for (const r of body.results) {
+        const vids = (r.videos || []).map((v, i) => link(v, `Video ${i + 1}`)).join('<br>') || '—';
+        tbody.insertAdjacentHTML('beforeend', `<tr>
+          <td>${link(r.horse_url, r.horse_name)}${r.horse_number ? ' <small>#' + esc(r.horse_number) + '</small>' : ''}</td>
+          <td><span class="pill ${esc(r.medal)}">${esc(r.result)}</span></td>
+          <td>${esc(r.championship)}</td>
+          <td>${link(r.event_url, r.event_name)}${r.location ? '<br><small>' + esc(r.location) + '</small>' : ''}</td>
+          <td>${esc(r.start_date) || '—'}</td>
+          <td>${esc(r.end_date) || '—'}</td>
+          <td>${link(r.source, 'Source')}</td>
+          <td>${vids}</td>
+        </tr>`);
+      }
+      table.hidden = !body.results.length;
+
+      const name = medal === 'all' ? '' : ' ' + medal[0].toUpperCase() + medal.slice(1);
+      let msg = body.total
+        ? `${body.total}${name} result${body.total === 1 ? '' : 's'}.`
+        : `No${name} results found.`;
+      if (body.results.length < body.total)
+        msg += ` Showing the latest ${body.results.length}; search for horses or pick an event to see the rest.`;
+      if ((body.not_found || []).length) msg += ` Nothing found for: ${body.not_found.join(', ')}.`;
+      statusEl.textContent = msg;
+    }
+
+    form.addEventListener('submit', ev => { ev.preventDefault(); load(); });
+    medalInputs.forEach(i => i.addEventListener('change', load));
+    form.querySelector('textarea').addEventListener('keydown', ev => {
+      if (ev.key === 'Enter' && (ev.ctrlKey || ev.metaKey)) { ev.preventDefault(); load(); }
     });
-    form.requestSubmit();
+    load();
   </script>
 </body>
 </html>

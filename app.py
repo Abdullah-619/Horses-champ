@@ -34,29 +34,59 @@ def api_events():
     return jsonify(updated_at=store["updated_at"], events=events)
 
 
+def _norm(text: str) -> str:
+    """Lower case without spaces or punctuation: "Seraj E.H" and "seraj eh" match."""
+    return re.sub(r"[^0-9a-z]+", "", text.lower())
+
+
+def _profile(horse_url: str) -> str:
+    """The horse's own page (all its shows) from an event's horse link."""
+    m = re.search(r"/horses/[^/]+/\d+/?$", horse_url)
+    return f"https://www.arabianessence.tv{m.group(0)}" if m else horse_url
+
+
 @app.get("/api/results")
 def api_results():
-    medal = request.args.get("medal", "gold").lower()
+    medal = request.args.get("medal", "all").lower()
     if medal != "all" and medal not in MEDALS:
         return jsonify(error=f"medal must be all or one of {', '.join(MEDALS)}"), 400
     event_id = request.args.get("event", "")
+    limit = min(int(request.args.get("limit", 1000) or 1000), 5000)
     # Several names can be searched at once, separated by commas or new lines.
-    terms = list(dict.fromkeys(t.strip().lower() for t in re.split(r"[,;\n]+", request.args.get("q", ""))
-                               if t.strip()))
+    raw = [t.strip() for t in re.split(r"[,;\n]+", request.args.get("q", "")) if _norm(t)]
+    raw = list({_norm(t): t for t in reversed(raw)}.values())[::-1]  # drop repeats, keep order
+    terms = [_norm(t) for t in raw]
     store = load_store()
     events = store["events"].values()
     if event_id:
         events = [e for e in events if e["event_id"] == event_id]
-    rows = [r for e in events for r in e["results"] if medal == "all" or r["medal"] == medal]
+    rows = [r for e in events for r in e["results"]]
+
     not_found = []
     if terms:
         def matches(r, t):
-            return t in r["horse_name"].lower() or t in r["championship"].lower() \
-                or t in r["event_name"].lower()
-        not_found = [t for t in terms if not any(matches(r, t) for r in rows)]
+            return t in _norm(r["horse_name"]) or t in _norm(r["championship"]) \
+                or t in _norm(r["event_name"])
+        not_found = [orig for orig, t in zip(raw, terms) if not any(matches(r, t) for r in rows)]
         rows = [r for r in rows if any(matches(r, t) for t in terms)]
+
+    counts = {m: 0 for m in MEDALS}
+    horses: dict[str, dict] = {}
+    for r in rows:
+        counts[r["medal"]] += 1
+        if terms and any(t in _norm(r["horse_name"]) for t in terms):
+            h = horses.setdefault(_norm(r["horse_name"]), {
+                "horse_name": r["horse_name"], "horse_url": _profile(r["horse_url"]),
+                **{m: 0 for m in MEDALS}})
+            h[r["medal"]] += 1
+
+    if medal != "all":
+        rows = [r for r in rows if r["medal"] == medal]
+    rows.sort(key=lambda r: MEDALS.index(r["medal"]))
     rows.sort(key=lambda r: (r["start_date"], r["event_id"]), reverse=True)
-    return jsonify(updated_at=store["updated_at"], results=rows, not_found=not_found)
+    return jsonify(updated_at=store["updated_at"], total=len(rows), results=rows[:limit],
+                   counts=counts, horses=sorted(horses.values(), key=lambda h: h["horse_name"]),
+                   not_found=not_found)
 
 
 @app.get("/api/changes")

@@ -30,6 +30,8 @@ CHANGES_FILE = DATA_DIR / "changes.json"
 EXCEL_FILE = DATA_DIR / "results.xlsx"
 RECHECK_DAYS = int(os.environ.get("RECHECK_DAYS", 14))
 REPORT_DAYS = 14
+# Bulk re-reads (recheck_all) set this to 0 so old wins aren't posted as new.
+REPORT_CHANGES = os.environ.get("REPORT_CHANGES", "1") != "0"
 MAX_CHANGES_KEPT = 1000
 
 COLUMNS = [
@@ -154,7 +156,7 @@ def main(argv: list[str]) -> int:
         # appeared), not whole old events loaded or re-read in bulk.
         recent = (date.today() - timedelta(days=REPORT_DAYS)).isoformat()
         late = event.event_id in store["events"] and not saved["results"]
-        if not first_run and (ev.start_date >= recent or late):
+        if REPORT_CHANGES and not first_run and (ev.start_date >= recent or late):
             new_changes.extend(found)
         entry = {**asdict(event), "results": rows}
         if {k: v for k, v in saved.items() if k != "checked_at"} != entry:

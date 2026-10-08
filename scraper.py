@@ -11,6 +11,10 @@ Site layout:
                                         titles such as "Mares Platinum Championship".
   /events/<slug>/<id>/awards/<award-slug>/<award-id>/
                                         one award, opened, with its placings.
+  /events/<slug>/<id>/<class-slug>/<class-id>/
+                                        one class, opened. Some events leave the
+                                        Championships section empty; their GOLD /
+                                        SILVER / BRONZE rows are only on these pages.
 """
 
 from __future__ import annotations
@@ -221,17 +225,64 @@ def _platinum_results(soup: BeautifulSoup, event: Event) -> list[Result]:
     return results
 
 
+def _class_page_results(soup: BeautifulSoup, event: Event, covered: set[str]) -> list[Result]:
+    """Championship classes missing from the Championships section, read from
+    each class's own page."""
+    videos = _competition_videos(soup)
+    results = []
+    for body in soup.select(".competition-championship"):
+        panel = body.find_parent(id=re.compile(r"^panel-competition\d+$"))
+        if not panel:
+            continue
+        cid = panel["id"].removeprefix("panel-competition")
+        name_el = panel.select_one(".feature-name")
+        name = _clean(name_el.get_text()) if name_el else ""
+        if cid in covered or not name:
+            continue
+        source = f"{event.url.rstrip('/')}/{_slug(name)}/{cid}/"
+        page = _get(source)
+        opened = page.select_one(f"#competition{cid}")
+        if not opened:
+            continue
+        for row in opened.select(".results-rows"):
+            label = row.select_one("h4")
+            link = row.select_one(".horse-name a[href]")
+            medal = _clean(label.get_text()).lower() if label else ""
+            if medal not in MEDALS or not link:
+                continue
+            num = row.select_one(".horse-name strong")
+            results.append(Result(
+                medal=medal,
+                result=f"{medal.title()} Champion",
+                horse_name=_clean(link.get_text()),
+                horse_number=_clean(num.get_text()) if num else "",
+                horse_url=urljoin(BASE_URL, link["href"]),
+                championship=name,
+                event_id=event.event_id,
+                event_name=event.name,
+                event_url=event.url,
+                start_date=event.start_date,
+                end_date=event.end_date,
+                location=event.location,
+                source=source,
+                videos=videos.get(cid, []),
+            ))
+    return results
+
+
 def event_results(url: str) -> tuple[Event, list[Result]]:
     soup = _get(url)
     event = _event_info(soup, url)
     videos = _competition_videos(soup)
     results = []
+    covered: set[str] = set()
     section = soup.select_one("#championship") or soup
     for box in section.select(".result-box"):
         heading = box.select_one(".header h4")
         championship = _clean(heading.get_text()) if heading else ""
         card = box.select_one('[id^="judges-card"]')
         cid = card["id"].removeprefix("judges-card") if card else ""
+        covered.add(cid)
         for row in box.select(".content .row.res"):
             label = row.select_one(".gold, .silver, .bronze")
             link = row.select_one("a[href]")
@@ -258,7 +309,7 @@ def event_results(url: str) -> tuple[Event, list[Result]]:
                 source=event.url,
                 videos=videos.get(cid, []),
             ))
-    return event, _platinum_results(soup, event) + results
+    return event, _platinum_results(soup, event) + results + _class_page_results(soup, event, covered)
 
 
 if __name__ == "__main__":
