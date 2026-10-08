@@ -1251,7 +1251,7 @@
    "url": "https://www.arabianessence.tv/events/anica-national-championship-2025/1002/"
   },
   "1003": {
-   "checked_at": "2026-10-06T08:13:33+00:00",
+   "checked_at": "2026-10-08T06:15:56+00:00",
    "end_date": "2025-10-26",
    "event_id": "1003",
    "location": "Scuderie La Caccia",
@@ -1597,6 +1597,60 @@
      "start_date": "2025-10-25",
      "videos": [
       "https://www.arabianessence.tv/watch/video/94475"
+     ]
+    },
+    {
+     "championship": "Filly Foals (Class 1)",
+     "end_date": "2025-10-26",
+     "event_id": "1003",
+     "event_name": "ECAHO European Championship 2025",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2025/1003/",
+     "horse_name": "ABA SORAYA",
+     "horse_number": "1",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2025/1003/horses/aba-soraya/96717/",
+     "location": "Scuderie La Caccia",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2025/1003/filly-foals-class-1/22066/",
+     "start_date": "2025-10-25",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/94405"
+     ]
+    },
+    {
+     "championship": "Filly Foals (Class 1)",
+     "end_date": "2025-10-26",
+     "event_id": "1003",
+     "event_name": "ECAHO European Championship 2025",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2025/1003/",
+     "horse_name": "BELLA MONISCIONE",
+     "horse_number": "2",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2025/1003/horses/bella-moniscione/96685/",
+     "location": "Scuderie La Caccia",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2025/1003/filly-foals-class-1/22066/",
+     "start_date": "2025-10-25",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/94405"
+     ]
+    },
+    {
+     "championship": "Filly Foals (Class 1)",
+     "end_date": "2025-10-26",
+     "event_id": "1003",
+     "event_name": "ECAHO European Championship 2025",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2025/1003/",
+     "horse_name": "AROSA EL TINI",
+     "horse_number": "5",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2025/1003/horses/arosa-el-tini/94181/",
+     "location": "Scuderie La Caccia",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2025/1003/filly-foals-class-1/22066/",
+     "start_date": "2025-10-25",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/94405"
      ]
     }
    ],
@@ -5561,7 +5615,7 @@
    "url": "https://www.arabianessence.tv/events/open-farm-stallion-show-2025/1016/"
   },
   "1017": {
-   "checked_at": "2026-10-06T08:13:48+00:00",
+   "checked_at": "2026-10-08T06:16:10+00:00",
    "end_date": "2025-10-12",
    "event_id": "1017",
    "location": "Via del Grifone 1",
@@ -5835,6 +5889,42 @@
      "start_date": "2025-10-11",
      "videos": [
       "https://www.arabianessence.tv/watch/video/93460"
+     ]
+    },
+    {
+     "championship": "Best In Show (Class BIS)",
+     "end_date": "2025-10-12",
+     "event_id": "1017",
+     "event_name": "Straight Egyptian Royal World Cup 2025",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2025/1017/",
+     "horse_name": "OEJ MON AMOUR",
+     "horse_number": "22",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2025/1017/horses/oej-mon-amour/46368/",
+     "location": "Via del Grifone 1",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2025/1017/best-in-show-class-bis/22050/",
+     "start_date": "2025-10-11",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/93466"
+     ]
+    },
+    {
+     "championship": "Best In Show (Class BIS)",
+     "end_date": "2025-10-12",
+     "event_id": "1017",
+     "event_name": "Straight Egyptian Royal World Cup 2025",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2025/1017/",
+     "horse_name": "AL WAHEEB AA",
+     "horse_number": "40",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2025/1017/horses/al-waheeb-aa/45630/",
+     "location": "Via del Grifone 1",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2025/1017/best-in-show-class-bis/22050/",
+     "start_date": "2025-10-11",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/93466"
      ]
     }
    ],
@@ -32243,7 +32333,7 @@
    "url": "https://www.arabianessence.tv/events/rawabi-palestine-arabians-show-2026/1098/"
   },
   "1099": {
-   "checked_at": "2026-10-08T05:12:12+00:00",
+   "checked_at": "2026-10-08T06:14:28+00:00",
    "end_date": "2026-06-21",
    "event_id": "1099",
    "location": "Via del Grifone 1",
@@ -32844,6 +32934,24 @@
      "source": "https://www.arabianessence.tv/events/milan-international-cup-2026/1099/",
      "start_date": "2026-06-20",
      "videos": []
+    },
+    {
+     "championship": "Best In Show (Class BIS)",
+     "end_date": "2026-06-21",
+     "event_id": "1099",
+     "event_name": "Milan International Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/milan-international-cup-2026/1099/",
+     "horse_name": "HH JAWAHER",
+     "horse_number": "15",
+     "horse_url": "https://www.arabianessence.tv/events/milan-international-cup-2026/1099/horses/hh-jawaher/107472/",
+     "location": "Via del Grifone 1",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/milan-international-cup-2026/1099/best-in-show-class-bis/24319/",
+     "start_date": "2026-06-20",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/102692"
+     ]
     }
    ],
    "start_date": "2026-06-20",
@@ -107602,7 +107710,7 @@
    "url": "https://www.arabianessence.tv/events/bialka-2021-junior-spring-show/333/"
   },
   "334": {
-   "checked_at": "2026-10-08T05:28:33+00:00",
+   "checked_at": "2026-10-08T06:28:07+00:00",
    "end_date": "2021-08-08",
    "event_id": "334",
    "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
@@ -107876,6 +107984,312 @@
      "start_date": "2021-08-07",
      "videos": [
       "https://www.arabianessence.tv/watch/video/51005"
+     ]
+    },
+    {
+     "championship": "2nd run - Classic Pleasure Master all Ages (Class 1B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "RADJAH DE CARTHEREY",
+     "horse_number": "3",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/radjah-de-cartherey/7837/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-classic-pleasure-master-all-ages-class-1b/8041/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/85000"
+     ]
+    },
+    {
+     "championship": "2nd run - Classic Pleasure Master all Ages (Class 1B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "FA MOONSHADOW",
+     "horse_number": "7",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/fa-moonshadow/43283/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-classic-pleasure-master-all-ages-class-1b/8041/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/85000"
+     ]
+    },
+    {
+     "championship": "2nd run - Classic Pleasure Master all Ages (Class 1B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "MOSRI AL DAHAB",
+     "horse_number": "11",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/mosri-al-dahab/43291/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-classic-pleasure-master-all-ages-class-1b/8041/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/85000"
+     ]
+    },
+    {
+     "championship": "2nd run - Western Pleasure Master Junior (Class 2B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "HORATUS",
+     "horse_number": "21",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/horatus/26106/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-western-pleasure-master-junior-class-2b/8042/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/50993"
+     ]
+    },
+    {
+     "championship": "2nd run - Western Pleasure Master Junior (Class 2B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "LA AVIOLA",
+     "horse_number": "22",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/la-aviola/43302/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-western-pleasure-master-junior-class-2b/8042/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/50993"
+     ]
+    },
+    {
+     "championship": "2nd run - Western Pleasure Master Junior (Class 2B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "LR SICILIA",
+     "horse_number": "24",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/lr-sicilia/14932/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-western-pleasure-master-junior-class-2b/8042/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/50993"
+     ]
+    },
+    {
+     "championship": "2nd run- Hunter Pleasure Master all Ages (Class 3B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "RADJAH DE CARTHEREY",
+     "horse_number": "3",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/radjah-de-cartherey/7837/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-hunter-pleasure-master-all-ages-class-3b/8043/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/50994"
+     ]
+    },
+    {
+     "championship": "2nd run- Hunter Pleasure Master all Ages (Class 3B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "FA MOONSHADOW",
+     "horse_number": "7",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/fa-moonshadow/43283/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-hunter-pleasure-master-all-ages-class-3b/8043/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/50994"
+     ]
+    },
+    {
+     "championship": "2nd run- Hunter Pleasure Master all Ages (Class 3B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "POSTAR",
+     "horse_number": "8",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/postar/7378/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-hunter-pleasure-master-all-ages-class-3b/8043/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/50994"
+     ]
+    },
+    {
+     "championship": "2nd run - Classic Pleasure Master Junior (Class 4B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "SHAYAN DE MAGNIFIQUE",
+     "horse_number": "42",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/shayan-de-magnifique/18461/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-classic-pleasure-master-junior-class-4b/8044/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/85001"
+     ]
+    },
+    {
+     "championship": "2nd run - Classic Pleasure Master Junior (Class 4B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "SHARLYN NJ",
+     "horse_number": "40",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/sharlyn-nj/68437/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-classic-pleasure-master-junior-class-4b/8044/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/85001"
+     ]
+    },
+    {
+     "championship": "2nd run - Western Pleasure Master all Ages (Class 6B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "M.M.SANDRINE",
+     "horse_number": "57",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/m-m-sandrine/69388/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-western-pleasure-master-all-ages-class-6b/8045/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/50998"
+     ]
+    },
+    {
+     "championship": "2nd run - Western Pleasure Master all Ages (Class 6B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "ZAHIMS NAVII",
+     "horse_number": "30",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/zahims-navii/43307/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-western-pleasure-master-all-ages-class-6b/8045/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/50998"
+     ]
+    },
+    {
+     "championship": "2nd run - Western Pleasure Master all Ages (Class 6B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "LA AVIOLA",
+     "horse_number": "22",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/la-aviola/43302/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-western-pleasure-master-all-ages-class-6b/8045/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/50998"
+     ]
+    },
+    {
+     "championship": "2nd run - Hunter Pleasure Master Junior (Class 8B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "HORATUS",
+     "horse_number": "21",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/horatus/26106/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-hunter-pleasure-master-junior-class-8b/8046/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/50991"
+     ]
+    },
+    {
+     "championship": "2nd run - Hunter Pleasure Master Junior (Class 8B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "SHARLYN NJ",
+     "horse_number": "40",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/sharlyn-nj/68437/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-hunter-pleasure-master-junior-class-8b/8046/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/50991"
+     ]
+    },
+    {
+     "championship": "2nd run - Hunter Pleasure Master Junior (Class 8B)",
+     "end_date": "2021-08-08",
+     "event_id": "334",
+     "event_name": "Arabian Futurity Europe 2021",
+     "event_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/",
+     "horse_name": "SHAYAN DE MAGNIFIQUE",
+     "horse_number": "42",
+     "horse_url": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/horses/shayan-de-magnifique/18461/",
+     "location": "KUEFFNER SPORTZENTRUM, Neucke 20",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/arabian-futurity-europe-2021/334/2nd-run-hunter-pleasure-master-junior-class-8b/8046/",
+     "start_date": "2021-08-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/50991"
      ]
     }
    ],
@@ -195828,7 +196242,7 @@
    "url": "https://www.arabianessence.tv/events/italian-nationals-2023/677/"
   },
   "678": {
-   "checked_at": "2026-10-08T05:20:06+00:00",
+   "checked_at": "2026-10-08T06:22:30+00:00",
    "end_date": "2023-10-07",
    "event_id": "678",
    "location": "Riyadh - Saudi Arabia",
@@ -196282,6 +196696,150 @@
      "start_date": "2023-10-03",
      "videos": [
       "https://www.arabianessence.tv/watch/video/38055"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Junior Fillies (Class 13)",
+     "end_date": "2023-10-07",
+     "event_id": "678",
+     "event_name": "The 12th Local Breed Championship for Arabian Horses 2023",
+     "event_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/",
+     "horse_name": "ESHRAQ ATHBAH",
+     "horse_number": "519",
+     "horse_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/horses/eshraq-athbah/53266/",
+     "location": "Riyadh - Saudi Arabia",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/ksa-desert-bred-junior-fillies-class-13/14947/",
+     "start_date": "2023-10-03",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38049"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Junior Fillies (Class 13)",
+     "end_date": "2023-10-07",
+     "event_id": "678",
+     "event_name": "The 12th Local Breed Championship for Arabian Horses 2023",
+     "event_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/",
+     "horse_name": "ALIA ATHBAH",
+     "horse_number": "525",
+     "horse_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/horses/alia-athbah/48365/",
+     "location": "Riyadh - Saudi Arabia",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/ksa-desert-bred-junior-fillies-class-13/14947/",
+     "start_date": "2023-10-03",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38049"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Junior Fillies (Class 13)",
+     "end_date": "2023-10-07",
+     "event_id": "678",
+     "event_name": "The 12th Local Breed Championship for Arabian Horses 2023",
+     "event_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/",
+     "horse_name": "ANOOD AL FALL",
+     "horse_number": "524",
+     "horse_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/horses/anood-al-fall/64029/",
+     "location": "Riyadh - Saudi Arabia",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/ksa-desert-bred-junior-fillies-class-13/14947/",
+     "start_date": "2023-10-03",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38049"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Junior Colts (Class 14)",
+     "end_date": "2023-10-07",
+     "event_id": "678",
+     "event_name": "The 12th Local Breed Championship for Arabian Horses 2023",
+     "event_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/",
+     "horse_name": "ABAN ATHBAH",
+     "horse_number": "528",
+     "horse_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/horses/aban-athbah/61922/",
+     "location": "Riyadh - Saudi Arabia",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/ksa-desert-bred-junior-colts-class-14/14948/",
+     "start_date": "2023-10-03",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38048"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Junior Colts (Class 14)",
+     "end_date": "2023-10-07",
+     "event_id": "678",
+     "event_name": "The 12th Local Breed Championship for Arabian Horses 2023",
+     "event_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/",
+     "horse_name": "MUTRAK ALMAZMUM",
+     "horse_number": "530",
+     "horse_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/horses/mutrak-almazmum/61924/",
+     "location": "Riyadh - Saudi Arabia",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/ksa-desert-bred-junior-colts-class-14/14948/",
+     "start_date": "2023-10-03",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38048"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Stallions 4+ Years Old (Class 16)",
+     "end_date": "2023-10-07",
+     "event_id": "678",
+     "event_name": "The 12th Local Breed Championship for Arabian Horses 2023",
+     "event_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/",
+     "horse_name": "FAHAD ATHBAH",
+     "horse_number": "542",
+     "horse_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/horses/fahad-athbah/14773/",
+     "location": "Riyadh - Saudi Arabia",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/ksa-desert-bred-stallions-4-years-old-class-16/14950/",
+     "start_date": "2023-10-03",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38016"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Stallions 4+ Years Old (Class 16)",
+     "end_date": "2023-10-07",
+     "event_id": "678",
+     "event_name": "The 12th Local Breed Championship for Arabian Horses 2023",
+     "event_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/",
+     "horse_name": "BALSAM ATHBAH",
+     "horse_number": "539",
+     "horse_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/horses/balsam-athbah/32238/",
+     "location": "Riyadh - Saudi Arabia",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/ksa-desert-bred-stallions-4-years-old-class-16/14950/",
+     "start_date": "2023-10-03",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38016"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Stallions 4+ Years Old (Class 16)",
+     "end_date": "2023-10-07",
+     "event_id": "678",
+     "event_name": "The 12th Local Breed Championship for Arabian Horses 2023",
+     "event_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/",
+     "horse_name": "KAREMAS AL SHARIEA",
+     "horse_number": "538",
+     "horse_url": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/horses/karemas-al-shariea/72465/",
+     "location": "Riyadh - Saudi Arabia",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/the-12th-local-breed-championship-for-arabian-horses-2023/678/ksa-desert-bred-stallions-4-years-old-class-16/14950/",
+     "start_date": "2023-10-03",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38016"
      ]
     }
    ],
@@ -199740,12 +200298,325 @@
    "url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2023/691/"
   },
   "692": {
-   "checked_at": "2026-10-08T05:20:02+00:00",
+   "checked_at": "2026-10-08T06:22:22+00:00",
    "end_date": "2023-10-11",
    "event_id": "692",
    "location": "Nofa Resort",
    "name": "Manifa Saudi Origin Championship 2023",
-   "results": [],
+   "results": [
+    {
+     "championship": "KSA Desert Bred – Yearling Fillies Championship (Class DBYFC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "ZEENAH ATHBAH",
+     "horse_number": "11",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/zeenah-athbah/61921/",
+     "location": "Nofa Resort",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-yearling-fillies-championship-class-dbyfc/15019/",
+     "start_date": "2023-10-11",
+     "videos": []
+    },
+    {
+     "championship": "KSA Desert Bred – Yearling Fillies Championship (Class DBYFC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "EALYH ALBADR",
+     "horse_number": "8",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/ealyh-albadr/61916/",
+     "location": "Nofa Resort",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-yearling-fillies-championship-class-dbyfc/15019/",
+     "start_date": "2023-10-11",
+     "videos": []
+    },
+    {
+     "championship": "KSA Desert Bred – Yearling Fillies Championship (Class DBYFC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "EABIAT ALBADR",
+     "horse_number": "10",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/eabiat-albadr/72415/",
+     "location": "Nofa Resort",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-yearling-fillies-championship-class-dbyfc/15019/",
+     "start_date": "2023-10-11",
+     "videos": []
+    },
+    {
+     "championship": "KSA Desert Bred – Yearling Colts Championship (Class DBYCC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "ABAN ATHBAH",
+     "horse_number": "60",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/aban-athbah/61922/",
+     "location": "Nofa Resort",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-yearling-colts-championship-class-dbycc/15022/",
+     "start_date": "2023-10-11",
+     "videos": []
+    },
+    {
+     "championship": "KSA Desert Bred – Yearling Colts Championship (Class DBYCC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "MUTRAK ALMAZMUM",
+     "horse_number": "61",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/mutrak-almazmum/61924/",
+     "location": "Nofa Resort",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-yearling-colts-championship-class-dbycc/15022/",
+     "start_date": "2023-10-11",
+     "videos": []
+    },
+    {
+     "championship": "KSA Desert Bred – Yearling Colts Championship (Class DBYCC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "SHAGMOM ALARED",
+     "horse_number": "57",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/shagmom-alared/72686/",
+     "location": "Nofa Resort",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-yearling-colts-championship-class-dbycc/15022/",
+     "start_date": "2023-10-11",
+     "videos": []
+    },
+    {
+     "championship": "KSA Desert Bred – Junior Fillies Championship (Class DBJFC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "ANOOD AL FALL",
+     "horse_number": "29",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/anood-al-fall/64029/",
+     "location": "Nofa Resort",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-junior-fillies-championship-class-dbjfc/15020/",
+     "start_date": "2023-10-11",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38086"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Junior Fillies Championship (Class DBJFC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "HASNA ALFAL",
+     "horse_number": "19",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/hasna-alfal/72623/",
+     "location": "Nofa Resort",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-junior-fillies-championship-class-dbjfc/15020/",
+     "start_date": "2023-10-11",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38086"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Junior Fillies Championship (Class DBJFC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "MASHA",
+     "horse_number": "28",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/masha/72434/",
+     "location": "Nofa Resort",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-junior-fillies-championship-class-dbjfc/15020/",
+     "start_date": "2023-10-11",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38086"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Junior Colts Championship (Class DBJCC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "MUHAJER ATHBAH",
+     "horse_number": "75",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/muhajer-athbah/72456/",
+     "location": "Nofa Resort",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-junior-colts-championship-class-dbjcc/15023/",
+     "start_date": "2023-10-11",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38087"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Junior Colts Championship (Class DBJCC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "FAKHR ALMAZMUM",
+     "horse_number": "71",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/fakhr-almazmum/61928/",
+     "location": "Nofa Resort",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-junior-colts-championship-class-dbjcc/15023/",
+     "start_date": "2023-10-11",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38087"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Junior Colts Championship (Class DBJCC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "DAMER ATHBAH",
+     "horse_number": "74",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/damer-athbah/53275/",
+     "location": "Nofa Resort",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-junior-colts-championship-class-dbjcc/15023/",
+     "start_date": "2023-10-11",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38087"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Senior Mares Championship (Class DBSMC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "MANARAH ATHBAH",
+     "horse_number": "36",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/manarah-athbah/72457/",
+     "location": "Nofa Resort",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-senior-mares-championship-class-dbsmc/15021/",
+     "start_date": "2023-10-11",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38088"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Senior Mares Championship (Class DBSMC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "DOHAIMAH ATHBAH",
+     "horse_number": "43",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/dohaimah-athbah/72588/",
+     "location": "Nofa Resort",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-senior-mares-championship-class-dbsmc/15021/",
+     "start_date": "2023-10-11",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38088"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Senior Mares Championship (Class DBSMC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "SARIAH AN",
+     "horse_number": "40",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/sariah-an/48368/",
+     "location": "Nofa Resort",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-senior-mares-championship-class-dbsmc/15021/",
+     "start_date": "2023-10-11",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38088"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Senior Stallions Championship (Class DBSSC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "KHERAISAN ATHBAH",
+     "horse_number": "88",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/kheraisan-athbah/14781/",
+     "location": "Nofa Resort",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-senior-stallions-championship-class-dbssc/15024/",
+     "start_date": "2023-10-11",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38089"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Senior Stallions Championship (Class DBSSC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "KAREMAS AL SHARIEA",
+     "horse_number": "84",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/karemas-al-shariea/72465/",
+     "location": "Nofa Resort",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-senior-stallions-championship-class-dbssc/15024/",
+     "start_date": "2023-10-11",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38089"
+     ]
+    },
+    {
+     "championship": "KSA Desert Bred – Senior Stallions Championship (Class DBSSC)",
+     "end_date": "2023-10-11",
+     "event_id": "692",
+     "event_name": "Manifa Saudi Origin Championship 2023",
+     "event_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/",
+     "horse_name": "KATTIB AL JANADRIYAH",
+     "horse_number": "86",
+     "horse_url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/horses/kattib-al-janadriyah/32245/",
+     "location": "Nofa Resort",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/ksa-desert-bred-senior-stallions-championship-class-dbssc/15024/",
+     "start_date": "2023-10-11",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/38089"
+     ]
+    }
+   ],
    "start_date": "2023-10-11",
    "url": "https://www.arabianessence.tv/events/manifa-saudi-origin-championship-2023/692/"
   },
@@ -214997,7 +215868,7 @@
    "url": "https://www.arabianessence.tv/events/asharqia-international-arabian-horse-show-2024/744/"
   },
   "745": {
-   "checked_at": "2026-10-06T08:18:39+00:00",
+   "checked_at": "2026-10-08T06:20:51+00:00",
    "end_date": "2024-05-19",
    "event_id": "745",
    "location": "Piazza Vittorio Emanuele",
@@ -215325,6 +216196,24 @@
      "start_date": "2024-05-18",
      "videos": [
       "https://www.arabianessence.tv/watch/video/50024"
+     ]
+    },
+    {
+     "championship": "Best In Show (Class BIS)",
+     "end_date": "2024-05-19",
+     "event_id": "745",
+     "event_name": "Trapani Arabian Horse Cup 2024",
+     "event_url": "https://www.arabianessence.tv/events/trapani-arabian-horse-cup-2024/745/",
+     "horse_name": "RAFINNA PPJ",
+     "horse_number": "53",
+     "horse_url": "https://www.arabianessence.tv/events/trapani-arabian-horse-cup-2024/745/horses/rafinna-ppj/27344/",
+     "location": "Piazza Vittorio Emanuele",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/trapani-arabian-horse-cup-2024/745/best-in-show-class-bis/17006/",
+     "start_date": "2024-05-18",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/50028"
      ]
     }
    ],
@@ -233921,7 +234810,7 @@
    "url": "https://www.arabianessence.tv/events/2017-pride-of-poland-39th-arabian-horse-national-show/81/"
   },
   "810": {
-   "checked_at": "2026-10-06T08:17:05+00:00",
+   "checked_at": "2026-10-08T06:19:28+00:00",
    "end_date": "2024-10-13",
    "event_id": "810",
    "location": "Via del Grifone 1",
@@ -234213,6 +235102,60 @@
      "start_date": "2024-10-12",
      "videos": [
       "https://www.arabianessence.tv/watch/video/86542"
+     ]
+    },
+    {
+     "championship": "Best in Show Female (Class BISF)",
+     "end_date": "2024-10-13",
+     "event_id": "810",
+     "event_name": "Straight Egyptian Royal World cup 2024",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2024/810/",
+     "horse_name": "NAMARA EL ALYA",
+     "horse_number": "12",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2024/810/horses/namara-el-alya/76513/",
+     "location": "Via del Grifone 1",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2024/810/best-in-show-female-class-bisf/18719/",
+     "start_date": "2024-10-12",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/55329"
+     ]
+    },
+    {
+     "championship": "Best in Show Female (Class BISF)",
+     "end_date": "2024-10-13",
+     "event_id": "810",
+     "event_name": "Straight Egyptian Royal World cup 2024",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2024/810/",
+     "horse_name": "KHALEEFA",
+     "horse_number": "27",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2024/810/horses/khaleefa/84327/",
+     "location": "Via del Grifone 1",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2024/810/best-in-show-female-class-bisf/18719/",
+     "start_date": "2024-10-12",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/55329"
+     ]
+    },
+    {
+     "championship": "Best in Show Male (Class BISM)",
+     "end_date": "2024-10-13",
+     "event_id": "810",
+     "event_name": "Straight Egyptian Royal World cup 2024",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2024/810/",
+     "horse_name": "PSE AL RAKHAN",
+     "horse_number": "45",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2024/810/horses/pse-al-rakhan/8358/",
+     "location": "Via del Grifone 1",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-2024/810/best-in-show-male-class-bism/18720/",
+     "start_date": "2024-10-12",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/55331"
      ]
     }
    ],
@@ -273241,7 +274184,7 @@
    "url": "https://www.arabianessence.tv/events/french-championships-2025/950/"
   },
   "951": {
-   "checked_at": "2026-10-08T05:14:44+00:00",
+   "checked_at": "2026-10-08T06:17:19+00:00",
    "end_date": "2025-07-27",
    "event_id": "951",
    "location": "Haras National Stade Équestre",
@@ -273407,6 +274350,42 @@
      "start_date": "2025-07-25",
      "videos": [
       "https://www.arabianessence.tv/watch/video/90952"
+     ]
+    },
+    {
+     "championship": "SE Filly Foals (Class 5)",
+     "end_date": "2025-07-27",
+     "event_id": "951",
+     "event_name": "Egyptian Event Europe 2025",
+     "event_url": "https://www.arabianessence.tv/events/egyptian-event-europe-2025/951/",
+     "horse_name": "LOUDJEME AL RAHIL",
+     "horse_number": "73",
+     "horse_url": "https://www.arabianessence.tv/events/egyptian-event-europe-2025/951/horses/loudjeme-al-rahil/94300/",
+     "location": "Haras National Stade Équestre",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/egyptian-event-europe-2025/951/se-filly-foals-class-5/20950/",
+     "start_date": "2025-07-25",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/90826"
+     ]
+    },
+    {
+     "championship": "SE Filly Foals (Class 5)",
+     "end_date": "2025-07-27",
+     "event_id": "951",
+     "event_name": "Egyptian Event Europe 2025",
+     "event_url": "https://www.arabianessence.tv/events/egyptian-event-europe-2025/951/",
+     "horse_name": "SAFIYAH AL SIHAB",
+     "horse_number": "74",
+     "horse_url": "https://www.arabianessence.tv/events/egyptian-event-europe-2025/951/horses/safiyah-al-sihab/94297/",
+     "location": "Haras National Stade Équestre",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/egyptian-event-europe-2025/951/se-filly-foals-class-5/20950/",
+     "start_date": "2025-07-25",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/90826"
      ]
     }
    ],
@@ -283176,5 +284155,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-08T05:44:46+00:00"
+ "updated_at": "2026-10-08T06:33:25+00:00"
 }
