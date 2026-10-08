@@ -1,0 +1,22 @@
+{
+ "checked": 783,
+ "ok": 781,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "57814",
+   "horse": "E.S. MEYZAN",
+   "event_id": "864",
+   "medal": "silver",
+   "count": 1
+  },
+  {
+   "horse_id": "81287",
+   "horse": "CBA ISKANDAR",
+   "event_id": "786",
+   "medal": "bronze",
+   "count": 1
+  }
+ ]
+}
