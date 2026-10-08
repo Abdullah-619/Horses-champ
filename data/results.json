@@ -43605,9 +43605,13 @@
    "url": "https://www.arabianessence.tv/events/aho-breeders-championship-egypt-2017/114/"
   },
   "1141": {
-   "checked_at": "2026-10-08T05:11:34+00:00",
+   "checked_at": "2026-10-08T06:52:04+00:00",
    "end_date": "2026-09-12",
    "event_id": "1141",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/middle-east-championships-2026/1141/best-female-head-championship-class-bfhc/25096/",
+    "https://www.arabianessence.tv/events/middle-east-championships-2026/1141/junior-colts-championship-class-jcc/25093/"
+   ],
    "location": "Royal Stables - Al Hummar",
    "name": "Middle East Championships 2026",
    "results": [
@@ -44131,6 +44135,24 @@
      "start_date": "2026-09-10",
      "videos": [
       "https://www.arabianessence.tv/watch/video/104261"
+     ]
+    },
+    {
+     "championship": "Best Female Head Championship (Class BFHC)",
+     "end_date": "2026-09-12",
+     "event_id": "1141",
+     "event_name": "Middle East Championships 2026",
+     "event_url": "https://www.arabianessence.tv/events/middle-east-championships-2026/1141/",
+     "horse_name": "REMAS AL REMAS",
+     "horse_number": "84",
+     "horse_url": "https://www.arabianessence.tv/events/middle-east-championships-2026/1141/horses/remas-al-remas/39030/",
+     "location": "Royal Stables - Al Hummar",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/middle-east-championships-2026/1141/best-female-head-championship-class-bfhc/25096/",
+     "start_date": "2026-09-10",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104268"
      ]
     }
    ],
@@ -81675,9 +81697,12 @@
    "url": "https://www.arabianessence.tv/events/verona-arabian-dream-amateur-2019/232/"
   },
   "233": {
-   "checked_at": "2026-10-08T05:33:42+00:00",
+   "checked_at": "2026-10-08T06:52:14+00:00",
    "end_date": "2019-11-22",
    "event_id": "233",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/emirates-arabian-horse-breeders-championship-2019/233/junior-colts-championship-class-10/5318/"
+   ],
    "location": "Abu Dhabi Equestrian Club",
    "name": "Emirates - Arabian Horse Breeders Championship 2019",
    "results": [
@@ -81967,6 +81992,42 @@
      "start_date": "2019-11-20",
      "videos": [
       "https://www.arabianessence.tv/watch/video/48379"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class 10)",
+     "end_date": "2019-11-22",
+     "event_id": "233",
+     "event_name": "Emirates - Arabian Horse Breeders Championship 2019",
+     "event_url": "https://www.arabianessence.tv/events/emirates-arabian-horse-breeders-championship-2019/233/",
+     "horse_name": "A.L.R. ALRASHEED",
+     "horse_number": "253",
+     "horse_url": "https://www.arabianessence.tv/events/emirates-arabian-horse-breeders-championship-2019/233/horses/a-l-r-alrasheed/18163/",
+     "location": "Abu Dhabi Equestrian Club",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/emirates-arabian-horse-breeders-championship-2019/233/junior-colts-championship-class-10/5318/",
+     "start_date": "2019-11-20",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/48370"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class 10)",
+     "end_date": "2019-11-22",
+     "event_id": "233",
+     "event_name": "Emirates - Arabian Horse Breeders Championship 2019",
+     "event_url": "https://www.arabianessence.tv/events/emirates-arabian-horse-breeders-championship-2019/233/",
+     "horse_name": "D KHATEB",
+     "horse_number": "235",
+     "horse_url": "https://www.arabianessence.tv/events/emirates-arabian-horse-breeders-championship-2019/233/horses/d-khateb/31455/",
+     "location": "Abu Dhabi Equestrian Club",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/emirates-arabian-horse-breeders-championship-2019/233/junior-colts-championship-class-10/5318/",
+     "start_date": "2019-11-20",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/48370"
      ]
     }
    ],
@@ -84772,9 +84833,12 @@
    "url": "https://www.arabianessence.tv/events/the-breeders-cup-kuwait-2020-straight-egyptians/241/"
   },
   "242": {
-   "checked_at": "2026-10-08T05:32:09+00:00",
+   "checked_at": "2026-10-08T06:52:12+00:00",
    "end_date": "2020-02-08",
    "event_id": "242",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/29th-qatar-intl-a-h-show-2020/242/individual-owners-championship-fillies-class-18/5687/"
+   ],
    "location": "Al Shaqab indoor arena",
    "name": "29th Qatar Intl A.H. Show 2020",
    "results": [
@@ -85136,6 +85200,24 @@
      "start_date": "2020-02-07",
      "videos": [
       "https://www.arabianessence.tv/watch/video/62045"
+     ]
+    },
+    {
+     "championship": "Individual Owners Championship Fillies (Class 18)",
+     "end_date": "2020-02-08",
+     "event_id": "242",
+     "event_name": "29th Qatar Intl A.H. Show 2020",
+     "event_url": "https://www.arabianessence.tv/events/29th-qatar-intl-a-h-show-2020/242/",
+     "horse_name": "E.M QUEEN DESERT",
+     "horse_number": "171",
+     "horse_url": "https://www.arabianessence.tv/events/29th-qatar-intl-a-h-show-2020/242/horses/e-m-queen-desert/74099/",
+     "location": "Al Shaqab indoor arena",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/29th-qatar-intl-a-h-show-2020/242/individual-owners-championship-fillies-class-18/5687/",
+     "start_date": "2020-02-07",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/62046"
      ]
     }
    ],
@@ -121681,9 +121763,12 @@
    "url": "https://www.arabianessence.tv/events/1st-qatar-arabian-breeders-cup/379/"
   },
   "380": {
-   "checked_at": "2026-10-08T05:27:57+00:00",
+   "checked_at": "2026-10-08T06:52:01+00:00",
    "end_date": "2021-10-25",
    "event_id": "380",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/1st-qatar-arabian-horse-show-local-bred/380/senior-stallions-championship-class-ssc/8601/"
+   ],
    "location": "Al Shaqab",
    "name": "1st Qatar Arabian Horse Show Local Bred",
    "results": [
@@ -122006,6 +122091,24 @@
      "medal": "bronze",
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/1st-qatar-arabian-horse-show-local-bred/380/",
+     "start_date": "2021-10-24",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/49255"
+     ]
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2021-10-25",
+     "event_id": "380",
+     "event_name": "1st Qatar Arabian Horse Show Local Bred",
+     "event_url": "https://www.arabianessence.tv/events/1st-qatar-arabian-horse-show-local-bred/380/",
+     "horse_name": "LAMMAH AL NAIF",
+     "horse_number": "152",
+     "horse_url": "https://www.arabianessence.tv/events/1st-qatar-arabian-horse-show-local-bred/380/horses/lammah-al-naif/70064/",
+     "location": "Al Shaqab",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/1st-qatar-arabian-horse-show-local-bred/380/senior-stallions-championship-class-ssc/8601/",
      "start_date": "2021-10-24",
      "videos": [
       "https://www.arabianessence.tv/watch/video/49255"
@@ -140555,9 +140658,12 @@
    "url": "https://www.arabianessence.tv/events/jordan-bred-show-2022/457/"
   },
   "458": {
-   "checked_at": "2026-10-08T05:24:32+00:00",
+   "checked_at": "2026-10-08T06:51:45+00:00",
    "end_date": "2022-09-03",
    "event_id": "458",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/bruges-2022-ah-event-european-show/458/senior-stallions-championship-class-ssc/10859/"
+   ],
    "location": "Parking Witte Molenstraat 85",
    "name": "Bruges 2022 AH Event - European Show",
    "results": [
@@ -140772,6 +140878,24 @@
      "medal": "silver",
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/bruges-2022-ah-event-european-show/458/",
+     "start_date": "2022-09-03",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/22898"
+     ]
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2022-09-03",
+     "event_id": "458",
+     "event_name": "Bruges 2022 AH Event - European Show",
+     "event_url": "https://www.arabianessence.tv/events/bruges-2022-ah-event-european-show/458/",
+     "horse_name": "PALERMO KA",
+     "horse_number": "45",
+     "horse_url": "https://www.arabianessence.tv/events/bruges-2022-ah-event-european-show/458/horses/palermo-ka/36461/",
+     "location": "Parking Witte Molenstraat 85",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/bruges-2022-ah-event-european-show/458/senior-stallions-championship-class-ssc/10859/",
      "start_date": "2022-09-03",
      "videos": [
       "https://www.arabianessence.tv/watch/video/22898"
@@ -141254,9 +141378,12 @@
    "url": "https://www.arabianessence.tv/events/paris-2015-world-championship/46/"
   },
   "460": {
-   "checked_at": "2026-10-08T05:24:29+00:00",
+   "checked_at": "2026-10-08T06:52:08+00:00",
    "end_date": "2022-09-04",
    "event_id": "460",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/bruges-2022-ah-event-international-b-show/460/junior-fillies-championship-class-jfc/10866/"
+   ],
    "location": "Parking Witte Molenstraat 85",
    "name": "Bruges 2022 AH Event - International B Show",
    "results": [
@@ -141510,6 +141637,24 @@
      "start_date": "2022-09-04",
      "videos": [
       "https://www.arabianessence.tv/watch/video/22928"
+     ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2022-09-04",
+     "event_id": "460",
+     "event_name": "Bruges 2022 AH Event - International B Show",
+     "event_url": "https://www.arabianessence.tv/events/bruges-2022-ah-event-international-b-show/460/",
+     "horse_name": "WILMA PCF",
+     "horse_number": "210",
+     "horse_url": "https://www.arabianessence.tv/events/bruges-2022-ah-event-international-b-show/460/horses/wilma-pcf/48224/",
+     "location": "Parking Witte Molenstraat 85",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/bruges-2022-ah-event-international-b-show/460/junior-fillies-championship-class-jfc/10866/",
+     "start_date": "2022-09-04",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/22926"
      ]
     }
    ],
@@ -144562,9 +144707,12 @@
    "url": "https://www.arabianessence.tv/events/championnat-de-france-du-cheval-arabe-vichy-2022/475/"
   },
   "477": {
-   "checked_at": "2026-10-08T05:24:28+00:00",
+   "checked_at": "2026-10-08T06:52:10+00:00",
    "end_date": "2022-09-04",
    "event_id": "477",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/egyptian-event-europe-bergamo-2022/477/mares-championship-class-mc/10881/"
+   ],
    "location": "Fiera S.Alessandro",
    "name": "Egyptian Event Europe - Bergamo 2022",
    "results": [
@@ -188574,9 +188722,20 @@
    "url": "https://www.arabianessence.tv/events/ismer-stud-horse-presentation/634/"
   },
   "635": {
-   "checked_at": "2026-10-08T05:20:44+00:00",
+   "checked_at": "2026-10-08T06:51:59+00:00",
    "end_date": "2023-07-23",
    "event_id": "635",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/bnc-junior-gelding-championship-class-cho/13987/",
+    "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/bnc-senior-male-championship-class-chm/13995/",
+    "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/bnc-yearling-male-championship-class-chj/13991/",
+    "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/british-supreme-pure-bred-in-hand-championship-class-ch3/13999/",
+    "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/home-produced-ridden-championship-class-ch21/13979/",
+    "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/home-produced-senior-championship-class-ch20/13998/",
+    "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/restricted-ridden-championship-class-chs/13978/",
+    "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/supreme-ridden-championship-of-show-pure-anglo-part-class-ch4/14116/",
+    "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/veteran-in-hand-championship-pure-anglo-part-class-ch5/13996/"
+   ],
    "location": "David Broome Event Centre, Mount Ballan Manor",
    "name": "AHS National Championships 2023",
    "results": [
@@ -189245,15 +189404,180 @@
      "videos": [
       "https://www.arabianessence.tv/watch/video/36064"
      ]
+    },
+    {
+     "championship": "BNC Junior Gelding Championship (Class ChO)",
+     "end_date": "2023-07-23",
+     "event_id": "635",
+     "event_name": "AHS National Championships 2023",
+     "event_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/",
+     "horse_name": "AV NOVEMBER RAIN",
+     "horse_number": "20",
+     "horse_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/horses/av-november-rain/67488/",
+     "location": "David Broome Event Centre, Mount Ballan Manor",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/bnc-junior-gelding-championship-class-cho/13987/",
+     "start_date": "2023-07-21",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/36079"
+     ]
+    },
+    {
+     "championship": "BNC Senior Male Championship (Class ChM)",
+     "end_date": "2023-07-23",
+     "event_id": "635",
+     "event_name": "AHS National Championships 2023",
+     "event_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/",
+     "horse_name": "ROE LAMMAH",
+     "horse_number": "24",
+     "horse_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/horses/roe-lammah/67567/",
+     "location": "David Broome Event Centre, Mount Ballan Manor",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/bnc-senior-male-championship-class-chm/13995/",
+     "start_date": "2023-07-21",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/36075"
+     ]
+    },
+    {
+     "championship": "BNC Yearling Male Championship (Class ChJ)",
+     "end_date": "2023-07-23",
+     "event_id": "635",
+     "event_name": "AHS National Championships 2023",
+     "event_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/",
+     "horse_name": "SHIVALLI JJ",
+     "horse_number": "138",
+     "horse_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/horses/shivalli-jj/67634/",
+     "location": "David Broome Event Centre, Mount Ballan Manor",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/bnc-yearling-male-championship-class-chj/13991/",
+     "start_date": "2023-07-21",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/36078"
+     ]
+    },
+    {
+     "championship": "British Supreme Pure Bred in Hand Championship (Class Ch3)",
+     "end_date": "2023-07-23",
+     "event_id": "635",
+     "event_name": "AHS National Championships 2023",
+     "event_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/",
+     "horse_name": "AVA ROSE",
+     "horse_number": "103",
+     "horse_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/horses/ava-rose/68449/",
+     "location": "David Broome Event Centre, Mount Ballan Manor",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/british-supreme-pure-bred-in-hand-championship-class-ch3/13999/",
+     "start_date": "2023-07-21",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/36064"
+     ]
+    },
+    {
+     "championship": "Home Produced Ridden Championship (Class Ch21)",
+     "end_date": "2023-07-23",
+     "event_id": "635",
+     "event_name": "AHS National Championships 2023",
+     "event_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/",
+     "horse_name": "CELESTINO",
+     "horse_number": "9",
+     "horse_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/horses/celestino/67617/",
+     "location": "David Broome Event Centre, Mount Ballan Manor",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/home-produced-ridden-championship-class-ch21/13979/",
+     "start_date": "2023-07-21",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/36053"
+     ]
+    },
+    {
+     "championship": "Home Produced Senior Championship (Class Ch20)",
+     "end_date": "2023-07-23",
+     "event_id": "635",
+     "event_name": "AHS National Championships 2023",
+     "event_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/",
+     "horse_name": "JAYDAN’S LEANDRO",
+     "horse_number": "2",
+     "horse_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/horses/jaydan-rsquo-s-leandro/67502/",
+     "location": "David Broome Event Centre, Mount Ballan Manor",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/home-produced-senior-championship-class-ch20/13998/",
+     "start_date": "2023-07-21",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/36071"
+     ]
+    },
+    {
+     "championship": "Restricted Ridden Championship (Class ChS)",
+     "end_date": "2023-07-23",
+     "event_id": "635",
+     "event_name": "AHS National Championships 2023",
+     "event_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/",
+     "horse_name": "WALIANDRO",
+     "horse_number": "67",
+     "horse_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/horses/waliandro/68100/",
+     "location": "David Broome Event Centre, Mount Ballan Manor",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/restricted-ridden-championship-class-chs/13978/",
+     "start_date": "2023-07-21",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/36055"
+     ]
+    },
+    {
+     "championship": "Supreme Ridden Championship of Show (Pure/Anglo/Part) (Class Ch4)",
+     "end_date": "2023-07-23",
+     "event_id": "635",
+     "event_name": "AHS National Championships 2023",
+     "event_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/",
+     "horse_name": "ARIMATHEA",
+     "horse_number": "64",
+     "horse_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/horses/arimathea/67546/",
+     "location": "David Broome Event Centre, Mount Ballan Manor",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/supreme-ridden-championship-of-show-pure-anglo-part-class-ch4/14116/",
+     "start_date": "2023-07-21",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/36056"
+     ]
+    },
+    {
+     "championship": "Veteran in Hand Championship (Pure/Anglo/Part) (Class Ch5)",
+     "end_date": "2023-07-23",
+     "event_id": "635",
+     "event_name": "AHS National Championships 2023",
+     "event_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/",
+     "horse_name": "FFOENIX",
+     "horse_number": "53",
+     "horse_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/horses/ffoenix/67586/",
+     "location": "David Broome Event Centre, Mount Ballan Manor",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/veteran-in-hand-championship-pure-anglo-part-class-ch5/13996/",
+     "start_date": "2023-07-21",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/36076"
+     ]
     }
    ],
    "start_date": "2023-07-21",
    "url": "https://www.arabianessence.tv/events/ahs-national-championships-2023/635/"
   },
   "637": {
-   "checked_at": "2026-10-08T05:20:45+00:00",
+   "checked_at": "2026-10-08T06:52:06+00:00",
    "end_date": "2023-07-23",
    "event_id": "637",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/ahs-national-championships-2023-ridden-classes/637/anglo-arab-ridden-championship-class-chw/14067/"
+   ],
    "location": "David Broome Event Centre, Mount Ballan Manor",
    "name": "AHS National Championships 2023 - Ridden Classes",
    "results": [
@@ -189507,6 +189831,24 @@
      "start_date": "2023-07-21",
      "videos": [
       "https://www.arabianessence.tv/watch/video/36094"
+     ]
+    },
+    {
+     "championship": "Anglo Arab Ridden Championship (Class ChW)",
+     "end_date": "2023-07-23",
+     "event_id": "637",
+     "event_name": "AHS National Championships 2023 - Ridden Classes",
+     "event_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023-ridden-classes/637/",
+     "horse_name": "LAWBROOK MIA FANTAZY",
+     "horse_number": "58",
+     "horse_url": "https://www.arabianessence.tv/events/ahs-national-championships-2023-ridden-classes/637/horses/lawbrook-mia-fantazy/68080/",
+     "location": "David Broome Event Centre, Mount Ballan Manor",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ahs-national-championships-2023-ridden-classes/637/anglo-arab-ridden-championship-class-chw/14067/",
+     "start_date": "2023-07-21",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/36116"
      ]
     }
    ],
@@ -284155,5 +284497,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-08T06:33:25+00:00"
+ "updated_at": "2026-10-08T06:52:14+00:00"
 }
