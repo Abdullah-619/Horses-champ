@@ -1,0 +1,36 @@
+{
+ "checked": 783,
+ "ok": 780,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "12739",
+   "horse": "SEHER AL JAMAL",
+   "event_id": "378",
+   "medal": "silver",
+   "count": 1
+  },
+  {
+   "horse_id": "38302",
+   "horse": "AJ SAROJ",
+   "event_id": "1044",
+   "medal": "gold",
+   "count": 1
+  },
+  {
+   "horse_id": "79287",
+   "horse": "AH MAYASAH",
+   "event_id": "543",
+   "medal": "silver",
+   "count": 1
+  },
+  {
+   "horse_id": "79287",
+   "horse": "AH MAYASAH",
+   "event_id": "744",
+   "medal": "gold",
+   "count": 1
+  }
+ ]
+}
