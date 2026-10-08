@@ -1,0 +1,29 @@
+name: Check horses
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python verify_horses.py ${{ matrix.shard }} 10
+      - name: Save report
+        run: |
+          cd report
+          git init -q -b verify-${{ matrix.shard }}
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A && git commit -qm "Horse check report"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" verify-${{ matrix.shard }}
