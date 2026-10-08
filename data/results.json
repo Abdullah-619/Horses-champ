@@ -23319,7 +23319,7 @@
    "url": "https://www.arabianessence.tv/events/eahgc-bahrain-2026/1076/"
   },
   "1078": {
-   "checked_at": "2026-10-06T08:12:34+00:00",
+   "checked_at": "2026-10-08T04:39:20+00:00",
    "end_date": "2026-03-01",
    "event_id": "1078",
    "location": "Al Ain Equestrian, Shooting and Golf",
@@ -23333,7 +23333,7 @@
      "event_url": "https://www.arabianessence.tv/events/al-shiraa-international-arabian-horse-show-2026/1078/",
      "horse_name": "RDS NOURAH",
      "horse_number": "42",
-     "horse_url": "https://www.arabianessence.tv/events/al-shiraa-international-arabian-horse-show-2026/1078/horses/rds-nourah/95911/",
+     "horse_url": "https://www.arabianessence.tv/events/al-shiraa-international-arabian-horse-show-2026/1078/horses/rds-nourah/93855/",
      "location": "Al Ain Equestrian, Shooting and Golf",
      "medal": "gold",
      "result": "Gold Champion",
@@ -26257,7 +26257,7 @@
    "url": "https://www.arabianessence.tv/events/11th-qatar-national-peninsula-ahs-for-individual-owners-2026/1087/"
   },
   "1088": {
-   "checked_at": "2026-10-06T08:12:19+00:00",
+   "checked_at": "2026-10-08T04:39:04+00:00",
    "end_date": "2026-05-10",
    "event_id": "1088",
    "location": "Institut National du Cheval Prince Héritier Moulay El Hassan",
@@ -26487,7 +26487,7 @@
      "event_url": "https://www.arabianessence.tv/events/eahgc-morocco-2026/1088/",
      "horse_name": "YAMINE ME",
      "horse_number": "125",
-     "horse_url": "https://www.arabianessence.tv/events/eahgc-morocco-2026/1088/horses/yamine-me/107107/",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-morocco-2026/1088/horses/yamine-me/93669/",
      "location": "Institut National du Cheval Prince Héritier Moulay El Hassan",
      "medal": "gold",
      "result": "Gold Champion",
@@ -112377,5 +112377,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-08T00:36:25+00:00"
+ "updated_at": "2026-10-08T04:39:41+00:00"
 }
