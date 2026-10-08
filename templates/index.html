@@ -11,7 +11,7 @@
     <h1>Arabian Horse Championship Results</h1>
     <p class="sub">Data from <a href="https://www.arabianessence.tv/" target="_blank" rel="noopener">arabianessence.tv</a>,
       checked every hour<span id="updated"></span>.
-      <a href="/download/results.xlsx">Download Excel</a></p>
+      <a href="/download/results.xlsx">Download all results (Excel)</a></p>
   </header>
 
   <main>
@@ -37,7 +37,10 @@
 
     <div id="horses" class="horses" hidden></div>
 
-    <p id="status" aria-live="polite"></p>
+    <div class="status-row">
+      <p id="status" aria-live="polite"></p>
+      <button type="button" id="download-search" class="secondary" hidden>Download these results (Excel)</button>
+    </div>
 
     <details id="changes-box" hidden>
       <summary>Latest new wins</summary>
@@ -153,7 +156,28 @@
         msg += ` Showing the latest ${body.results.length}; search for horses or pick an event to see the rest.`;
       if ((body.not_found || []).length) msg += ` Nothing found for: ${body.not_found.join(', ')}.`;
       statusEl.textContent = msg;
+      document.getElementById('download-search').hidden = !body.total;
     }
+
+    // Sends the same names, event and medal as the table, so the file matches what's shown.
+    document.getElementById('download-search').addEventListener('click', () => {
+      const data = new FormData(form);
+      const post = document.createElement('form');
+      post.method = 'POST';
+      post.action = '/download/search.xlsx';
+      post.hidden = true;
+      const fields = { medal: document.querySelector('.medals input:checked').value,
+                       event: data.get('event') || '', q: data.get('q') || '' };
+      for (const [name, value] of Object.entries(fields)) {
+        const input = document.createElement('textarea');
+        input.name = name;
+        input.value = value;
+        post.appendChild(input);
+      }
+      document.body.appendChild(post);
+      post.submit();
+      post.remove();
+    });
 
     form.addEventListener('submit', ev => { ev.preventDefault(); load(); });
     medalInputs.forEach(i => i.addEventListener('change', load));
