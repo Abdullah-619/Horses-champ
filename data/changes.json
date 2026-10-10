@@ -214,5 +214,77 @@
   "event_name": "EAHGC China 2026",
   "event_url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/",
   "start_date": "2026-10-06"
+ },
+ {
+  "detected_at": "2026-10-10T19:25:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "FOUZ AL BAWADY",
+  "horse_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/horses/fouz-al-bawady/106359/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "Al Marasem Rabab AH Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
+  "start_date": "2026-10-08"
+ },
+ {
+  "detected_at": "2026-10-10T19:25:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "SAFIRA AL SOADAA",
+  "horse_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/horses/safira-al-soadaa/106385/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "Al Marasem Rabab AH Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
+  "start_date": "2026-10-08"
+ },
+ {
+  "detected_at": "2026-10-10T19:25:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "TAMARA AL TARZY",
+  "horse_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/horses/tamara-al-tarzy/103077/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "Al Marasem Rabab AH Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
+  "start_date": "2026-10-08"
+ },
+ {
+  "detected_at": "2026-10-10T19:25:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "KENOUZ AL BAWADY",
+  "horse_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/horses/kenouz-al-bawady/92096/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "Al Marasem Rabab AH Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
+  "start_date": "2026-10-08"
+ },
+ {
+  "detected_at": "2026-10-10T19:25:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "LAYALY AL SAHEEL",
+  "horse_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/horses/layaly-al-saheel/84976/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "Al Marasem Rabab AH Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
+  "start_date": "2026-10-08"
+ },
+ {
+  "detected_at": "2026-10-10T19:25:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "ANOUD AL SAHM",
+  "horse_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/horses/anoud-al-sahm/95179/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "Al Marasem Rabab AH Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
+  "start_date": "2026-10-08"
  }
 ]
