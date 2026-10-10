@@ -45661,6 +45661,26 @@
    "start_date": "2026-09-11",
    "url": "https://www.arabianessence.tv/events/rawabi-arabians-breeders-show-2026/1146/"
   },
+  "1148": {
+   "checked_at": "2026-10-10T00:38:17+00:00",
+   "end_date": "2026-10-11",
+   "event_id": "1148",
+   "location": "Via del Grifone 1",
+   "name": "Straight Egyptian Royal World Cup and EEE 2026",
+   "results": [],
+   "start_date": "2026-10-10",
+   "url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/"
+  },
+  "1149": {
+   "checked_at": "2026-10-10T00:38:02+00:00",
+   "end_date": "2026-10-11",
+   "event_id": "1149",
+   "location": "Via del Grifone 1",
+   "name": "CMV Royal Club Milano AHS 2026",
+   "results": [],
+   "start_date": "2026-10-10",
+   "url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/"
+  },
   "115": {
    "checked_at": "2026-10-08T05:39:01+00:00",
    "end_date": "2017-01-07",
@@ -284497,5 +284517,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-08T11:28:50+00:00"
+ "updated_at": "2026-10-10T00:38:47+00:00"
 }
