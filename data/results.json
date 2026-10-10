@@ -47887,7 +47887,7 @@
    "url": "https://www.arabianessence.tv/events/4th-sumer-int-festival-2026-straight-egyptian/1161/"
   },
   "1163": {
-   "checked_at": "2026-10-10T19:25:08+00:00",
+   "checked_at": "2026-10-10T20:25:27+00:00",
    "end_date": "2026-10-11",
    "event_id": "1163",
    "location": "Rabab Stud",
@@ -47986,6 +47986,102 @@
      "medal": "bronze",
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/junior-fillies-championship-class-jfc/25553/",
+     "start_date": "2026-10-08",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-11",
+     "event_id": "1163",
+     "event_name": "Al Marasem Rabab AH Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
+     "horse_name": "MALIKA AL HAMD",
+     "horse_number": "107",
+     "horse_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/horses/malika-al-hamd/71006/",
+     "location": "Rabab Stud",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/senior-mares-championship-class-smc/25554/",
+     "start_date": "2026-10-08",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-11",
+     "event_id": "1163",
+     "event_name": "Al Marasem Rabab AH Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
+     "horse_name": "AMANY AL SHARBATLY",
+     "horse_number": "97",
+     "horse_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/horses/amany-al-sharbatly/106411/",
+     "location": "Rabab Stud",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/senior-mares-championship-class-smc/25554/",
+     "start_date": "2026-10-08",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-11",
+     "event_id": "1163",
+     "event_name": "Al Marasem Rabab AH Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
+     "horse_name": "SHAMS ZAD",
+     "horse_number": "123",
+     "horse_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/horses/shams-zad/81998/",
+     "location": "Rabab Stud",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/senior-mares-championship-class-smc/25554/",
+     "start_date": "2026-10-08",
+     "videos": []
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-11",
+     "event_id": "1163",
+     "event_name": "Al Marasem Rabab AH Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
+     "horse_name": "ZEIN DORRA",
+     "horse_number": "138",
+     "horse_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/horses/zein-dorra/111320/",
+     "location": "Rabab Stud",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/yearling-colts-championship-class-ycc/25555/",
+     "start_date": "2026-10-08",
+     "videos": []
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-11",
+     "event_id": "1163",
+     "event_name": "Al Marasem Rabab AH Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
+     "horse_name": "RAYAN AL JUMEIRAH",
+     "horse_number": "146",
+     "horse_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/horses/rayan-al-jumeirah/106443/",
+     "location": "Rabab Stud",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/yearling-colts-championship-class-ycc/25555/",
+     "start_date": "2026-10-08",
+     "videos": []
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-11",
+     "event_id": "1163",
+     "event_name": "Al Marasem Rabab AH Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
+     "horse_name": "GHANDOUR ABOU GAMEAA",
+     "horse_number": "132",
+     "horse_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/horses/ghandour-abou-gameaa/111310/",
+     "location": "Rabab Stud",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/yearling-colts-championship-class-ycc/25555/",
      "start_date": "2026-10-08",
      "videos": []
     }
@@ -284614,5 +284710,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-10T19:25:26+00:00"
+ "updated_at": "2026-10-10T20:25:44+00:00"
 }
