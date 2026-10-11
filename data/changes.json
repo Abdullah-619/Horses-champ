@@ -538,5 +538,89 @@
   "event_name": "CMV Royal Club Milano AHS 2026",
   "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
   "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T10:26:00+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "STY ELIJAH",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/sty-elijah/100038/",
+  "championship": "Junior Colts Championship (Class JCC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T10:26:00+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "CLINTON LA DAMA",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/clinton-la-dama/69123/",
+  "championship": "Junior Colts Championship (Class JCC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T10:26:00+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "QALB JAMIL",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/qalb-jamil/95566/",
+  "championship": "Junior Colts Championship (Class JCC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T10:26:00+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "ENOBARIA",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/enobaria/43322/",
+  "championship": "Senior Mares Championship (Class SMC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T10:26:00+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "SHAKIRA BY RASHEED",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/shakira-by-rasheed/56051/",
+  "championship": "Senior Mares Championship (Class SMC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T10:26:00+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "MONNALISA CHANDRA",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/monnalisa-chandra/79634/",
+  "championship": "Senior Mares Championship (Class SMC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T10:26:00+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "EMIR TT",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/emir-tt/68345/",
+  "championship": "Senior Stallion Championship (Class SSC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
  }
 ]
