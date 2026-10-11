@@ -45662,12 +45662,77 @@
    "url": "https://www.arabianessence.tv/events/rawabi-arabians-breeders-show-2026/1146/"
   },
   "1148": {
-   "checked_at": "2026-10-10T00:38:17+00:00",
+   "checked_at": "2026-10-11T12:31:41+00:00",
    "end_date": "2026-10-11",
    "event_id": "1148",
    "location": "Via del Grifone 1",
    "name": "Straight Egyptian Royal World Cup and EEE 2026",
-   "results": [],
+   "results": [
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-10-11",
+     "event_id": "1148",
+     "event_name": "Straight Egyptian Royal World Cup and EEE 2026",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/",
+     "horse_name": "ARA ANTIGUA",
+     "horse_number": "1",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/horses/ara-antigua/93805/",
+     "location": "Via del Grifone 1",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/yearling-fillies-championship-class-yfc/25204/",
+     "start_date": "2026-10-10",
+     "videos": []
+    },
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-10-11",
+     "event_id": "1148",
+     "event_name": "Straight Egyptian Royal World Cup and EEE 2026",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/",
+     "horse_name": "NDA NILE SAJEEDAH",
+     "horse_number": "2",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/horses/nda-nile-sajeedah/109080/",
+     "location": "Via del Grifone 1",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/yearling-fillies-championship-class-yfc/25204/",
+     "start_date": "2026-10-10",
+     "videos": []
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-11",
+     "event_id": "1148",
+     "event_name": "Straight Egyptian Royal World Cup and EEE 2026",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/",
+     "horse_name": "KHALEEFA",
+     "horse_number": "6",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/horses/khaleefa/84327/",
+     "location": "Via del Grifone 1",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/junior-fillies-championship-class-jfc/25208/",
+     "start_date": "2026-10-10",
+     "videos": []
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-11",
+     "event_id": "1148",
+     "event_name": "Straight Egyptian Royal World Cup and EEE 2026",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/",
+     "horse_name": "NADERAAH AL RAHIL",
+     "horse_number": "5",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/horses/naderaah-al-rahil/94295/",
+     "location": "Via del Grifone 1",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/junior-fillies-championship-class-jfc/25208/",
+     "start_date": "2026-10-10",
+     "videos": []
+    }
+   ],
    "start_date": "2026-10-10",
    "url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/"
   },
@@ -285099,5 +285164,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-11T11:25:42+00:00"
+ "updated_at": "2026-10-11T12:31:56+00:00"
 }
