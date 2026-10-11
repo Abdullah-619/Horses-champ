@@ -45662,7 +45662,7 @@
    "url": "https://www.arabianessence.tv/events/rawabi-arabians-breeders-show-2026/1146/"
   },
   "1148": {
-   "checked_at": "2026-10-11T13:27:47+00:00",
+   "checked_at": "2026-10-11T14:26:26+00:00",
    "end_date": "2026-10-11",
    "event_id": "1148",
    "location": "Via del Grifone 1",
@@ -45841,6 +45841,102 @@
      "medal": "silver",
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/senior-mares-championship-eee-class-smc2/25213/",
+     "start_date": "2026-10-10",
+     "videos": []
+    },
+    {
+     "championship": "Senior Stallions Championship SERWC (Class SSC)",
+     "end_date": "2026-10-11",
+     "event_id": "1148",
+     "event_name": "Straight Egyptian Royal World Cup and EEE 2026",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/",
+     "horse_name": "TB HADIR",
+     "horse_number": "22",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/horses/tb-hadir/83226/",
+     "location": "Via del Grifone 1",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/senior-stallions-championship-serwc-class-ssc/25530/",
+     "start_date": "2026-10-10",
+     "videos": []
+    },
+    {
+     "championship": "Senior Stallions Championship SERWC (Class SSC)",
+     "end_date": "2026-10-11",
+     "event_id": "1148",
+     "event_name": "Straight Egyptian Royal World Cup and EEE 2026",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/",
+     "horse_name": "NOAH O",
+     "horse_number": "24",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/horses/noah-o/42330/",
+     "location": "Via del Grifone 1",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/senior-stallions-championship-serwc-class-ssc/25530/",
+     "start_date": "2026-10-10",
+     "videos": []
+    },
+    {
+     "championship": "Senior Stallions Championship SERWC (Class SSC)",
+     "end_date": "2026-10-11",
+     "event_id": "1148",
+     "event_name": "Straight Egyptian Royal World Cup and EEE 2026",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/",
+     "horse_name": "AMHAR DEL SAR",
+     "horse_number": "21",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/horses/amhar-del-sar/70841/",
+     "location": "Via del Grifone 1",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/senior-stallions-championship-serwc-class-ssc/25530/",
+     "start_date": "2026-10-10",
+     "videos": []
+    },
+    {
+     "championship": "Senior Stallions Championship EEE (Class SSC2)",
+     "end_date": "2026-10-11",
+     "event_id": "1148",
+     "event_name": "Straight Egyptian Royal World Cup and EEE 2026",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/",
+     "horse_name": "TB HADIR",
+     "horse_number": "22",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/horses/tb-hadir/83226/",
+     "location": "Via del Grifone 1",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/senior-stallions-championship-eee-class-ssc2/25531/",
+     "start_date": "2026-10-10",
+     "videos": []
+    },
+    {
+     "championship": "Senior Stallions Championship EEE (Class SSC2)",
+     "end_date": "2026-10-11",
+     "event_id": "1148",
+     "event_name": "Straight Egyptian Royal World Cup and EEE 2026",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/",
+     "horse_name": "NOAH O",
+     "horse_number": "24",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/horses/noah-o/42330/",
+     "location": "Via del Grifone 1",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/senior-stallions-championship-eee-class-ssc2/25531/",
+     "start_date": "2026-10-10",
+     "videos": []
+    },
+    {
+     "championship": "Senior Stallions Championship EEE (Class SSC2)",
+     "end_date": "2026-10-11",
+     "event_id": "1148",
+     "event_name": "Straight Egyptian Royal World Cup and EEE 2026",
+     "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/",
+     "horse_name": "AMHAR DEL SAR",
+     "horse_number": "21",
+     "horse_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/horses/amhar-del-sar/70841/",
+     "location": "Via del Grifone 1",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/senior-stallions-championship-eee-class-ssc2/25531/",
      "start_date": "2026-10-10",
      "videos": []
     }
@@ -285276,5 +285372,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-11T13:28:03+00:00"
+ "updated_at": "2026-10-11T14:26:44+00:00"
 }
