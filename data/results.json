@@ -48144,7 +48144,7 @@
    "url": "https://www.arabianessence.tv/events/4th-sumer-int-festival-2026-straight-egyptian/1161/"
   },
   "1163": {
-   "checked_at": "2026-10-10T21:25:11+00:00",
+   "checked_at": "2026-10-11T11:25:27+00:00",
    "end_date": "2026-10-11",
    "event_id": "1163",
    "location": "Rabab Stud",
@@ -48326,7 +48326,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
      "start_date": "2026-10-08",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104864"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -48342,7 +48344,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
      "start_date": "2026-10-08",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104864"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -48358,7 +48362,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
      "start_date": "2026-10-08",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104864"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -285093,5 +285099,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-11T10:26:25+00:00"
+ "updated_at": "2026-10-11T11:25:42+00:00"
 }
