@@ -430,5 +430,113 @@
   "event_name": "Al Marasem Rabab AH Championship 2026",
   "event_url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/",
   "start_date": "2026-10-08"
+ },
+ {
+  "detected_at": "2026-10-11T09:26:43+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "ABA SORAYA",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/aba-soraya/96717/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T09:26:43+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "RK BASSUMAH",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/rk-bassumah/111472/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T09:26:43+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "BN SAMEERAH",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/bn-sameerah/111473/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T09:26:43+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "AL ASLAN",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/al-aslan/111478/",
+  "championship": "Yearling Colts Championship (Class YCC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T09:26:43+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "EBTIHAJJ M",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/ebtihajj-m/106854/",
+  "championship": "Yearling Colts Championship (Class YCC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T09:26:43+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "BAHI AL SHAYAA",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/bahi-al-shayaa/109011/",
+  "championship": "Yearling Colts Championship (Class YCC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T09:26:43+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "NIKITA GALLARIA",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/nikita-gallaria/98627/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T09:26:43+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "PAMELAH O",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/pamelah-o/84330/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-11T09:26:43+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "BAHIA AL CHABANNE",
+  "horse_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/horses/bahia-al-chabanne/95552/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "CMV Royal Club Milano AHS 2026",
+  "event_url": "https://www.arabianessence.tv/events/cmv-royal-club-milano-ahs-2026/1149/",
+  "start_date": "2026-10-10"
  }
 ]
