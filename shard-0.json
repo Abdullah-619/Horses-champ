@@ -1,0 +1,22 @@
+{
+ "checked": 786,
+ "ok": 784,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "108341",
+   "horse": "WEBISTA",
+   "event_id": "1119",
+   "medal": "silver",
+   "count": 1
+  },
+  {
+   "horse_id": "13217",
+   "horse": "ANOOD AL NASSER",
+   "event_id": "696",
+   "medal": "platinum",
+   "count": 1
+  }
+ ]
+}
