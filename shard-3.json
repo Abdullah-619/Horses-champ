@@ -1,0 +1,36 @@
+{
+ "checked": 785,
+ "ok": 781,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "17527",
+   "horse": "SINGAAR GHARNATAH",
+   "event_id": "113",
+   "medal": "bronze",
+   "count": 1
+  },
+  {
+   "horse_id": "41619",
+   "horse": "EXTASY",
+   "event_id": "317",
+   "medal": "bronze",
+   "count": 1
+  },
+  {
+   "horse_id": "57814",
+   "horse": "E.S. MEYZAN",
+   "event_id": "864",
+   "medal": "silver",
+   "count": 1
+  },
+  {
+   "horse_id": "85962",
+   "horse": "QD MAYA",
+   "event_id": "1044",
+   "medal": "bronze",
+   "count": 1
+  }
+ ]
+}
