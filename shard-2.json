@@ -1,0 +1,28 @@
+{
+ "checked": 785,
+ "ok": 783,
+ "failed": [],
+ "missing": [
+  {
+   "horse_id": "109582",
+   "horse": "NAJEM F.K",
+   "medal": "silver",
+   "event_id": "1141",
+   "event_name": "Middle East Championships 2026",
+   "championship": "Junior Colts Championship (Class JCC)",
+   "url": "https://www.arabianessence.tv/events/middle-east-championships-2026/1141/junior-colts-championship-class-jcc/25093/#competition25093",
+   "event_saved": true
+  },
+  {
+   "horse_id": "36811",
+   "horse": "EXSTASY",
+   "medal": "bronze",
+   "event_id": "317",
+   "event_name": "Vesuvio Trophy 2021",
+   "championship": "Yearling Fillies Championship (Class 19)",
+   "url": "https://www.arabianessence.tv/events/vesuvio-trophy-2021/317/yearling-fillies-championship-class-19/7598/#competition7598",
+   "event_saved": true
+  }
+ ],
+ "extra": []
+}
