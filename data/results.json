@@ -104124,9 +104124,12 @@
    "url": "https://www.arabianessence.tv/events/championnat-de-france-du-cheval-arabe-vichy-2021/316/"
   },
   "317": {
-   "checked_at": "2026-10-08T05:28:55+00:00",
+   "checked_at": "2026-10-12T04:15:18+00:00",
    "end_date": "2021-06-13",
    "event_id": "317",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/vesuvio-trophy-2021/317/yearling-fillies-championship-class-19/7598/"
+   ],
    "location": "Via Pietro Fabris",
    "name": "Vesuvio Trophy 2021",
    "results": [
@@ -104172,9 +104175,9 @@
      "event_id": "317",
      "event_name": "Vesuvio Trophy 2021",
      "event_url": "https://www.arabianessence.tv/events/vesuvio-trophy-2021/317/",
-     "horse_name": "EXTASY",
+     "horse_name": "EXSTASY",
      "horse_number": "5",
-     "horse_url": "https://www.arabianessence.tv/events/vesuvio-trophy-2021/317/horses/extasy/41619/",
+     "horse_url": "https://www.arabianessence.tv/events/vesuvio-trophy-2021/317/horses/exstasy/36811/",
      "location": "Via Pietro Fabris",
      "medal": "bronze",
      "result": "Bronze Champion",
@@ -285438,5 +285441,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-11T16:26:43+00:00"
+ "updated_at": "2026-10-12T04:15:21+00:00"
 }
