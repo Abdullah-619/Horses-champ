@@ -1,0 +1,15 @@
+{
+ "checked": 785,
+ "ok": 784,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "108936",
+   "horse": "ELR SOLO SY",
+   "event_id": "1111",
+   "medal": "gold",
+   "count": 1
+  }
+ ]
+}
