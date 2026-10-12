@@ -1,0 +1,22 @@
+{
+ "checked": 785,
+ "ok": 784,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "79287",
+   "horse": "AH MAYASAH",
+   "event_id": "543",
+   "medal": "silver",
+   "count": 1
+  },
+  {
+   "horse_id": "79287",
+   "horse": "AH MAYASAH",
+   "event_id": "744",
+   "medal": "gold",
+   "count": 1
+  }
+ ]
+}
