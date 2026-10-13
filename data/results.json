@@ -40323,6 +40323,16 @@
    "start_date": "2026-07-25",
    "url": "https://www.arabianessence.tv/events/pompadour-french-and-straight-egyptian-championships-2026/1122/"
   },
+  "1125": {
+   "checked_at": "2026-10-13T00:41:03+00:00",
+   "end_date": "2026-10-13",
+   "event_id": "1125",
+   "location": "Salon du Cheval",
+   "name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+   "results": [],
+   "start_date": "2026-10-13",
+   "url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/"
+  },
   "1127": {
    "checked_at": "2026-10-06T09:29:04+00:00",
    "end_date": "2026-08-10",
@@ -285441,5 +285451,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-12T04:15:21+00:00"
+ "updated_at": "2026-10-13T00:41:13+00:00"
 }
