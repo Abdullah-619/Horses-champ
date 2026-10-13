@@ -826,5 +826,17 @@
   "event_name": "Straight Egyptian Royal World Cup and EEE 2026",
   "event_url": "https://www.arabianessence.tv/events/straight-egyptian-royal-world-cup-and-eee-2026/1148/",
   "start_date": "2026-10-10"
+ },
+ {
+  "detected_at": "2026-10-13T11:30:42+00:00",
+  "type": "changed",
+  "previous_horse": "RDS ASTANA",
+  "medal": "silver",
+  "horse_name": "RDS ASTANA",
+  "horse_url": "https://www.arabianessence.tv/events/gcat-americas-las-vegas-2026/1144/horses/rds-astana/93871/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "GCAT Americas Las Vegas 2026",
+  "event_url": "https://www.arabianessence.tv/events/gcat-americas-las-vegas-2026/1144/",
+  "start_date": "2026-10-02"
  }
 ]
