@@ -40324,7 +40324,7 @@
    "url": "https://www.arabianessence.tv/events/pompadour-french-and-straight-egyptian-championships-2026/1122/"
   },
   "1125": {
-   "checked_at": "2026-10-13T17:29:08+00:00",
+   "checked_at": "2026-10-13T18:35:13+00:00",
    "end_date": "2026-10-13",
    "event_id": "1125",
    "location": "Salon du Cheval",
@@ -40436,6 +40436,114 @@
      "start_date": "2026-10-13",
      "videos": [
       "https://www.arabianessence.tv/watch/video/104966"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-13",
+     "event_id": "1125",
+     "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+     "horse_name": "YAMINE ME",
+     "horse_number": "76",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/yamine-me/111551/",
+     "location": "Salon du Cheval",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/junior-colts-championship-class-jcc/25589/",
+     "start_date": "2026-10-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104967"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-13",
+     "event_id": "1125",
+     "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+     "horse_name": "CHAN AL BORAQ",
+     "horse_number": "80",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/chan-al-boraq/96763/",
+     "location": "Salon du Cheval",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/junior-colts-championship-class-jcc/25589/",
+     "start_date": "2026-10-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104967"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-13",
+     "event_id": "1125",
+     "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+     "horse_name": "GHAZAL AL FAWARESS",
+     "horse_number": "88",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/ghazal-al-fawaress/82461/",
+     "location": "Salon du Cheval",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/junior-colts-championship-class-jcc/25589/",
+     "start_date": "2026-10-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104967"
+     ]
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-10-13",
+     "event_id": "1125",
+     "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+     "horse_name": "QADAMOUS AL BORAQ",
+     "horse_number": "107",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/qadamous-al-boraq/73599/",
+     "location": "Salon du Cheval",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/senior-stallions-championship-class-ssc/25590/",
+     "start_date": "2026-10-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104968"
+     ]
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-10-13",
+     "event_id": "1125",
+     "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+     "horse_name": "SALSABIL BM",
+     "horse_number": "99",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/salsabil-bm/73544/",
+     "location": "Salon du Cheval",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/senior-stallions-championship-class-ssc/25590/",
+     "start_date": "2026-10-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104968"
+     ]
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-10-13",
+     "event_id": "1125",
+     "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+     "horse_name": "MENARA AR-RA'D",
+     "horse_number": "106",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/menara-ar-ra-d/111558/",
+     "location": "Salon du Cheval",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/senior-stallions-championship-class-ssc/25590/",
+     "start_date": "2026-10-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104968"
      ]
     }
    ],
@@ -285560,5 +285668,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-13T17:29:24+00:00"
+ "updated_at": "2026-10-13T18:35:34+00:00"
 }
