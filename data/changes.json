@@ -838,5 +838,77 @@
   "event_name": "GCAT Americas Las Vegas 2026",
   "event_url": "https://www.arabianessence.tv/events/gcat-americas-las-vegas-2026/1144/",
   "start_date": "2026-10-02"
+ },
+ {
+  "detected_at": "2026-10-13T17:29:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "ILAF ME",
+  "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/ilaf-me/107047/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+  "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+  "start_date": "2026-10-13"
+ },
+ {
+  "detected_at": "2026-10-13T17:29:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "RAWIA BOUZNIKA",
+  "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/rawia-bouznika/82400/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+  "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+  "start_date": "2026-10-13"
+ },
+ {
+  "detected_at": "2026-10-13T17:29:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "YOUNINE AL BORAQ",
+  "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/younine-al-boraq/96732/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+  "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+  "start_date": "2026-10-13"
+ },
+ {
+  "detected_at": "2026-10-13T17:29:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "AMIRA ME",
+  "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/amira-me/57273/",
+  "championship": "Senior Mares Championship (Class SMC)",
+  "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+  "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+  "start_date": "2026-10-13"
+ },
+ {
+  "detected_at": "2026-10-13T17:29:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "QASBAT BOUZNIKA",
+  "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/qasbat-bouznika/82424/",
+  "championship": "Senior Mares Championship (Class SMC)",
+  "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+  "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+  "start_date": "2026-10-13"
+ },
+ {
+  "detected_at": "2026-10-13T17:29:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "LAYLA BOUZNIKA",
+  "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/layla-bouznika/27599/",
+  "championship": "Senior Mares Championship (Class SMC)",
+  "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+  "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+  "start_date": "2026-10-13"
  }
 ]

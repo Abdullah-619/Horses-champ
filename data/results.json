@@ -40324,12 +40324,121 @@
    "url": "https://www.arabianessence.tv/events/pompadour-french-and-straight-egyptian-championships-2026/1122/"
   },
   "1125": {
-   "checked_at": "2026-10-13T00:41:03+00:00",
+   "checked_at": "2026-10-13T17:29:08+00:00",
    "end_date": "2026-10-13",
    "event_id": "1125",
    "location": "Salon du Cheval",
    "name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
-   "results": [],
+   "results": [
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-13",
+     "event_id": "1125",
+     "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+     "horse_name": "ILAF ME",
+     "horse_number": "24",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/ilaf-me/107047/",
+     "location": "Salon du Cheval",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/junior-fillies-championship-class-jfc/25586/",
+     "start_date": "2026-10-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104965"
+     ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-13",
+     "event_id": "1125",
+     "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+     "horse_name": "RAWIA BOUZNIKA",
+     "horse_number": "42",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/rawia-bouznika/82400/",
+     "location": "Salon du Cheval",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/junior-fillies-championship-class-jfc/25586/",
+     "start_date": "2026-10-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104965"
+     ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-13",
+     "event_id": "1125",
+     "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+     "horse_name": "YOUNINE AL BORAQ",
+     "horse_number": "30",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/younine-al-boraq/96732/",
+     "location": "Salon du Cheval",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/junior-fillies-championship-class-jfc/25586/",
+     "start_date": "2026-10-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104965"
+     ]
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-13",
+     "event_id": "1125",
+     "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+     "horse_name": "AMIRA ME",
+     "horse_number": "56",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/amira-me/57273/",
+     "location": "Salon du Cheval",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/senior-mares-championship-class-smc/25587/",
+     "start_date": "2026-10-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104966"
+     ]
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-13",
+     "event_id": "1125",
+     "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+     "horse_name": "QASBAT BOUZNIKA",
+     "horse_number": "45",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/qasbat-bouznika/82424/",
+     "location": "Salon du Cheval",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/senior-mares-championship-class-smc/25587/",
+     "start_date": "2026-10-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104966"
+     ]
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-13",
+     "event_id": "1125",
+     "event_name": "El Jadida 2026 - Moroccan Arab Horse Breeders' Cup",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/",
+     "horse_name": "LAYLA BOUZNIKA",
+     "horse_number": "58",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/horses/layla-bouznika/27599/",
+     "location": "Salon du Cheval",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/senior-mares-championship-class-smc/25587/",
+     "start_date": "2026-10-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/104966"
+     ]
+    }
+   ],
    "start_date": "2026-10-13",
    "url": "https://www.arabianessence.tv/events/el-jadida-2026-moroccan-arab-horse-breeders-cup/1125/"
   },
@@ -285451,5 +285560,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-13T11:30:52+00:00"
+ "updated_at": "2026-10-13T17:29:24+00:00"
 }
