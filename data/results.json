@@ -40323,6 +40323,16 @@
    "start_date": "2026-07-25",
    "url": "https://www.arabianessence.tv/events/pompadour-french-and-straight-egyptian-championships-2026/1122/"
   },
+  "1124": {
+   "checked_at": "2026-10-14T00:49:16+00:00",
+   "end_date": "2026-10-15",
+   "event_id": "1124",
+   "location": "Salon du Cheval",
+   "name": "El Jadida 2026 - International AH Title Show",
+   "results": [],
+   "start_date": "2026-10-14",
+   "url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/"
+  },
   "1125": {
    "checked_at": "2026-10-13T19:40:07+00:00",
    "end_date": "2026-10-13",
@@ -285668,5 +285678,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-13T19:40:29+00:00"
+ "updated_at": "2026-10-14T00:49:34+00:00"
 }
