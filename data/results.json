@@ -40324,12 +40324,175 @@
    "url": "https://www.arabianessence.tv/events/pompadour-french-and-straight-egyptian-championships-2026/1122/"
   },
   "1124": {
-   "checked_at": "2026-10-14T00:49:16+00:00",
+   "checked_at": "2026-10-15T15:42:50+00:00",
    "end_date": "2026-10-15",
    "event_id": "1124",
    "location": "Salon du Cheval",
    "name": "El Jadida 2026 - International AH Title Show",
-   "results": [],
+   "results": [
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "SALALAH AL SHAQAB",
+     "horse_number": "16",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/salalah-al-shaqab/103012/",
+     "location": "Salon du Cheval",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/yearling-fillies-championship-class-yfc/25637/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105144"
+     ]
+    },
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "ANOOD ALGHANADIR",
+     "horse_number": "1",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/anood-alghanadir/106271/",
+     "location": "Salon du Cheval",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/yearling-fillies-championship-class-yfc/25637/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105144"
+     ]
+    },
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "AYA SHEMS",
+     "horse_number": "11",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/aya-shems/107030/",
+     "location": "Salon du Cheval",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/yearling-fillies-championship-class-yfc/25637/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105144"
+     ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "D NIVEEN",
+     "horse_number": "28",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/d-niveen/98702/",
+     "location": "Salon du Cheval",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/junior-fillies-championship-class-jfc/25638/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105145"
+     ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "RK NADERAH",
+     "horse_number": "36",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/rk-naderah/103754/",
+     "location": "Salon du Cheval",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/junior-fillies-championship-class-jfc/25638/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105145"
+     ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "D NERAN",
+     "horse_number": "22",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/d-neran/94194/",
+     "location": "Salon du Cheval",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/junior-fillies-championship-class-jfc/25638/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105145"
+     ]
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "D ASERAH",
+     "horse_number": "57",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/d-aserah/69637/",
+     "location": "Salon du Cheval",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/senior-mares-championship-class-smc/25639/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105146"
+     ]
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "D GHARAM",
+     "horse_number": "78",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/d-gharam/18884/",
+     "location": "Salon du Cheval",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/senior-mares-championship-class-smc/25639/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105146"
+     ]
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "FAM DONATELLA",
+     "horse_number": "72",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/fam-donatella/21061/",
+     "location": "Salon du Cheval",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/senior-mares-championship-class-smc/25639/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105146"
+     ]
+    }
+   ],
    "start_date": "2026-10-14",
    "url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/"
   },
@@ -49055,12 +49218,61 @@
    "url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/"
   },
   "1165": {
-   "checked_at": "2026-10-15T00:47:31+00:00",
+   "checked_at": "2026-10-15T15:42:41+00:00",
    "end_date": "2026-10-16",
    "event_id": "1165",
    "location": "Sharjah Equestrian & Racing Club",
    "name": "Sharjah Arabian Horse Festival (Straight Egyptian) 2026",
-   "results": [],
+   "results": [
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-16",
+     "event_id": "1165",
+     "event_name": "Sharjah Arabian Horse Festival (Straight Egyptian) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/",
+     "horse_name": "D RENAD",
+     "horse_number": "2",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/horses/d-renad/98657/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/junior-fillies-championship-class-jfc/25599/",
+     "start_date": "2026-10-15",
+     "videos": []
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-16",
+     "event_id": "1165",
+     "event_name": "Sharjah Arabian Horse Festival (Straight Egyptian) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/",
+     "horse_name": "FARASHA AL DOHA",
+     "horse_number": "14",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/horses/farasha-al-doha/91353/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/junior-fillies-championship-class-jfc/25599/",
+     "start_date": "2026-10-15",
+     "videos": []
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-16",
+     "event_id": "1165",
+     "event_name": "Sharjah Arabian Horse Festival (Straight Egyptian) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/",
+     "horse_name": "ASEELA AL DOHA",
+     "horse_number": "4",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/horses/aseela-al-doha/104689/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/junior-fillies-championship-class-jfc/25599/",
+     "start_date": "2026-10-15",
+     "videos": []
+    }
+   ],
    "start_date": "2026-10-15",
    "url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/"
   },
@@ -285688,5 +285900,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-15T00:47:46+00:00"
+ "updated_at": "2026-10-15T15:43:12+00:00"
 }
