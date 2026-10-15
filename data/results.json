@@ -40324,7 +40324,7 @@
    "url": "https://www.arabianessence.tv/events/pompadour-french-and-straight-egyptian-championships-2026/1122/"
   },
   "1124": {
-   "checked_at": "2026-10-15T15:42:50+00:00",
+   "checked_at": "2026-10-15T16:41:07+00:00",
    "end_date": "2026-10-15",
    "event_id": "1124",
    "location": "Salon du Cheval",
@@ -40490,6 +40490,114 @@
      "start_date": "2026-10-14",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105146"
+     ]
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "KAFU AL EZZ",
+     "horse_number": "119",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/kafu-al-ezz/101524/",
+     "location": "Salon du Cheval",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/yearling-colts-championship-class-ycc/25640/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105147"
+     ]
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "SH FAJER",
+     "horse_number": "105",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/sh-fajer/111601/",
+     "location": "Salon du Cheval",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/yearling-colts-championship-class-ycc/25640/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105147"
+     ]
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "JS ROMEO",
+     "horse_number": "115",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/js-romeo/103740/",
+     "location": "Salon du Cheval",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/yearling-colts-championship-class-ycc/25640/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105147"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "D TAJ",
+     "horse_number": "120",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/d-taj/94202/",
+     "location": "Salon du Cheval",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/junior-colts-championship-class-jcc/25641/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105148"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "ASHRAF RC",
+     "horse_number": "148",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/ashraf-rc/79889/",
+     "location": "Salon du Cheval",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/junior-colts-championship-class-jcc/25641/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105148"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-15",
+     "event_id": "1124",
+     "event_name": "El Jadida 2026 - International AH Title Show",
+     "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+     "horse_name": "ISAIAH O",
+     "horse_number": "131",
+     "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/isaiah-o/98089/",
+     "location": "Salon du Cheval",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/junior-colts-championship-class-jcc/25641/",
+     "start_date": "2026-10-14",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105148"
      ]
     }
    ],
@@ -49218,7 +49326,7 @@
    "url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/"
   },
   "1165": {
-   "checked_at": "2026-10-15T15:42:41+00:00",
+   "checked_at": "2026-10-15T16:40:58+00:00",
    "end_date": "2026-10-16",
    "event_id": "1165",
    "location": "Sharjah Equestrian & Racing Club",
@@ -49269,6 +49377,150 @@
      "medal": "bronze",
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/junior-fillies-championship-class-jfc/25599/",
+     "start_date": "2026-10-15",
+     "videos": []
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-16",
+     "event_id": "1165",
+     "event_name": "Sharjah Arabian Horse Festival (Straight Egyptian) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/",
+     "horse_name": "D SADN",
+     "horse_number": "40",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/horses/d-sadn/86743/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/junior-colts-championship-class-jcc/25600/",
+     "start_date": "2026-10-15",
+     "videos": []
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-16",
+     "event_id": "1165",
+     "event_name": "Sharjah Arabian Horse Festival (Straight Egyptian) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/",
+     "horse_name": "NABEEL AL DOHA",
+     "horse_number": "33",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/horses/nabeel-al-doha/104733/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/junior-colts-championship-class-jcc/25600/",
+     "start_date": "2026-10-15",
+     "videos": []
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-16",
+     "event_id": "1165",
+     "event_name": "Sharjah Arabian Horse Festival (Straight Egyptian) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/",
+     "horse_name": "DAGHER H",
+     "horse_number": "34",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/horses/dagher-h/91791/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/junior-colts-championship-class-jcc/25600/",
+     "start_date": "2026-10-15",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-16",
+     "event_id": "1165",
+     "event_name": "Sharjah Arabian Horse Festival (Straight Egyptian) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/",
+     "horse_name": "D ASFOORAH",
+     "horse_number": "26",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/horses/d-asfoorah/27837/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/senior-mares-championship-class-smc/25601/",
+     "start_date": "2026-10-15",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-16",
+     "event_id": "1165",
+     "event_name": "Sharjah Arabian Horse Festival (Straight Egyptian) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/",
+     "horse_name": "BARQA AL RAYYAN",
+     "horse_number": "21",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/horses/barqa-al-rayyan/77884/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/senior-mares-championship-class-smc/25601/",
+     "start_date": "2026-10-15",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-16",
+     "event_id": "1165",
+     "event_name": "Sharjah Arabian Horse Festival (Straight Egyptian) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/",
+     "horse_name": "SEHR AL E'ZZ",
+     "horse_number": "17",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/horses/sehr-al-e-zz/86738/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/senior-mares-championship-class-smc/25601/",
+     "start_date": "2026-10-15",
+     "videos": []
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-10-16",
+     "event_id": "1165",
+     "event_name": "Sharjah Arabian Horse Festival (Straight Egyptian) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/",
+     "horse_name": "D TAMRAN",
+     "horse_number": "46",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/horses/d-tamran/86749/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/senior-stallions-championship-class-ssc/25602/",
+     "start_date": "2026-10-15",
+     "videos": []
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-10-16",
+     "event_id": "1165",
+     "event_name": "Sharjah Arabian Horse Festival (Straight Egyptian) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/",
+     "horse_name": "D TAROOQ",
+     "horse_number": "48",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/horses/d-tarooq/74314/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/senior-stallions-championship-class-ssc/25602/",
+     "start_date": "2026-10-15",
+     "videos": []
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-10-16",
+     "event_id": "1165",
+     "event_name": "Sharjah Arabian Horse Festival (Straight Egyptian) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/",
+     "horse_name": "D MEMZER",
+     "horse_number": "47",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/horses/d-memzer/56855/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/senior-stallions-championship-class-ssc/25602/",
      "start_date": "2026-10-15",
      "videos": []
     }
@@ -285900,5 +286152,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-15T15:43:12+00:00"
+ "updated_at": "2026-10-15T16:41:25+00:00"
 }
