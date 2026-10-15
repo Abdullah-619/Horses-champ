@@ -1306,5 +1306,41 @@
   "event_name": "El Jadida 2026 - International AH Title Show",
   "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
   "start_date": "2026-10-14"
+ },
+ {
+  "detected_at": "2026-10-15T17:37:47+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "D SHAKHAR",
+  "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/d-shakhar/75581/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "El Jadida 2026 - International AH Title Show",
+  "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+  "start_date": "2026-10-14"
+ },
+ {
+  "detected_at": "2026-10-15T17:37:47+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "AJ KATEEM",
+  "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/aj-kateem/38947/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "El Jadida 2026 - International AH Title Show",
+  "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+  "start_date": "2026-10-14"
+ },
+ {
+  "detected_at": "2026-10-15T17:37:47+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "KAMARE INES",
+  "horse_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/horses/kamare-ines/109052/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "El Jadida 2026 - International AH Title Show",
+  "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
+  "start_date": "2026-10-14"
  }
 ]
