@@ -49054,6 +49054,16 @@
    "start_date": "2026-10-08",
    "url": "https://www.arabianessence.tv/events/al-marasem-rabab-ah-championship-2026/1163/"
   },
+  "1165": {
+   "checked_at": "2026-10-15T00:47:31+00:00",
+   "end_date": "2026-10-16",
+   "event_id": "1165",
+   "location": "Sharjah Equestrian & Racing Club",
+   "name": "Sharjah Arabian Horse Festival (Straight Egyptian) 2026",
+   "results": [],
+   "start_date": "2026-10-15",
+   "url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/"
+  },
   "117": {
    "checked_at": "2026-10-08T05:36:51+00:00",
    "end_date": "2018-05-13",
@@ -285678,5 +285688,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-14T00:49:34+00:00"
+ "updated_at": "2026-10-15T00:47:46+00:00"
 }
