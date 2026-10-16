@@ -47138,6 +47138,16 @@
    "start_date": "2017-01-05",
    "url": "https://www.arabianessence.tv/events/ajman-arabian-horse-show/115/"
   },
+  "1150": {
+   "checked_at": "2026-10-16T00:48:09+00:00",
+   "end_date": "2026-10-19",
+   "event_id": "1150",
+   "location": "Sharjah Equestrian & Racing Club",
+   "name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+   "results": [],
+   "start_date": "2026-10-16",
+   "url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/"
+  },
   "1153": {
    "checked_at": "2026-10-06T09:28:55+00:00",
    "end_date": "2026-10-04",
@@ -47807,6 +47817,16 @@
    ],
    "start_date": "2026-10-01",
    "url": "https://www.arabianessence.tv/events/al-watan-arabian-horse-championship-2026/1154/"
+  },
+  "1155": {
+   "checked_at": "2026-10-16T00:48:02+00:00",
+   "end_date": "2026-10-17",
+   "event_id": "1155",
+   "location": "Club Hippique Metidja Blida",
+   "name": "2nd Al-Asayel Championship for Purebred AH 2026",
+   "results": [],
+   "start_date": "2026-10-16",
+   "url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/"
   },
   "1158": {
    "checked_at": "2026-10-06T09:28:56+00:00",
@@ -286230,5 +286250,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-15T19:37:35+00:00"
+ "updated_at": "2026-10-16T00:48:25+00:00"
 }
