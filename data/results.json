@@ -47819,7 +47819,7 @@
    "url": "https://www.arabianessence.tv/events/al-watan-arabian-horse-championship-2026/1154/"
   },
   "1155": {
-   "checked_at": "2026-10-17T21:34:34+00:00",
+   "checked_at": "2026-10-17T23:30:15+00:00",
    "end_date": "2026-10-17",
    "event_id": "1155",
    "location": "Club Hippique Metidja Blida",
@@ -47839,7 +47839,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
      "start_date": "2026-10-16",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105192"
+     ]
     },
     {
      "championship": "Yearling Fillies Championship (Class YFC)",
@@ -47855,7 +47857,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
      "start_date": "2026-10-16",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105192"
+     ]
     },
     {
      "championship": "Yearling Fillies Championship (Class YFC)",
@@ -47871,7 +47875,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
      "start_date": "2026-10-16",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105192"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -48103,7 +48109,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
      "start_date": "2026-10-16",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105199"
+     ]
     },
     {
      "championship": "Senior Stallions Championship (Class SSC)",
@@ -48119,7 +48127,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
      "start_date": "2026-10-16",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105199"
+     ]
     },
     {
      "championship": "Senior Stallions Championship (Class SSC)",
@@ -48135,7 +48145,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
      "start_date": "2026-10-16",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105199"
+     ]
     }
    ],
    "start_date": "2026-10-16",
@@ -286563,5 +286575,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-17T21:35:00+00:00"
+ "updated_at": "2026-10-17T23:30:39+00:00"
 }
