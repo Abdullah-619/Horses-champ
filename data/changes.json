@@ -1522,5 +1522,41 @@
   "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
   "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
   "start_date": "2026-10-16"
+ },
+ {
+  "detected_at": "2026-10-17T17:33:18+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "SHEDDAD DES AUBUS",
+  "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/sheddad-des-aubus/111846/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+  "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+  "start_date": "2026-10-16"
+ },
+ {
+  "detected_at": "2026-10-17T17:33:18+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "KADIDJ DE LAFAYETTE",
+  "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/kadidj-de-lafayette/15130/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+  "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+  "start_date": "2026-10-16"
+ },
+ {
+  "detected_at": "2026-10-17T17:33:18+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "IS PEAK",
+  "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/is-peak/69256/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+  "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+  "start_date": "2026-10-16"
  }
 ]
