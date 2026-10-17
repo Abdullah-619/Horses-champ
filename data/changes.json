@@ -1342,5 +1342,77 @@
   "event_name": "El Jadida 2026 - International AH Title Show",
   "event_url": "https://www.arabianessence.tv/events/el-jadida-2026-international-ah-title-show/1124/",
   "start_date": "2026-10-14"
+ },
+ {
+  "detected_at": "2026-10-17T14:34:09+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "SHAHAMA ALG",
+  "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/shahama-alg/111797/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+  "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+  "start_date": "2026-10-16"
+ },
+ {
+  "detected_at": "2026-10-17T14:34:09+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "MANSOURAH DES PINS",
+  "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/mansourah-des-pins/111789/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+  "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+  "start_date": "2026-10-16"
+ },
+ {
+  "detected_at": "2026-10-17T14:34:09+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "ALYAA EL ATIK",
+  "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/alyaa-el-atik/111796/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+  "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+  "start_date": "2026-10-16"
+ },
+ {
+  "detected_at": "2026-10-17T14:34:09+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "ZAEEM ALG",
+  "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/zaeem-alg/111806/",
+  "championship": "Yearling Colts Championship (Class YCC)",
+  "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+  "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+  "start_date": "2026-10-16"
+ },
+ {
+  "detected_at": "2026-10-17T14:34:09+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "ASSIL LARABAA",
+  "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/assil-larabaa/111803/",
+  "championship": "Yearling Colts Championship (Class YCC)",
+  "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+  "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+  "start_date": "2026-10-16"
+ },
+ {
+  "detected_at": "2026-10-17T14:34:09+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "MORTAJIZ DES PINS",
+  "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/mortajiz-des-pins/111799/",
+  "championship": "Yearling Colts Championship (Class YCC)",
+  "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+  "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+  "start_date": "2026-10-16"
  }
 ]

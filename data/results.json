@@ -47819,12 +47819,109 @@
    "url": "https://www.arabianessence.tv/events/al-watan-arabian-horse-championship-2026/1154/"
   },
   "1155": {
-   "checked_at": "2026-10-16T00:48:02+00:00",
+   "checked_at": "2026-10-17T14:34:09+00:00",
    "end_date": "2026-10-17",
    "event_id": "1155",
    "location": "Club Hippique Metidja Blida",
    "name": "2nd Al-Asayel Championship for Purebred AH 2026",
-   "results": [],
+   "results": [
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-10-17",
+     "event_id": "1155",
+     "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+     "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+     "horse_name": "SHAHAMA ALG",
+     "horse_number": "6",
+     "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/shahama-alg/111797/",
+     "location": "Club Hippique Metidja Blida",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/yearling-fillies-championship-class-yfc/25652/",
+     "start_date": "2026-10-16",
+     "videos": []
+    },
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-10-17",
+     "event_id": "1155",
+     "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+     "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+     "horse_name": "MANSOURAH DES PINS",
+     "horse_number": "2",
+     "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/mansourah-des-pins/111789/",
+     "location": "Club Hippique Metidja Blida",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/yearling-fillies-championship-class-yfc/25652/",
+     "start_date": "2026-10-16",
+     "videos": []
+    },
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-10-17",
+     "event_id": "1155",
+     "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+     "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+     "horse_name": "ALYAA EL ATIK",
+     "horse_number": "5",
+     "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/alyaa-el-atik/111796/",
+     "location": "Club Hippique Metidja Blida",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/yearling-fillies-championship-class-yfc/25652/",
+     "start_date": "2026-10-16",
+     "videos": []
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-17",
+     "event_id": "1155",
+     "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+     "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+     "horse_name": "ZAEEM ALG",
+     "horse_number": "13",
+     "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/zaeem-alg/111806/",
+     "location": "Club Hippique Metidja Blida",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/yearling-colts-championship-class-ycc/25653/",
+     "start_date": "2026-10-16",
+     "videos": []
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-17",
+     "event_id": "1155",
+     "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+     "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+     "horse_name": "ASSIL LARABAA",
+     "horse_number": "10",
+     "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/assil-larabaa/111803/",
+     "location": "Club Hippique Metidja Blida",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/yearling-colts-championship-class-ycc/25653/",
+     "start_date": "2026-10-16",
+     "videos": []
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-17",
+     "event_id": "1155",
+     "event_name": "2nd Al-Asayel Championship for Purebred AH 2026",
+     "event_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/",
+     "horse_name": "MORTAJIZ DES PINS",
+     "horse_number": "7",
+     "horse_url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/horses/mortajiz-des-pins/111799/",
+     "location": "Club Hippique Metidja Blida",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/yearling-colts-championship-class-ycc/25653/",
+     "start_date": "2026-10-16",
+     "videos": []
+    }
+   ],
    "start_date": "2026-10-16",
    "url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/"
   },
@@ -286250,5 +286347,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-16T00:48:25+00:00"
+ "updated_at": "2026-10-17T14:34:38+00:00"
 }
