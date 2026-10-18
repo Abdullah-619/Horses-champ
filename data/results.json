@@ -47139,7 +47139,7 @@
    "url": "https://www.arabianessence.tv/events/ajman-arabian-horse-show/115/"
   },
   "1150": {
-   "checked_at": "2026-10-18T14:34:18+00:00",
+   "checked_at": "2026-10-18T15:34:17+00:00",
    "end_date": "2026-10-19",
    "event_id": "1150",
    "location": "Sharjah Equestrian & Racing Club",
@@ -47198,6 +47198,216 @@
      "videos": [
       "https://www.arabianessence.tv/watch/video/105203"
      ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "D SDEIRAH",
+     "horse_number": "35",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/d-sdeirah/111705/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/junior-fillies-championship-class-jfc/25619/",
+     "start_date": "2026-10-16",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105204"
+     ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "AJ BADAWIEH",
+     "horse_number": "73",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/aj-badawieh/106099/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/junior-fillies-championship-class-jfc/25619/",
+     "start_date": "2026-10-16",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105204"
+     ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "DURRA AL ZOBAIR",
+     "horse_number": "44",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/durra-al-zobair/101453/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/junior-fillies-championship-class-jfc/25619/",
+     "start_date": "2026-10-16",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105204"
+     ]
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "AJWAN AL ZOBAIR",
+     "horse_number": "100",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/ajwan-al-zobair/39059/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/senior-mares-championship-class-smc/25620/",
+     "start_date": "2026-10-16",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105205"
+     ]
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "AJ SALWANAH",
+     "horse_number": "101",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/aj-salwanah/52577/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/senior-mares-championship-class-smc/25620/",
+     "start_date": "2026-10-16",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105205"
+     ]
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "J.M.H HAJER",
+     "horse_number": "96",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/j-m-h-hajer/48393/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/senior-mares-championship-class-smc/25620/",
+     "start_date": "2026-10-16",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105205"
+     ]
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "E. S. DHAW",
+     "horse_number": "112",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/e-s-dhaw/111724/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/yearling-colts-championship-class-ycc/25621/",
+     "start_date": "2026-10-16",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105206"
+     ]
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "BANAN AL ZOBAIR",
+     "horse_number": "127",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/banan-al-zobair/111737/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/yearling-colts-championship-class-ycc/25621/",
+     "start_date": "2026-10-16",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105206"
+     ]
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "R.A.K ALMUR",
+     "horse_number": "111",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/r-a-k-almur/111723/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/yearling-colts-championship-class-ycc/25621/",
+     "start_date": "2026-10-16",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105206"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "JAMRAN AL HAWAJER",
+     "horse_number": "166",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/jamran-al-hawajer/92038/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/junior-colts-championship-class-jcc/25622/",
+     "start_date": "2026-10-16",
+     "videos": []
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "MAHBOUB AL ZOBAIR",
+     "horse_number": "139",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/mahboub-al-zobair/98718/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/junior-colts-championship-class-jcc/25622/",
+     "start_date": "2026-10-16",
+     "videos": []
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "GHISHAM A.H",
+     "horse_number": "165",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/ghisham-a-h/91923/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/junior-colts-championship-class-jcc/25622/",
+     "start_date": "2026-10-16",
+     "videos": []
     }
    ],
    "start_date": "2026-10-16",
@@ -286630,5 +286840,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-18T14:34:32+00:00"
+ "updated_at": "2026-10-18T15:34:34+00:00"
 }
