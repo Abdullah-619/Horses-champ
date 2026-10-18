@@ -1738,5 +1738,41 @@
   "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
   "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
   "start_date": "2026-10-16"
+ },
+ {
+  "detected_at": "2026-10-18T16:36:28+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "D MASHJI",
+  "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/d-mashji/21294/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+  "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+  "start_date": "2026-10-16"
+ },
+ {
+  "detected_at": "2026-10-18T16:36:28+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "RAMZ ALYAH",
+  "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/ramz-alyah/59845/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+  "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+  "start_date": "2026-10-16"
+ },
+ {
+  "detected_at": "2026-10-18T16:36:28+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "FAHAD YAS",
+  "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/fahad-yas/50004/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+  "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+  "start_date": "2026-10-16"
  }
 ]

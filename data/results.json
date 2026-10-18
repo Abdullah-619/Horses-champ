@@ -47139,7 +47139,7 @@
    "url": "https://www.arabianessence.tv/events/ajman-arabian-horse-show/115/"
   },
   "1150": {
-   "checked_at": "2026-10-18T15:34:17+00:00",
+   "checked_at": "2026-10-18T16:36:28+00:00",
    "end_date": "2026-10-19",
    "event_id": "1150",
    "location": "Sharjah Equestrian & Racing Club",
@@ -47375,7 +47375,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/junior-colts-championship-class-jcc/25622/",
      "start_date": "2026-10-16",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105207"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -47391,7 +47393,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/junior-colts-championship-class-jcc/25622/",
      "start_date": "2026-10-16",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105207"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -47406,6 +47410,56 @@
      "medal": "bronze",
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/junior-colts-championship-class-jcc/25622/",
+     "start_date": "2026-10-16",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105207"
+     ]
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "D MASHJI",
+     "horse_number": "216",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/d-mashji/21294/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/senior-stallions-championship-class-ssc/25623/",
+     "start_date": "2026-10-16",
+     "videos": []
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "RAMZ ALYAH",
+     "horse_number": "197",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/ramz-alyah/59845/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/senior-stallions-championship-class-ssc/25623/",
+     "start_date": "2026-10-16",
+     "videos": []
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-10-19",
+     "event_id": "1150",
+     "event_name": "Sharjah Arabian Horse Festival (UAE Bred) 2026",
+     "event_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/",
+     "horse_name": "FAHAD YAS",
+     "horse_number": "206",
+     "horse_url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/horses/fahad-yas/50004/",
+     "location": "Sharjah Equestrian & Racing Club",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-uae-bred-2026/1150/senior-stallions-championship-class-ssc/25623/",
      "start_date": "2026-10-16",
      "videos": []
     }
@@ -286840,5 +286894,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-18T15:34:34+00:00"
+ "updated_at": "2026-10-18T16:36:45+00:00"
 }
