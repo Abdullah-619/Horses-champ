@@ -1,0 +1,47 @@
+{
+ "checked": 789,
+ "ok": 785,
+ "failed": [],
+ "missing": [
+  {
+   "horse_id": "73265",
+   "horse": "JAZZ K.A.",
+   "medal": "gold",
+   "event_id": "1122",
+   "event_name": "Pompadour French and Straight Egyptian Championships 2026",
+   "championship": "Senior Stallions Championship (Class SSC)",
+   "url": "https://www.arabianessence.tv/events/pompadour-french-and-straight-egyptian-championships-2026/1122/senior-stallions-championship-class-ssc/24842/#competition24842",
+   "event_saved": true
+  }
+ ],
+ "extra": [
+  {
+   "horse_id": "10307",
+   "horse": "SUNDOWN KA",
+   "event_id": "729",
+   "medal": "platinum",
+   "count": 1
+  },
+  {
+   "horse_id": "13217",
+   "horse": "ANOOD AL NASSER",
+   "event_id": "696",
+   "medal": "platinum",
+   "count": 1
+  },
+  {
+   "horse_id": "79287",
+   "horse": "AH MAYASAH",
+   "event_id": "543",
+   "medal": "silver",
+   "count": 1
+  },
+  {
+   "horse_id": "79287",
+   "horse": "AH MAYASAH",
+   "event_id": "744",
+   "medal": "gold",
+   "count": 1
+  }
+ ]
+}
