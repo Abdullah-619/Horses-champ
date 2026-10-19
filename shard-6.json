@@ -1,0 +1,26 @@
+{
+ "checked": 789,
+ "ok": 787,
+ "failed": [],
+ "missing": [
+  {
+   "horse_id": "93871",
+   "horse": "RDS ASTANA",
+   "medal": "silver",
+   "event_id": "1085",
+   "event_name": "GCAT Americas Miami Beach 2026",
+   "championship": "Junior Fillies Championship (Class JFC)",
+   "url": "https://www.arabianessence.tv/events/gcat-americas-miami-beach-2026/1085/junior-fillies-championship-class-jfc/23989/#competition23989",
+   "event_saved": true
+  }
+ ],
+ "extra": [
+  {
+   "horse_id": "85962",
+   "horse": "QD MAYA",
+   "event_id": "1044",
+   "medal": "bronze",
+   "count": 1
+  }
+ ]
+}
