@@ -28608,9 +28608,12 @@
    "url": "https://www.arabianessence.tv/events/eurozone-cup-2026/1084/"
   },
   "1085": {
-   "checked_at": "2026-10-06T08:12:26+00:00",
+   "checked_at": "2026-10-19T04:30:28+00:00",
    "end_date": "2026-04-11",
    "event_id": "1085",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/gcat-americas-miami-beach-2026/1085/junior-fillies-championship-class-jfc/23989/"
+   ],
    "location": "Miami Beach - United States",
    "name": "GCAT Americas Miami Beach 2026",
    "results": [
@@ -28910,7 +28913,7 @@
      "event_url": "https://www.arabianessence.tv/events/gcat-americas-miami-beach-2026/1085/",
      "horse_name": "RDS ASTANA",
      "horse_number": "62",
-     "horse_url": "https://www.arabianessence.tv/events/gcat-americas-miami-beach-2026/1085/horses/rds-astana/105240/",
+     "horse_url": "https://www.arabianessence.tv/events/gcat-americas-miami-beach-2026/1085/horses/rds-astana/93871/",
      "location": "Miami Beach - United States",
      "medal": "silver",
      "result": "Silver Champion",
@@ -39899,9 +39902,12 @@
    "url": "https://www.arabianessence.tv/events/pompadour-international-show-2026/1120/"
   },
   "1122": {
-   "checked_at": "2026-10-06T08:11:49+00:00",
+   "checked_at": "2026-10-19T04:30:31+00:00",
    "end_date": "2026-07-26",
    "event_id": "1122",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/pompadour-french-and-straight-egyptian-championships-2026/1122/senior-stallions-championship-class-ssc/24842/"
+   ],
    "location": "Haras National Stade Équestre",
    "name": "Pompadour French and Straight Egyptian Championships 2026",
    "results": [
@@ -40273,7 +40279,7 @@
      "event_url": "https://www.arabianessence.tv/events/pompadour-french-and-straight-egyptian-championships-2026/1122/",
      "horse_name": "JAZZ K.A.",
      "horse_number": "66",
-     "horse_url": "https://www.arabianessence.tv/events/pompadour-french-and-straight-egyptian-championships-2026/1122/horses/jazz-k-a/109054/",
+     "horse_url": "https://www.arabianessence.tv/events/pompadour-french-and-straight-egyptian-championships-2026/1122/horses/jazz-k-a/73265/",
      "location": "Haras National Stade Équestre",
      "medal": "gold",
      "result": "Gold Champion",
@@ -286900,5 +286906,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-18T17:33:46+00:00"
+ "updated_at": "2026-10-19T04:30:31+00:00"
 }
