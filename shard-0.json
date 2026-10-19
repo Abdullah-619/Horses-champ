@@ -1,0 +1,29 @@
+{
+ "checked": 790,
+ "ok": 787,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "100480",
+   "horse": "ALMARA K.A",
+   "event_id": "1037",
+   "medal": "bronze",
+   "count": 1
+  },
+  {
+   "horse_id": "108341",
+   "horse": "WEBISTA",
+   "event_id": "1119",
+   "medal": "silver",
+   "count": 1
+  },
+  {
+   "horse_id": "109054",
+   "horse": "JAZZ K.A.",
+   "event_id": "1122",
+   "medal": "gold",
+   "count": 1
+  }
+ ]
+}
