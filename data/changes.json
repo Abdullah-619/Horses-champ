@@ -1954,5 +1954,41 @@
   "event_name": "ECAHO European Championship 2026",
   "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
   "start_date": "2026-10-24"
+ },
+ {
+  "detected_at": "2026-10-25T16:10:07+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "PTOLEMEUSZ",
+  "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/ptolemeusz/36337/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "ECAHO European Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+  "start_date": "2026-10-24"
+ },
+ {
+  "detected_at": "2026-10-25T16:10:07+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "POKER FACE KL",
+  "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/poker-face-kl/69653/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "ECAHO European Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+  "start_date": "2026-10-24"
+ },
+ {
+  "detected_at": "2026-10-25T16:10:07+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "PINITO",
+  "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/pinito/73251/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "ECAHO European Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+  "start_date": "2026-10-24"
  }
 ]
