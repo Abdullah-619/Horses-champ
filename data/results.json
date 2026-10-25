@@ -48485,12 +48485,277 @@
    "url": "https://www.arabianessence.tv/events/2nd-al-asayel-championship-for-purebred-ah-2026/1155/"
   },
   "1156": {
-   "checked_at": "2026-10-24T00:54:28+00:00",
+   "checked_at": "2026-10-25T14:12:41+00:00",
    "end_date": "2026-10-25",
    "event_id": "1156",
    "location": "Azelhof Horse Events",
    "name": "ECAHO European Championship 2026",
-   "results": [],
+   "results": [
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "PARALIA",
+     "horse_number": "36",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/paralia/107292/",
+     "location": "Azelhof Horse Events",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/yearling-fillies-championship-class-yfc/25668/",
+     "start_date": "2026-10-24",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105341"
+     ]
+    },
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "PERMINA",
+     "horse_number": "29",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/permina/107305/",
+     "location": "Azelhof Horse Events",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/yearling-fillies-championship-class-yfc/25668/",
+     "start_date": "2026-10-24",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105341"
+     ]
+    },
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "B.A. ALEXANDRIA",
+     "horse_number": "31",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/b-a-alexandria/106877/",
+     "location": "Azelhof Horse Events",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/yearling-fillies-championship-class-yfc/25668/",
+     "start_date": "2026-10-24",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105341"
+     ]
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "RUINART PPJ",
+     "horse_number": "60",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/ruinart-ppj/109392/",
+     "location": "Azelhof Horse Events",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/yearling-colts-championship-class-ycc/25669/",
+     "start_date": "2026-10-24",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105338"
+     ]
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "HOLOGRAM",
+     "horse_number": "70",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/hologram/107271/",
+     "location": "Azelhof Horse Events",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/yearling-colts-championship-class-ycc/25669/",
+     "start_date": "2026-10-24",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105338"
+     ]
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "DIAREN",
+     "horse_number": "69",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/diaren/107276/",
+     "location": "Azelhof Horse Events",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/yearling-colts-championship-class-ycc/25669/",
+     "start_date": "2026-10-24",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105338"
+     ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "PSYCHE ALIA",
+     "horse_number": "40",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/psyche-alia/94118/",
+     "location": "Azelhof Horse Events",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/junior-fillies-championship-class-jfc/25670/",
+     "start_date": "2026-10-24",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105340"
+     ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "EPIFORANA",
+     "horse_number": "50",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/epiforana/94151/",
+     "location": "Azelhof Horse Events",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/junior-fillies-championship-class-jfc/25670/",
+     "start_date": "2026-10-24",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105340"
+     ]
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "EURIPUSA",
+     "horse_number": "56",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/euripusa/106947/",
+     "location": "Azelhof Horse Events",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/junior-fillies-championship-class-jfc/25670/",
+     "start_date": "2026-10-24",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105340"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "CHALINO CJ",
+     "horse_number": "84",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/chalino-cj/81061/",
+     "location": "Azelhof Horse Events",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/junior-colts-championship-class-jcc/25671/",
+     "start_date": "2026-10-24",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105342"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "ASAM EL SAID",
+     "horse_number": "83",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/asam-el-said/69443/",
+     "location": "Azelhof Horse Events",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/junior-colts-championship-class-jcc/25671/",
+     "start_date": "2026-10-24",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105342"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "DYTWIN",
+     "horse_number": "72",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/dytwin/94081/",
+     "location": "Azelhof Horse Events",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/junior-colts-championship-class-jcc/25671/",
+     "start_date": "2026-10-24",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105342"
+     ]
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "AURELIA JMA",
+     "horse_number": "93",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/aurelia-jma/66588/",
+     "location": "Azelhof Horse Events",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/senior-mares-championship-class-smc/25672/",
+     "start_date": "2026-10-24",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "EKAROSA",
+     "horse_number": "89",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/ekarosa/94171/",
+     "location": "Azelhof Horse Events",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/senior-mares-championship-class-smc/25672/",
+     "start_date": "2026-10-24",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-10-25",
+     "event_id": "1156",
+     "event_name": "ECAHO European Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
+     "horse_name": "LUZIA N",
+     "horse_number": "104",
+     "horse_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/horses/luzia-n/37219/",
+     "location": "Azelhof Horse Events",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/senior-mares-championship-class-smc/25672/",
+     "start_date": "2026-10-24",
+     "videos": []
+    }
+   ],
    "start_date": "2026-10-24",
    "url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/"
   },
@@ -286916,5 +287181,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-24T00:54:37+00:00"
+ "updated_at": "2026-10-25T14:12:54+00:00"
 }
