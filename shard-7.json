@@ -1,0 +1,29 @@
+{
+ "checked": 789,
+ "ok": 787,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "13217",
+   "horse": "ANOOD AL NASSER",
+   "event_id": "696",
+   "medal": "platinum",
+   "count": 1
+  },
+  {
+   "horse_id": "79287",
+   "horse": "AH MAYASAH",
+   "event_id": "543",
+   "medal": "silver",
+   "count": 1
+  },
+  {
+   "horse_id": "79287",
+   "horse": "AH MAYASAH",
+   "event_id": "744",
+   "medal": "gold",
+   "count": 1
+  }
+ ]
+}
