@@ -1,0 +1,22 @@
+{
+ "checked": 789,
+ "ok": 787,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "108936",
+   "horse": "ELR SOLO SY",
+   "event_id": "1111",
+   "medal": "gold",
+   "count": 1
+  },
+  {
+   "horse_id": "85962",
+   "horse": "QD MAYA",
+   "event_id": "1044",
+   "medal": "bronze",
+   "count": 1
+  }
+ ]
+}
