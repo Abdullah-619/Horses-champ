@@ -1,0 +1,18 @@
+{
+ "checked": 789,
+ "ok": 788,
+ "failed": [],
+ "missing": [
+  {
+   "horse_id": "25263",
+   "horse": "KHALEESI",
+   "medal": "bronze",
+   "event_id": "477",
+   "event_name": "Egyptian Event Europe - Bergamo 2022",
+   "championship": "Mares Championship (Class MC)",
+   "url": "https://www.arabianessence.tv/events/egyptian-event-europe-bergamo-2022/477/mares-championship-class-mc/10881/#competition10881",
+   "event_saved": true
+  }
+ ],
+ "extra": []
+}
