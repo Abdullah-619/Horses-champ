@@ -50617,6 +50617,16 @@
    "start_date": "2026-10-15",
    "url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/"
   },
+  "1167": {
+   "checked_at": "2026-10-28T02:12:55+00:00",
+   "end_date": "2026-10-31",
+   "event_id": "1167",
+   "location": "Hail - Saudi Arabia",
+   "name": "Hail International Arabian Horse Show 2026",
+   "results": [],
+   "start_date": "2026-10-28",
+   "url": "https://www.arabianessence.tv/events/hail-international-arabian-horse-show-2026/1167/"
+  },
   "117": {
    "checked_at": "2026-10-08T05:36:51+00:00",
    "end_date": "2018-05-13",
@@ -287241,5 +287251,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-25T16:10:22+00:00"
+ "updated_at": "2026-10-28T02:13:11+00:00"
 }
