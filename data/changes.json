@@ -2242,5 +2242,41 @@
   "event_name": "Hail International Arabian Horse Show 2026",
   "event_url": "https://www.arabianessence.tv/events/hail-international-arabian-horse-show-2026/1167/",
   "start_date": "2026-10-28"
+ },
+ {
+  "detected_at": "2026-10-31T18:30:24+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "AJ TAJ",
+  "horse_url": "https://www.arabianessence.tv/events/hail-international-arabian-horse-show-2026/1167/horses/aj-taj/56368/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "Hail International Arabian Horse Show 2026",
+  "event_url": "https://www.arabianessence.tv/events/hail-international-arabian-horse-show-2026/1167/",
+  "start_date": "2026-10-28"
+ },
+ {
+  "detected_at": "2026-10-31T18:30:24+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "MHS WASM",
+  "horse_url": "https://www.arabianessence.tv/events/hail-international-arabian-horse-show-2026/1167/horses/mhs-wasm/102759/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "Hail International Arabian Horse Show 2026",
+  "event_url": "https://www.arabianessence.tv/events/hail-international-arabian-horse-show-2026/1167/",
+  "start_date": "2026-10-28"
+ },
+ {
+  "detected_at": "2026-10-31T18:30:24+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "SHUKRAN",
+  "horse_url": "https://www.arabianessence.tv/events/hail-international-arabian-horse-show-2026/1167/horses/shukran/71745/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "Hail International Arabian Horse Show 2026",
+  "event_url": "https://www.arabianessence.tv/events/hail-international-arabian-horse-show-2026/1167/",
+  "start_date": "2026-10-28"
  }
 ]
