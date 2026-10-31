@@ -51166,6 +51166,16 @@
    "start_date": "2018-05-12",
    "url": "https://www.arabianessence.tv/events/2018-austrian-national-and-international-show/117/"
   },
+  "1171": {
+   "checked_at": "2026-10-31T10:12:48+00:00",
+   "end_date": "2026-10-31",
+   "event_id": "1171",
+   "location": "Hail - Saudi Arabia",
+   "name": "Hail Horse Association for Foals Show 2026",
+   "results": [],
+   "start_date": "2026-10-31",
+   "url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/"
+  },
   "118": {
    "checked_at": "2026-10-08T05:36:44+00:00",
    "end_date": "2018-06-24",
@@ -287251,5 +287261,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-28T02:13:11+00:00"
+ "updated_at": "2026-10-31T10:13:03+00:00"
 }
