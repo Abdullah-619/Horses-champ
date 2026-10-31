@@ -1990,5 +1990,77 @@
   "event_name": "ECAHO European Championship 2026",
   "event_url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/",
   "start_date": "2026-10-24"
+ },
+ {
+  "detected_at": "2026-10-31T13:36:58+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "WARD AL ARAB",
+  "horse_url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/horses/ward-al-arab/112257/",
+  "championship": "Filly Foals Championship (Class FFC)",
+  "event_name": "Hail Horse Association for Foals Show 2026",
+  "event_url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/",
+  "start_date": "2026-10-31"
+ },
+ {
+  "detected_at": "2026-10-31T13:36:58+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "ALARYAM SARM",
+  "horse_url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/horses/alaryam-sarm/112252/",
+  "championship": "Filly Foals Championship (Class FFC)",
+  "event_name": "Hail Horse Association for Foals Show 2026",
+  "event_url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/",
+  "start_date": "2026-10-31"
+ },
+ {
+  "detected_at": "2026-10-31T13:36:58+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "NAJLAA MAHD",
+  "horse_url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/horses/najlaa-mahd/112251/",
+  "championship": "Filly Foals Championship (Class FFC)",
+  "event_name": "Hail Horse Association for Foals Show 2026",
+  "event_url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/",
+  "start_date": "2026-10-31"
+ },
+ {
+  "detected_at": "2026-10-31T13:36:58+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "LAHB AL ARAB",
+  "horse_url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/horses/lahb-al-arab/112267/",
+  "championship": "Colt Foals Championship (Class CFC)",
+  "event_name": "Hail Horse Association for Foals Show 2026",
+  "event_url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/",
+  "start_date": "2026-10-31"
+ },
+ {
+  "detected_at": "2026-10-31T13:36:58+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "DOC HARB",
+  "horse_url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/horses/doc-harb/112266/",
+  "championship": "Colt Foals Championship (Class CFC)",
+  "event_name": "Hail Horse Association for Foals Show 2026",
+  "event_url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/",
+  "start_date": "2026-10-31"
+ },
+ {
+  "detected_at": "2026-10-31T13:36:58+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "ENAD SARM",
+  "horse_url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/horses/enad-sarm/112265/",
+  "championship": "Colt Foals Championship (Class CFC)",
+  "event_name": "Hail Horse Association for Foals Show 2026",
+  "event_url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/",
+  "start_date": "2026-10-31"
  }
 ]
