@@ -51456,7 +51456,7 @@
    "url": "https://www.arabianessence.tv/events/2018-austrian-national-and-international-show/117/"
   },
   "1171": {
-   "checked_at": "2026-10-31T13:36:58+00:00",
+   "checked_at": "2026-11-02T06:13:33+00:00",
    "end_date": "2026-10-31",
    "event_id": "1171",
    "location": "Hail - Saudi Arabia",
@@ -51476,7 +51476,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/",
      "start_date": "2026-10-31",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105363"
+     ]
     },
     {
      "championship": "Filly Foals Championship (Class FFC)",
@@ -51492,7 +51494,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/",
      "start_date": "2026-10-31",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105363"
+     ]
     },
     {
      "championship": "Filly Foals Championship (Class FFC)",
@@ -51508,7 +51512,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/",
      "start_date": "2026-10-31",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105363"
+     ]
     },
     {
      "championship": "Colt Foals Championship (Class CFC)",
@@ -51524,7 +51530,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/",
      "start_date": "2026-10-31",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105362"
+     ]
     },
     {
      "championship": "Colt Foals Championship (Class CFC)",
@@ -51540,7 +51548,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/",
      "start_date": "2026-10-31",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105362"
+     ]
     },
     {
      "championship": "Colt Foals Championship (Class CFC)",
@@ -51556,7 +51566,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/",
      "start_date": "2026-10-31",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/105362"
+     ]
     }
    ],
    "start_date": "2026-10-31",
@@ -287647,5 +287659,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-10-31T18:30:30+00:00"
+ "updated_at": "2026-11-02T06:13:42+00:00"
 }
