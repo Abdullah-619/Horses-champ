@@ -1,0 +1,47 @@
+{
+ "checked": 791,
+ "ok": 786,
+ "failed": [],
+ "missing": [
+  {
+   "horse_id": "79836",
+   "horse": "SULTAN AL RAYYAN",
+   "medal": "gold",
+   "event_id": "1030",
+   "event_name": "The Egyptian Event Cairo 2025",
+   "championship": "SE Senior Stallions Championship & Most Classic Head (Class SESSC)",
+   "url": "https://www.arabianessence.tv/events/the-egyptian-event-cairo-2025/1030/se-senior-stallions-championship-amp-most-classic-head-class-sessc/22609/#competition22609",
+   "event_saved": true
+  }
+ ],
+ "extra": [
+  {
+   "horse_id": "100227",
+   "horse": "SULTAN AL RAYYAN",
+   "event_id": "1030",
+   "medal": "gold",
+   "count": 1
+  },
+  {
+   "horse_id": "100480",
+   "horse": "ALMARA K.A",
+   "event_id": "1037",
+   "medal": "bronze",
+   "count": 1
+  },
+  {
+   "horse_id": "108341",
+   "horse": "WEBISTA",
+   "event_id": "1119",
+   "medal": "silver",
+   "count": 1
+  },
+  {
+   "horse_id": "12004",
+   "horse": "BEKANZHA WZA",
+   "event_id": "765",
+   "medal": "gold",
+   "count": 1
+  }
+ ]
+}
