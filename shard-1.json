@@ -1,0 +1,29 @@
+{
+ "checked": 791,
+ "ok": 788,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "13217",
+   "horse": "ANOOD AL NASSER",
+   "event_id": "696",
+   "medal": "platinum",
+   "count": 1
+  },
+  {
+   "horse_id": "26476",
+   "horse": "WADIAN OX",
+   "event_id": "194",
+   "medal": "bronze",
+   "count": 1
+  },
+  {
+   "horse_id": "81287",
+   "horse": "CBA ISKANDAR",
+   "event_id": "786",
+   "medal": "bronze",
+   "count": 1
+  }
+ ]
+}
