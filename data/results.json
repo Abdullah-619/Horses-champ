@@ -9627,9 +9627,12 @@
    "url": "https://www.arabianessence.tv/events/paris-2017-arabian-horse-world-championship/103/"
   },
   "1030": {
-   "checked_at": "2026-10-08T05:13:28+00:00",
+   "checked_at": "2026-11-02T11:57:29+00:00",
    "end_date": "2025-11-08",
    "event_id": "1030",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/the-egyptian-event-cairo-2025/1030/se-senior-stallions-championship-amp-most-classic-head-class-sessc/22609/"
+   ],
    "location": "Pegasus Equestrian Center, Wahat Road, Dreamland",
    "name": "The Egyptian Event Cairo 2025",
    "results": [
@@ -9911,7 +9914,7 @@
      "event_url": "https://www.arabianessence.tv/events/the-egyptian-event-cairo-2025/1030/",
      "horse_name": "SULTAN AL RAYYAN",
      "horse_number": "139",
-     "horse_url": "https://www.arabianessence.tv/events/the-egyptian-event-cairo-2025/1030/horses/sultan-al-rayyan/100227/",
+     "horse_url": "https://www.arabianessence.tv/events/the-egyptian-event-cairo-2025/1030/horses/sultan-al-rayyan/79836/",
      "location": "Pegasus Equestrian Center, Wahat Road, Dreamland",
      "medal": "gold",
      "result": "Gold Champion",
@@ -287698,5 +287701,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-02T07:38:31+00:00"
+ "updated_at": "2026-11-02T11:57:37+00:00"
 }
