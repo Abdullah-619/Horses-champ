@@ -105953,9 +105953,12 @@
    "url": "https://www.arabianessence.tv/events/dubai-international-arabian-horse-championship-2021/315/"
   },
   "316": {
-   "checked_at": "2026-10-08T05:28:26+00:00",
+   "checked_at": "2026-11-02T06:31:32+00:00",
    "end_date": "2021-08-15",
    "event_id": "316",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/championnat-de-france-du-cheval-arabe-vichy-2021/316/filly-foals-class-12/8072/"
+   ],
    "location": "Stade du Sichon",
    "name": "Championnat de France du Cheval Arabe - Vichy 2021",
    "results": [
@@ -105967,7 +105970,7 @@
      "event_url": "https://www.arabianessence.tv/events/championnat-de-france-du-cheval-arabe-vichy-2021/316/",
      "horse_name": "KIRA",
      "horse_number": "77",
-     "horse_url": "https://www.arabianessence.tv/events/championnat-de-france-du-cheval-arabe-vichy-2021/316/horses/kira/41320/",
+     "horse_url": "https://www.arabianessence.tv/events/championnat-de-france-du-cheval-arabe-vichy-2021/316/horses/kira/55211/",
      "location": "Stade du Sichon",
      "medal": "gold",
      "result": "Gold Champion",
@@ -287659,5 +287662,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-02T06:13:42+00:00"
+ "updated_at": "2026-11-02T06:31:39+00:00"
 }
