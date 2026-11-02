@@ -1,0 +1,29 @@
+{
+ "checked": 791,
+ "ok": 788,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "108936",
+   "horse": "ELR SOLO SY",
+   "event_id": "1111",
+   "medal": "gold",
+   "count": 1
+  },
+  {
+   "horse_id": "12739",
+   "horse": "SEHER AL JAMAL",
+   "event_id": "378",
+   "medal": "silver",
+   "count": 1
+  },
+  {
+   "horse_id": "618",
+   "horse": "EKS ALIHANDRO",
+   "event_id": "696",
+   "medal": "platinum",
+   "count": 1
+  }
+ ]
+}
