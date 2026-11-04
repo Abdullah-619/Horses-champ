@@ -48822,6 +48822,16 @@
    "start_date": "2026-10-24",
    "url": "https://www.arabianessence.tv/events/ecaho-european-championship-2026/1156/"
   },
+  "1157": {
+   "checked_at": "2026-11-04T00:12:07+00:00",
+   "end_date": "2026-11-07",
+   "event_id": "1157",
+   "location": "Longines outdoor arena",
+   "name": "Al Shaqab International Arabian Horse Show 2026",
+   "results": [],
+   "start_date": "2026-11-04",
+   "url": "https://www.arabianessence.tv/events/al-shaqab-international-arabian-horse-show-2026/1157/"
+  },
   "1158": {
    "checked_at": "2026-10-06T09:28:56+00:00",
    "end_date": "2026-10-04",
@@ -287701,5 +287711,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-02T11:57:37+00:00"
+ "updated_at": "2026-11-04T00:12:16+00:00"
 }
