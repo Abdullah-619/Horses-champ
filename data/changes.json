@@ -2278,5 +2278,101 @@
   "event_name": "Hail International Arabian Horse Show 2026",
   "event_url": "https://www.arabianessence.tv/events/hail-international-arabian-horse-show-2026/1167/",
   "start_date": "2026-10-28"
+ },
+ {
+  "detected_at": "2026-11-06T17:56:34+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "FANATICA PPJ",
+  "horse_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/horses/fanatica-ppj/96791/",
+  "championship": "Yearling FIllies Championship (Class YFC)",
+  "event_name": "Arabian Dream 2026 - International Festival",
+  "event_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+  "start_date": "2026-11-06"
+ },
+ {
+  "detected_at": "2026-11-06T17:56:34+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "RK BASSUMAH",
+  "horse_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/horses/rk-bassumah/111472/",
+  "championship": "Yearling FIllies Championship (Class YFC)",
+  "event_name": "Arabian Dream 2026 - International Festival",
+  "event_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+  "start_date": "2026-11-06"
+ },
+ {
+  "detected_at": "2026-11-06T17:56:34+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "AROSA EL TINI",
+  "horse_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/horses/arosa-el-tini/94181/",
+  "championship": "Yearling FIllies Championship (Class YFC)",
+  "event_name": "Arabian Dream 2026 - International Festival",
+  "event_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+  "start_date": "2026-11-06"
+ },
+ {
+  "detected_at": "2026-11-06T17:56:34+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "D WAHHAG",
+  "horse_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/horses/d-wahhag/110522/",
+  "championship": "Yearling Colts Championship (Class YCC)",
+  "event_name": "Arabian Dream 2026 - International Festival",
+  "event_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+  "start_date": "2026-11-06"
+ },
+ {
+  "detected_at": "2026-11-06T17:56:34+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "SANTORINI",
+  "horse_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/horses/santorini/109093/",
+  "championship": "Yearling Colts Championship (Class YCC)",
+  "event_name": "Arabian Dream 2026 - International Festival",
+  "event_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+  "start_date": "2026-11-06"
+ },
+ {
+  "detected_at": "2026-11-06T17:56:34+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "PAVALA RA",
+  "horse_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/horses/pavala-ra/107468/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "Arabian Dream 2026 - International Festival",
+  "event_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+  "start_date": "2026-11-06"
+ },
+ {
+  "detected_at": "2026-11-06T17:56:34+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "RK ALKADI",
+  "horse_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/horses/rk-alkadi/96694/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "Arabian Dream 2026 - International Festival",
+  "event_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+  "start_date": "2026-11-06"
+ },
+ {
+  "detected_at": "2026-11-06T17:56:34+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "JURASHEEMA L",
+  "horse_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/horses/jurasheema-l/93808/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "Arabian Dream 2026 - International Festival",
+  "event_url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+  "start_date": "2026-11-06"
  }
 ]
