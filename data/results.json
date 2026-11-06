@@ -51504,6 +51504,16 @@
    "start_date": "2018-05-12",
    "url": "https://www.arabianessence.tv/events/2018-austrian-national-and-international-show/117/"
   },
+  "1170": {
+   "checked_at": "2026-11-06T00:12:46+00:00",
+   "end_date": "2026-11-08",
+   "event_id": "1170",
+   "location": "Fieracavalli",
+   "name": "Arabian Dream 2026 - International Festival",
+   "results": [],
+   "start_date": "2026-11-06",
+   "url": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/"
+  },
   "1171": {
    "checked_at": "2026-11-02T06:13:33+00:00",
    "end_date": "2026-10-31",
@@ -287711,5 +287721,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-04T00:12:16+00:00"
+ "updated_at": "2026-11-06T00:12:55+00:00"
 }
