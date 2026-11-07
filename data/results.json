@@ -30789,6 +30789,16 @@
    "start_date": "2026-10-06",
    "url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/"
   },
+  "1091": {
+   "checked_at": "2026-11-07T02:11:58+00:00",
+   "end_date": "2026-11-08",
+   "event_id": "1091",
+   "location": "Fieracavalli",
+   "name": "EAHGC Italy 2026",
+   "results": [],
+   "start_date": "2026-11-07",
+   "url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/"
+  },
   "1093": {
    "checked_at": "2026-10-06T08:12:21+00:00",
    "end_date": "2026-05-03",
@@ -287994,5 +288004,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-06T20:13:06+00:00"
+ "updated_at": "2026-11-07T02:12:22+00:00"
 }
