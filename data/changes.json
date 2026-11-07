@@ -2662,5 +2662,41 @@
   "event_name": "Al Shaqab International Arabian Horse Show 2026",
   "event_url": "https://www.arabianessence.tv/events/al-shaqab-international-arabian-horse-show-2026/1157/",
   "start_date": "2026-11-04"
+ },
+ {
+  "detected_at": "2026-11-07T20:12:15+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "AJ TAYAM",
+  "horse_url": "https://www.arabianessence.tv/events/al-shaqab-international-arabian-horse-show-2026/1157/horses/aj-tayam/79496/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "Al Shaqab International Arabian Horse Show 2026",
+  "event_url": "https://www.arabianessence.tv/events/al-shaqab-international-arabian-horse-show-2026/1157/",
+  "start_date": "2026-11-04"
+ },
+ {
+  "detected_at": "2026-11-07T20:12:15+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "ALFAHAD",
+  "horse_url": "https://www.arabianessence.tv/events/al-shaqab-international-arabian-horse-show-2026/1157/horses/alfahad/32709/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "Al Shaqab International Arabian Horse Show 2026",
+  "event_url": "https://www.arabianessence.tv/events/al-shaqab-international-arabian-horse-show-2026/1157/",
+  "start_date": "2026-11-04"
+ },
+ {
+  "detected_at": "2026-11-07T20:12:15+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "OMEIR AL SRAIYA",
+  "horse_url": "https://www.arabianessence.tv/events/al-shaqab-international-arabian-horse-show-2026/1157/horses/omeir-al-sraiya/69865/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "Al Shaqab International Arabian Horse Show 2026",
+  "event_url": "https://www.arabianessence.tv/events/al-shaqab-international-arabian-horse-show-2026/1157/",
+  "start_date": "2026-11-04"
  }
 ]
