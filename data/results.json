@@ -30790,12 +30790,109 @@
    "url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/"
   },
   "1091": {
-   "checked_at": "2026-11-07T02:11:58+00:00",
+   "checked_at": "2026-11-08T14:12:10+00:00",
    "end_date": "2026-11-08",
    "event_id": "1091",
    "location": "Fieracavalli",
    "name": "EAHGC Italy 2026",
-   "results": [],
+   "results": [
+    {
+     "championship": "Yearling FIllies Championship (Class YFC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "ALYSSYA BY TRESCA",
+     "horse_number": "16",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/alyssya-by-tresca/96704/",
+     "location": "Fieracavalli",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/yearling-fillies-championship-class-yfc/25779/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Yearling FIllies Championship (Class YFC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "AROSA EL TINI",
+     "horse_number": "13",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/arosa-el-tini/94181/",
+     "location": "Fieracavalli",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/yearling-fillies-championship-class-yfc/25779/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Yearling FIllies Championship (Class YFC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "SAMIRA AVA",
+     "horse_number": "1",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/samira-ava/112423/",
+     "location": "Fieracavalli",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/yearling-fillies-championship-class-yfc/25779/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "EBTIHAJJ M",
+     "horse_number": "63",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/ebtihajj-m/106854/",
+     "location": "Fieracavalli",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/yearling-colts-championship-class-ycc/25780/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "ALL MY DREAM",
+     "horse_number": "65",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/all-my-dream/100042/",
+     "location": "Fieracavalli",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/yearling-colts-championship-class-ycc/25780/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "AL ASLAN",
+     "horse_number": "61",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/al-aslan/111478/",
+     "location": "Fieracavalli",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/yearling-colts-championship-class-ycc/25780/",
+     "start_date": "2026-11-07",
+     "videos": []
+    }
+   ],
    "start_date": "2026-11-07",
    "url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/"
   },
@@ -288363,5 +288460,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-08T12:12:28+00:00"
+ "updated_at": "2026-11-08T14:12:22+00:00"
 }
