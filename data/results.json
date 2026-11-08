@@ -30790,7 +30790,7 @@
    "url": "https://www.arabianessence.tv/events/eahgc-china-2026/1090/"
   },
   "1091": {
-   "checked_at": "2026-11-08T14:12:10+00:00",
+   "checked_at": "2026-11-08T18:12:02+00:00",
    "end_date": "2026-11-08",
    "event_id": "1091",
    "location": "Fieracavalli",
@@ -30889,6 +30889,198 @@
      "medal": "bronze",
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/yearling-colts-championship-class-ycc/25780/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "MARILYN GALLARIA",
+     "horse_number": "33",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/marilyn-gallaria/69262/",
+     "location": "Fieracavalli",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/junior-fillies-championship-class-jfc/25781/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "PAMELAH O",
+     "horse_number": "28",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/pamelah-o/84330/",
+     "location": "Fieracavalli",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/junior-fillies-championship-class-jfc/25781/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "ALEPH MALVINA",
+     "horse_number": "29",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/aleph-malvina/84305/",
+     "location": "Fieracavalli",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/junior-fillies-championship-class-jfc/25781/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "USHUAIA TMA",
+     "horse_number": "74",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/ushuaia-tma/84296/",
+     "location": "Fieracavalli",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/junior-colts-championship-class-jcc/25782/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "MEKONG MONISCIONE",
+     "horse_number": "80",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/mekong-moniscione/80592/",
+     "location": "Fieracavalli",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/junior-colts-championship-class-jcc/25782/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "BERNINI REGALIS",
+     "horse_number": "83",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/bernini-regalis/57797/",
+     "location": "Fieracavalli",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/junior-colts-championship-class-jcc/25782/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "RAFINNA PPJ",
+     "horse_number": "48",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/rafinna-ppj/27344/",
+     "location": "Fieracavalli",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/senior-mares-championship-class-smc/25783/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "EUPHORIKA",
+     "horse_number": "50",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/euphorika/70794/",
+     "location": "Fieracavalli",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/senior-mares-championship-class-smc/25783/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "SHAKIRA BY RASHEED",
+     "horse_number": "36",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/shakira-by-rasheed/56051/",
+     "location": "Fieracavalli",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/senior-mares-championship-class-smc/25783/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "EL DRACO RA",
+     "horse_number": "87",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/el-draco-ra/73343/",
+     "location": "Fieracavalli",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/senior-stallions-championship-class-ssc/25784/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "ABHA EJAR",
+     "horse_number": "91",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/abha-ejar/25206/",
+     "location": "Fieracavalli",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/senior-stallions-championship-class-ssc/25784/",
+     "start_date": "2026-11-07",
+     "videos": []
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-11-08",
+     "event_id": "1091",
+     "event_name": "EAHGC Italy 2026",
+     "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
+     "horse_name": "HERMES SCAH",
+     "horse_number": "84",
+     "horse_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/horses/hermes-scah/69137/",
+     "location": "Fieracavalli",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/senior-stallions-championship-class-ssc/25784/",
      "start_date": "2026-11-07",
      "videos": []
     }
@@ -51937,7 +52129,7 @@
    "url": "https://www.arabianessence.tv/events/2018-austrian-national-and-international-show/117/"
   },
   "1170": {
-   "checked_at": "2026-11-08T12:12:19+00:00",
+   "checked_at": "2026-11-08T18:12:10+00:00",
    "end_date": "2026-11-08",
    "event_id": "1170",
    "location": "Fieracavalli",
@@ -51955,7 +52147,7 @@
      "location": "Fieracavalli",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/yearling-fillies-championship-class-yfc/25760/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105643"
@@ -51973,7 +52165,7 @@
      "location": "Fieracavalli",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/yearling-fillies-championship-class-yfc/25760/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105643"
@@ -51991,7 +52183,7 @@
      "location": "Fieracavalli",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/yearling-fillies-championship-class-yfc/25760/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105643"
@@ -52009,7 +52201,7 @@
      "location": "Fieracavalli",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/yearling-colts-championship-class-ycc/25761/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105644"
@@ -52027,7 +52219,7 @@
      "location": "Fieracavalli",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/yearling-colts-championship-class-ycc/25761/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105644"
@@ -52045,7 +52237,7 @@
      "location": "Fieracavalli",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/junior-fillies-championship-class-jfc/25762/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105645"
@@ -52063,7 +52255,7 @@
      "location": "Fieracavalli",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/junior-fillies-championship-class-jfc/25762/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105645"
@@ -52081,7 +52273,7 @@
      "location": "Fieracavalli",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/junior-fillies-championship-class-jfc/25762/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105645"
@@ -52099,7 +52291,7 @@
      "location": "Fieracavalli",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/junior-colts-championship-class-jcc/25763/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105646"
@@ -52117,7 +52309,7 @@
      "location": "Fieracavalli",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/junior-colts-championship-class-jcc/25763/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105646"
@@ -52135,7 +52327,7 @@
      "location": "Fieracavalli",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/junior-colts-championship-class-jcc/25763/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105646"
@@ -52153,7 +52345,7 @@
      "location": "Fieracavalli",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/senior-mares-championship-class-smc/25764/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105647"
@@ -52171,7 +52363,7 @@
      "location": "Fieracavalli",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/senior-mares-championship-class-smc/25764/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105647"
@@ -52189,7 +52381,7 @@
      "location": "Fieracavalli",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/senior-mares-championship-class-smc/25764/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105647"
@@ -52207,7 +52399,7 @@
      "location": "Fieracavalli",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/senior-stallions-championship-class-ssc/25765/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105648"
@@ -52225,7 +52417,7 @@
      "location": "Fieracavalli",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/senior-stallions-championship-class-ssc/25765/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105648"
@@ -52243,7 +52435,7 @@
      "location": "Fieracavalli",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/",
+     "source": "https://www.arabianessence.tv/events/arabian-dream-2026-international-festival/1170/senior-stallions-championship-class-ssc/25765/",
      "start_date": "2026-11-06",
      "videos": [
       "https://www.arabianessence.tv/watch/video/105648"
@@ -288460,5 +288652,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-08T14:12:22+00:00"
+ "updated_at": "2026-11-08T18:12:18+00:00"
 }
