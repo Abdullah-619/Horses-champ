@@ -1,0 +1,15 @@
+{
+ "checked": 791,
+ "ok": 790,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "85962",
+   "horse": "QD MAYA",
+   "event_id": "1044",
+   "medal": "bronze",
+   "count": 1
+  }
+ ]
+}
