@@ -1,0 +1,29 @@
+{
+ "checked": 792,
+ "ok": 789,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "10307",
+   "horse": "SUNDOWN KA",
+   "event_id": "729",
+   "medal": "platinum",
+   "count": 1
+  },
+  {
+   "horse_id": "109030",
+   "horse": "JOSEPH'S VIOLETTA",
+   "event_id": "1122",
+   "medal": "silver",
+   "count": 1
+  },
+  {
+   "horse_id": "12004",
+   "horse": "BEKANZHA WZA",
+   "event_id": "765",
+   "medal": "gold",
+   "count": 1
+  }
+ ]
+}
