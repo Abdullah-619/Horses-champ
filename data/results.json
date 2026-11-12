@@ -49827,6 +49827,16 @@
    "start_date": "2026-10-03",
    "url": "https://www.arabianessence.tv/events/spanish-nationals-2026/1158/"
   },
+  "1159": {
+   "checked_at": "2026-11-12T00:13:25+00:00",
+   "end_date": "2026-11-14",
+   "event_id": "1159",
+   "location": "Um Hableen District",
+   "name": "17th Makkah International A.H. Festival 2026",
+   "results": [],
+   "start_date": "2026-11-12",
+   "url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/"
+  },
   "116": {
    "checked_at": "2026-10-08T05:36:56+00:00",
    "end_date": "2018-03-17",
@@ -52599,6 +52609,16 @@
    ],
    "start_date": "2026-10-31",
    "url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/"
+  },
+  "1172": {
+   "checked_at": "2026-11-12T00:13:32+00:00",
+   "end_date": "2026-11-14",
+   "event_id": "1172",
+   "location": "Elzahraa Stud",
+   "name": "Egyptian National Championship 2026",
+   "results": [],
+   "start_date": "2026-11-12",
+   "url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/"
   },
   "118": {
    "checked_at": "2026-10-08T05:36:44+00:00",
@@ -288688,5 +288708,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-09T12:19:31+00:00"
+ "updated_at": "2026-11-12T00:13:42+00:00"
 }
