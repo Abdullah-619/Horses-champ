@@ -46567,6 +46567,16 @@
    "start_date": "2026-09-11",
    "url": "https://www.arabianessence.tv/events/rawabi-arabians-breeders-show-2026/1146/"
   },
+  "1147": {
+   "checked_at": "2026-11-13T02:12:58+00:00",
+   "end_date": "2026-11-15",
+   "event_id": "1147",
+   "location": "Doha - Qatar",
+   "name": "6th Qatar Arabian Breeders Cup 2026",
+   "results": [],
+   "start_date": "2026-11-13",
+   "url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/"
+  },
   "1148": {
    "checked_at": "2026-10-11T16:26:27+00:00",
    "end_date": "2026-10-11",
@@ -52619,6 +52629,16 @@
    "results": [],
    "start_date": "2026-11-12",
    "url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/"
+  },
+  "1174": {
+   "checked_at": "2026-11-13T02:13:08+00:00",
+   "end_date": "2026-11-14",
+   "event_id": "1174",
+   "location": "EIEC",
+   "name": "2nd Iraq National Arabians Championship IAHO 2026",
+   "results": [],
+   "start_date": "2026-11-13",
+   "url": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/"
   },
   "118": {
    "checked_at": "2026-10-08T05:36:44+00:00",
@@ -288708,5 +288728,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-12T00:13:42+00:00"
+ "updated_at": "2026-11-13T02:13:47+00:00"
 }
