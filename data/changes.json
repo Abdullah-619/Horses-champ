@@ -2914,5 +2914,41 @@
   "event_name": "EAHGC Italy 2026",
   "event_url": "https://www.arabianessence.tv/events/eahgc-italy-2026/1091/",
   "start_date": "2026-11-07"
+ },
+ {
+  "detected_at": "2026-11-14T12:13:09+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "TAMR HENA AL SAHM",
+  "horse_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/horses/tamr-hena-al-sahm/111271/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "Egyptian National Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+  "start_date": "2026-11-12"
+ },
+ {
+  "detected_at": "2026-11-14T12:13:09+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "KAHILA GOBRAN",
+  "horse_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/horses/kahila-gobran/112614/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "Egyptian National Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+  "start_date": "2026-11-12"
+ },
+ {
+  "detected_at": "2026-11-14T12:13:09+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "SHEMOUKH HAWAZEN",
+  "horse_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/horses/shemoukh-hawazen/112585/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "Egyptian National Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+  "start_date": "2026-11-12"
  }
 ]
