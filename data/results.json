@@ -49838,7 +49838,7 @@
    "url": "https://www.arabianessence.tv/events/spanish-nationals-2026/1158/"
   },
   "1159": {
-   "checked_at": "2026-11-14T20:13:03+00:00",
+   "checked_at": "2026-11-14T21:26:52+00:00",
    "end_date": "2026-11-15",
    "event_id": "1159",
    "location": "Um Hableen District",
@@ -49906,7 +49906,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/ksa-desert-bred-colts-championship-class-10/25830/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106097"
+     ]
     },
     {
      "championship": "KSA Desert Bred - Colts Championship (Class 10)",
@@ -49922,7 +49924,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/ksa-desert-bred-colts-championship-class-10/25830/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106097"
+     ]
     },
     {
      "championship": "KSA Desert Bred - Colts Championship (Class 10)",
@@ -49938,7 +49942,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/ksa-desert-bred-colts-championship-class-10/25830/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106097"
+     ]
     },
     {
      "championship": "KSA Desert Bred - Mares Championship (Class 11)",
@@ -50273,6 +50279,102 @@
      "medal": "bronze",
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/yearling-colts-championship-class-ycc/25836/",
+     "start_date": "2026-11-12",
+     "videos": []
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "AREEJ AKMAL",
+     "horse_number": "75",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/areej-akmal/92220/",
+     "location": "Um Hableen District",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/junior-fillies-championship-class-jfc/25837/",
+     "start_date": "2026-11-12",
+     "videos": []
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "MIRAL ALBASHA",
+     "horse_number": "73",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/miral-albasha/86758/",
+     "location": "Um Hableen District",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/junior-fillies-championship-class-jfc/25837/",
+     "start_date": "2026-11-12",
+     "videos": []
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "TAYMAA QM",
+     "horse_number": "51",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/taymaa-qm/112898/",
+     "location": "Um Hableen District",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/junior-fillies-championship-class-jfc/25837/",
+     "start_date": "2026-11-12",
+     "videos": []
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "NADER ATHBAH",
+     "horse_number": "177",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/nader-athbah/99121/",
+     "location": "Um Hableen District",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/junior-colts-championship-class-jcc/25838/",
+     "start_date": "2026-11-12",
+     "videos": []
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "ABLAJ KHAFAJI",
+     "horse_number": "175",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/ablaj-khafaji/99118/",
+     "location": "Um Hableen District",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/junior-colts-championship-class-jcc/25838/",
+     "start_date": "2026-11-12",
+     "videos": []
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "AR GHAITH",
+     "horse_number": "195",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/ar-ghaith/85802/",
+     "location": "Um Hableen District",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/junior-colts-championship-class-jcc/25838/",
      "start_date": "2026-11-12",
      "videos": []
     }
@@ -53389,7 +53491,7 @@
    "url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/"
   },
   "1174": {
-   "checked_at": "2026-11-14T20:12:45+00:00",
+   "checked_at": "2026-11-14T21:26:34+00:00",
    "end_date": "2026-11-14",
    "event_id": "1174",
    "location": "EIEC",
@@ -53407,9 +53509,11 @@
      "location": "EIEC",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/yearling-fillies-championship-class-yfc/25853/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106104"
+     ]
     },
     {
      "championship": "Yearling Fillies Championship (Class YFC)",
@@ -53423,9 +53527,11 @@
      "location": "EIEC",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/yearling-fillies-championship-class-yfc/25853/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106104"
+     ]
     },
     {
      "championship": "Yearling Fillies Championship (Class YFC)",
@@ -53439,9 +53545,11 @@
      "location": "EIEC",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/yearling-fillies-championship-class-yfc/25853/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106104"
+     ]
     },
     {
      "championship": "Junior Fillies Championship (Class JFC)",
@@ -53455,9 +53563,11 @@
      "location": "EIEC",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/junior-fillies-championship-class-jfc/25854/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106105"
+     ]
     },
     {
      "championship": "Junior Fillies Championship (Class JFC)",
@@ -53471,9 +53581,11 @@
      "location": "EIEC",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/junior-fillies-championship-class-jfc/25854/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106105"
+     ]
     },
     {
      "championship": "Junior Fillies Championship (Class JFC)",
@@ -53487,9 +53599,11 @@
      "location": "EIEC",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/junior-fillies-championship-class-jfc/25854/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106105"
+     ]
     },
     {
      "championship": "Senior Mares Championship (Class SMC)",
@@ -53503,9 +53617,11 @@
      "location": "EIEC",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/senior-mares-championship-class-smc/25855/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106106"
+     ]
     },
     {
      "championship": "Senior Mares Championship (Class SMC)",
@@ -53519,9 +53635,11 @@
      "location": "EIEC",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/senior-mares-championship-class-smc/25855/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106106"
+     ]
     },
     {
      "championship": "Senior Mares Championship (Class SMC)",
@@ -53535,9 +53653,11 @@
      "location": "EIEC",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/senior-mares-championship-class-smc/25855/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106106"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -53551,9 +53671,11 @@
      "location": "EIEC",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/yearling-colts-championship-class-ycc/25856/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106107"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -53567,9 +53689,11 @@
      "location": "EIEC",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/yearling-colts-championship-class-ycc/25856/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106107"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -53583,9 +53707,11 @@
      "location": "EIEC",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/yearling-colts-championship-class-ycc/25856/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106107"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -53599,9 +53725,11 @@
      "location": "EIEC",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/junior-colts-championship-class-jcc/25857/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106108"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -53615,9 +53743,11 @@
      "location": "EIEC",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/junior-colts-championship-class-jcc/25857/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106108"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -53631,9 +53761,11 @@
      "location": "EIEC",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/junior-colts-championship-class-jcc/25857/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106108"
+     ]
     },
     {
      "championship": "Senior Stallions Championship (Class SSC)",
@@ -53647,9 +53779,11 @@
      "location": "EIEC",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/senior-stallions-championship-class-ssc/25858/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106109"
+     ]
     },
     {
      "championship": "Senior Stallions Championship (Class SSC)",
@@ -53663,9 +53797,11 @@
      "location": "EIEC",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/senior-stallions-championship-class-ssc/25858/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106109"
+     ]
     },
     {
      "championship": "Senior Stallions Championship (Class SSC)",
@@ -53679,9 +53815,11 @@
      "location": "EIEC",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/senior-stallions-championship-class-ssc/25858/",
+     "source": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/",
      "start_date": "2026-11-13",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106109"
+     ]
     }
    ],
    "start_date": "2026-11-13",
@@ -289775,5 +289913,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-14T20:13:15+00:00"
+ "updated_at": "2026-11-14T21:27:05+00:00"
 }
