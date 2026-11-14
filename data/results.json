@@ -49838,12 +49838,109 @@
    "url": "https://www.arabianessence.tv/events/spanish-nationals-2026/1158/"
   },
   "1159": {
-   "checked_at": "2026-11-14T12:12:59+00:00",
+   "checked_at": "2026-11-14T16:12:51+00:00",
    "end_date": "2026-11-15",
    "event_id": "1159",
    "location": "Um Hableen District",
    "name": "17th Makkah International A.H. Festival 2026",
-   "results": [],
+   "results": [
+    {
+     "championship": "KSA Desert Bred - Fillies Championship (Class 9)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "ESHAA ATHBAH",
+     "horse_number": "276",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/eshaa-athbah/88750/",
+     "location": "Um Hableen District",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/ksa-desert-bred-fillies-championship-class-9/25829/",
+     "start_date": "2026-11-12",
+     "videos": []
+    },
+    {
+     "championship": "KSA Desert Bred - Fillies Championship (Class 9)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "TARFAH AL HANA",
+     "horse_number": "274",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/tarfah-al-hana/100383/",
+     "location": "Um Hableen District",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/ksa-desert-bred-fillies-championship-class-9/25829/",
+     "start_date": "2026-11-12",
+     "videos": []
+    },
+    {
+     "championship": "KSA Desert Bred - Fillies Championship (Class 9)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "WASMA GHARBA",
+     "horse_number": "275",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/wasma-gharba/102113/",
+     "location": "Um Hableen District",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/ksa-desert-bred-fillies-championship-class-9/25829/",
+     "start_date": "2026-11-12",
+     "videos": []
+    },
+    {
+     "championship": "KSA Desert Bred - Colts Championship (Class 10)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "MUTRAF ATHBAH",
+     "horse_number": "277",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/mutraf-athbah/104013/",
+     "location": "Um Hableen District",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/ksa-desert-bred-colts-championship-class-10/25830/",
+     "start_date": "2026-11-12",
+     "videos": []
+    },
+    {
+     "championship": "KSA Desert Bred - Colts Championship (Class 10)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "SAHM ALAJAB",
+     "horse_number": "280",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/sahm-alajab/102125/",
+     "location": "Um Hableen District",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/ksa-desert-bred-colts-championship-class-10/25830/",
+     "start_date": "2026-11-12",
+     "videos": []
+    },
+    {
+     "championship": "KSA Desert Bred - Colts Championship (Class 10)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "RAED ALMAZMUM",
+     "horse_number": "278",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/raed-almazmum/104015/",
+     "location": "Um Hableen District",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/ksa-desert-bred-colts-championship-class-10/25830/",
+     "start_date": "2026-11-12",
+     "videos": []
+    }
+   ],
    "start_date": "2026-11-12",
    "url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/"
   },
@@ -52621,7 +52718,7 @@
    "url": "https://www.arabianessence.tv/events/hail-horse-association-for-foals-show-2026/1171/"
   },
   "1172": {
-   "checked_at": "2026-11-14T14:13:18+00:00",
+   "checked_at": "2026-11-14T16:12:52+00:00",
    "end_date": "2026-11-14",
    "event_id": "1172",
    "location": "Elzahraa Stud",
@@ -52639,9 +52736,11 @@
      "location": "Elzahraa Stud",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/yearling-fillies-championship-class-yfc/25801/",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106071"
+     ]
     },
     {
      "championship": "Yearling Fillies Championship (Class YFC)",
@@ -52655,9 +52754,11 @@
      "location": "Elzahraa Stud",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/yearling-fillies-championship-class-yfc/25801/",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106071"
+     ]
     },
     {
      "championship": "Yearling Fillies Championship (Class YFC)",
@@ -52671,9 +52772,11 @@
      "location": "Elzahraa Stud",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/yearling-fillies-championship-class-yfc/25801/",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106071"
+     ]
     },
     {
      "championship": "Junior Fillies Championship (Class JFC)",
@@ -52687,9 +52790,11 @@
      "location": "Elzahraa Stud",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/junior-fillies-championship-class-jfc/25802/",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106067"
+     ]
     },
     {
      "championship": "Junior Fillies Championship (Class JFC)",
@@ -52703,9 +52808,11 @@
      "location": "Elzahraa Stud",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/junior-fillies-championship-class-jfc/25802/",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106067"
+     ]
     },
     {
      "championship": "Junior Fillies Championship (Class JFC)",
@@ -52719,9 +52826,11 @@
      "location": "Elzahraa Stud",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/junior-fillies-championship-class-jfc/25802/",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106067"
+     ]
     },
     {
      "championship": "Senior Mares Championship (Class SMC)",
@@ -52735,9 +52844,11 @@
      "location": "Elzahraa Stud",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/senior-mares-championship-class-smc/25803/",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106068"
+     ]
     },
     {
      "championship": "Senior Mares Championship (Class SMC)",
@@ -52751,9 +52862,11 @@
      "location": "Elzahraa Stud",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/senior-mares-championship-class-smc/25803/",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106068"
+     ]
     },
     {
      "championship": "Senior Mares Championship (Class SMC)",
@@ -52767,9 +52880,11 @@
      "location": "Elzahraa Stud",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/senior-mares-championship-class-smc/25803/",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106068"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -52783,9 +52898,11 @@
      "location": "Elzahraa Stud",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/yearling-colts-championship-class-ycc/25804/",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106070"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -52799,9 +52916,11 @@
      "location": "Elzahraa Stud",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/yearling-colts-championship-class-ycc/25804/",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106070"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -52815,9 +52934,119 @@
      "location": "Elzahraa Stud",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/yearling-colts-championship-class-ycc/25804/",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106070"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-11-14",
+     "event_id": "1172",
+     "event_name": "Egyptian National Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+     "horse_name": "NISR AL ALAA",
+     "horse_number": "149",
+     "horse_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/horses/nisr-al-alaa/80311/",
+     "location": "Elzahraa Stud",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+     "start_date": "2026-11-12",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106066"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-11-14",
+     "event_id": "1172",
+     "event_name": "Egyptian National Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+     "horse_name": "SEHAB AL BAKRY",
+     "horse_number": "142",
+     "horse_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/horses/sehab-al-bakry/98328/",
+     "location": "Elzahraa Stud",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+     "start_date": "2026-11-12",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106066"
+     ]
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-11-14",
+     "event_id": "1172",
+     "event_name": "Egyptian National Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+     "horse_name": "NADEER AL ASAYEL",
+     "horse_number": "136",
+     "horse_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/horses/nadeer-al-asayel/112734/",
+     "location": "Elzahraa Stud",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+     "start_date": "2026-11-12",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106066"
+     ]
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-11-14",
+     "event_id": "1172",
+     "event_name": "Egyptian National Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+     "horse_name": "KENZ AL BANANEYA",
+     "horse_number": "173",
+     "horse_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/horses/kenz-al-bananeya/112757/",
+     "location": "Elzahraa Stud",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+     "start_date": "2026-11-12",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106069"
+     ]
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-11-14",
+     "event_id": "1172",
+     "event_name": "Egyptian National Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+     "horse_name": "HAMD AL TARZY",
+     "horse_number": "166",
+     "horse_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/horses/hamd-al-tarzy/48183/",
+     "location": "Elzahraa Stud",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+     "start_date": "2026-11-12",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106069"
+     ]
+    },
+    {
+     "championship": "Senior Stallions Championship (Class SSC)",
+     "end_date": "2026-11-14",
+     "event_id": "1172",
+     "event_name": "Egyptian National Championship 2026",
+     "event_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+     "horse_name": "BADEAA EL SHERUK",
+     "horse_number": "160",
+     "horse_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/horses/badeaa-el-sheruk/90973/",
+     "location": "Elzahraa Stud",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
+     "start_date": "2026-11-12",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106069"
+     ]
     }
    ],
    "start_date": "2026-11-12",
@@ -288921,5 +289150,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-14T14:13:30+00:00"
+ "updated_at": "2026-11-14T16:13:04+00:00"
 }
