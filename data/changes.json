@@ -3202,5 +3202,41 @@
   "event_name": "Egyptian National Championship 2026",
   "event_url": "https://www.arabianessence.tv/events/egyptian-national-championship-2026/1172/",
   "start_date": "2026-11-12"
+ },
+ {
+  "detected_at": "2026-11-14T16:37:46+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "EA'TIZAZ ATHBAH",
+  "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/ea-tizaz-athbah/50076/",
+  "championship": "KSA Desert Bred - Mares Championship (Class 11)",
+  "event_name": "17th Makkah International A.H. Festival 2026",
+  "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+  "start_date": "2026-11-12"
+ },
+ {
+  "detected_at": "2026-11-14T16:37:46+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "MANARAH ATHBAH",
+  "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/manarah-athbah/72457/",
+  "championship": "KSA Desert Bred - Mares Championship (Class 11)",
+  "event_name": "17th Makkah International A.H. Festival 2026",
+  "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+  "start_date": "2026-11-12"
+ },
+ {
+  "detected_at": "2026-11-14T16:37:46+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "FARHAT WATAN",
+  "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/farhat-watan/37736/",
+  "championship": "KSA Desert Bred - Mares Championship (Class 11)",
+  "event_name": "17th Makkah International A.H. Festival 2026",
+  "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+  "start_date": "2026-11-12"
  }
 ]

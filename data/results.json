@@ -49838,7 +49838,7 @@
    "url": "https://www.arabianessence.tv/events/spanish-nationals-2026/1158/"
   },
   "1159": {
-   "checked_at": "2026-11-14T16:12:51+00:00",
+   "checked_at": "2026-11-14T16:37:46+00:00",
    "end_date": "2026-11-15",
    "event_id": "1159",
    "location": "Um Hableen District",
@@ -49937,6 +49937,54 @@
      "medal": "bronze",
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/ksa-desert-bred-colts-championship-class-10/25830/",
+     "start_date": "2026-11-12",
+     "videos": []
+    },
+    {
+     "championship": "KSA Desert Bred - Mares Championship (Class 11)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "EA'TIZAZ ATHBAH",
+     "horse_number": "283",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/ea-tizaz-athbah/50076/",
+     "location": "Um Hableen District",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/ksa-desert-bred-mares-championship-class-11/25831/",
+     "start_date": "2026-11-12",
+     "videos": []
+    },
+    {
+     "championship": "KSA Desert Bred - Mares Championship (Class 11)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "MANARAH ATHBAH",
+     "horse_number": "285",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/manarah-athbah/72457/",
+     "location": "Um Hableen District",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/ksa-desert-bred-mares-championship-class-11/25831/",
+     "start_date": "2026-11-12",
+     "videos": []
+    },
+    {
+     "championship": "KSA Desert Bred - Mares Championship (Class 11)",
+     "end_date": "2026-11-15",
+     "event_id": "1159",
+     "event_name": "17th Makkah International A.H. Festival 2026",
+     "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
+     "horse_name": "FARHAT WATAN",
+     "horse_number": "288",
+     "horse_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/horses/farhat-watan/37736/",
+     "location": "Um Hableen District",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/ksa-desert-bred-mares-championship-class-11/25831/",
      "start_date": "2026-11-12",
      "videos": []
     }
@@ -289150,5 +289198,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-14T16:13:04+00:00"
+ "updated_at": "2026-11-14T16:37:59+00:00"
 }
