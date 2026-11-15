@@ -46568,7 +46568,7 @@
    "url": "https://www.arabianessence.tv/events/rawabi-arabians-breeders-show-2026/1146/"
   },
   "1147": {
-   "checked_at": "2026-11-15T14:12:55+00:00",
+   "checked_at": "2026-11-15T16:11:58+00:00",
    "end_date": "2026-11-15",
    "event_id": "1147",
    "location": "Doha - Qatar",
@@ -46586,7 +46586,7 @@
      "location": "Doha - Qatar",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/yearling-fillies-championship-class-yfc/25876/",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
      "start_date": "2026-11-13",
      "videos": [
       "https://www.arabianessence.tv/watch/video/106129"
@@ -46604,7 +46604,7 @@
      "location": "Doha - Qatar",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/yearling-fillies-championship-class-yfc/25876/",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
      "start_date": "2026-11-13",
      "videos": [
       "https://www.arabianessence.tv/watch/video/106129"
@@ -46622,7 +46622,7 @@
      "location": "Doha - Qatar",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/yearling-fillies-championship-class-yfc/25876/",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
      "start_date": "2026-11-13",
      "videos": [
       "https://www.arabianessence.tv/watch/video/106129"
@@ -46640,7 +46640,7 @@
      "location": "Doha - Qatar",
      "medal": "gold",
      "result": "Gold Champion",
-     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/yearling-colts-championship-class-ycc/25877/",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
      "start_date": "2026-11-13",
      "videos": []
     },
@@ -46656,7 +46656,7 @@
      "location": "Doha - Qatar",
      "medal": "silver",
      "result": "Silver Champion",
-     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/yearling-colts-championship-class-ycc/25877/",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
      "start_date": "2026-11-13",
      "videos": []
     },
@@ -46672,7 +46672,151 @@
      "location": "Doha - Qatar",
      "medal": "bronze",
      "result": "Bronze Champion",
-     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/yearling-colts-championship-class-ycc/25877/",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "start_date": "2026-11-13",
+     "videos": []
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "FALWA AL SHAQAB",
+     "horse_number": "43",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/falwa-al-shaqab/99800/",
+     "location": "Doha - Qatar",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "start_date": "2026-11-13",
+     "videos": []
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "QAMASHA AL SHAQAB",
+     "horse_number": "51",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/qamasha-al-shaqab/88251/",
+     "location": "Doha - Qatar",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "start_date": "2026-11-13",
+     "videos": []
+    },
+    {
+     "championship": "Junior Fillies Championship (Class JFC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "ELYSSA AL JOOD",
+     "horse_number": "58",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/elyssa-al-jood/73936/",
+     "location": "Doha - Qatar",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "start_date": "2026-11-13",
+     "videos": []
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "DSTOOR AL SRAIYA",
+     "horse_number": "97",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/dstoor-al-sraiya/88254/",
+     "location": "Doha - Qatar",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "start_date": "2026-11-13",
+     "videos": []
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "SHALESH AL SHAQAB",
+     "horse_number": "100",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/shalesh-al-shaqab/89130/",
+     "location": "Doha - Qatar",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "start_date": "2026-11-13",
+     "videos": []
+    },
+    {
+     "championship": "Junior Colts Championship (Class JCC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "AZZAM UMM ALUDHAM",
+     "horse_number": "107",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/azzam-umm-aludham/73270/",
+     "location": "Doha - Qatar",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "start_date": "2026-11-13",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "ALKAYDAH AL SRAIYA",
+     "horse_number": "122",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/alkaydah-al-sraiya/69867/",
+     "location": "Doha - Qatar",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "start_date": "2026-11-13",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "MAYAR JATHAB",
+     "horse_number": "119",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/mayar-jathab/50333/",
+     "location": "Doha - Qatar",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "start_date": "2026-11-13",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "BASHAYER AL BAWADI",
+     "horse_number": "121",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/bashayer-al-bawadi/69924/",
+     "location": "Doha - Qatar",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
      "start_date": "2026-11-13",
      "videos": []
     }
@@ -290130,5 +290274,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-15T14:13:08+00:00"
+ "updated_at": "2026-11-15T16:12:13+00:00"
 }
