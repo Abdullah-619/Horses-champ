@@ -3778,5 +3778,77 @@
   "event_name": "17th Makkah International A.H. Festival 2026",
   "event_url": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
   "start_date": "2026-11-12"
+ },
+ {
+  "detected_at": "2026-11-15T14:12:55+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "HAMALEEL AL SHAQAB",
+  "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/hamaleel-al-shaqab/99802/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "6th Qatar Arabian Breeders Cup 2026",
+  "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+  "start_date": "2026-11-13"
+ },
+ {
+  "detected_at": "2026-11-15T14:12:55+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "LUNA ALJASSIMYA",
+  "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/luna-aljassimya/110242/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "6th Qatar Arabian Breeders Cup 2026",
+  "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+  "start_date": "2026-11-13"
+ },
+ {
+  "detected_at": "2026-11-15T14:12:55+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "MASHAEL MUDHAR",
+  "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/mashael-mudhar/97287/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "6th Qatar Arabian Breeders Cup 2026",
+  "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+  "start_date": "2026-11-13"
+ },
+ {
+  "detected_at": "2026-11-15T14:12:55+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "JERYAN AL THAMER",
+  "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/jeryan-al-thamer/111983/",
+  "championship": "Yearling Colts Championship (Class YCC)",
+  "event_name": "6th Qatar Arabian Breeders Cup 2026",
+  "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+  "start_date": "2026-11-13"
+ },
+ {
+  "detected_at": "2026-11-15T14:12:55+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "HADDAJ AL SRAIYA",
+  "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/haddaj-al-sraiya/86816/",
+  "championship": "Yearling Colts Championship (Class YCC)",
+  "event_name": "6th Qatar Arabian Breeders Cup 2026",
+  "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+  "start_date": "2026-11-13"
+ },
+ {
+  "detected_at": "2026-11-15T14:12:55+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "HARIB AL JOOD",
+  "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/harib-al-jood/97417/",
+  "championship": "Yearling Colts Championship (Class YCC)",
+  "event_name": "6th Qatar Arabian Breeders Cup 2026",
+  "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+  "start_date": "2026-11-13"
  }
 ]

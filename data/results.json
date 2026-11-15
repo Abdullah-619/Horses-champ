@@ -46568,12 +46568,115 @@
    "url": "https://www.arabianessence.tv/events/rawabi-arabians-breeders-show-2026/1146/"
   },
   "1147": {
-   "checked_at": "2026-11-13T02:12:58+00:00",
+   "checked_at": "2026-11-15T14:12:55+00:00",
    "end_date": "2026-11-15",
    "event_id": "1147",
    "location": "Doha - Qatar",
    "name": "6th Qatar Arabian Breeders Cup 2026",
-   "results": [],
+   "results": [
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "HAMALEEL AL SHAQAB",
+     "horse_number": "17",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/hamaleel-al-shaqab/99802/",
+     "location": "Doha - Qatar",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/yearling-fillies-championship-class-yfc/25876/",
+     "start_date": "2026-11-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106129"
+     ]
+    },
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "LUNA ALJASSIMYA",
+     "horse_number": "24",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/luna-aljassimya/110242/",
+     "location": "Doha - Qatar",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/yearling-fillies-championship-class-yfc/25876/",
+     "start_date": "2026-11-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106129"
+     ]
+    },
+    {
+     "championship": "Yearling Fillies Championship (Class YFC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "MASHAEL MUDHAR",
+     "horse_number": "16",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/mashael-mudhar/97287/",
+     "location": "Doha - Qatar",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/yearling-fillies-championship-class-yfc/25876/",
+     "start_date": "2026-11-13",
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106129"
+     ]
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "JERYAN AL THAMER",
+     "horse_number": "81",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/jeryan-al-thamer/111983/",
+     "location": "Doha - Qatar",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/yearling-colts-championship-class-ycc/25877/",
+     "start_date": "2026-11-13",
+     "videos": []
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "HADDAJ AL SRAIYA",
+     "horse_number": "77",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/haddaj-al-sraiya/86816/",
+     "location": "Doha - Qatar",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/yearling-colts-championship-class-ycc/25877/",
+     "start_date": "2026-11-13",
+     "videos": []
+    },
+    {
+     "championship": "Yearling Colts Championship (Class YCC)",
+     "end_date": "2026-11-15",
+     "event_id": "1147",
+     "event_name": "6th Qatar Arabian Breeders Cup 2026",
+     "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
+     "horse_name": "HARIB AL JOOD",
+     "horse_number": "84",
+     "horse_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/horses/harib-al-jood/97417/",
+     "location": "Doha - Qatar",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/yearling-colts-championship-class-ycc/25877/",
+     "start_date": "2026-11-13",
+     "videos": []
+    }
+   ],
    "start_date": "2026-11-13",
    "url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/"
   },
@@ -49838,7 +49941,7 @@
    "url": "https://www.arabianessence.tv/events/spanish-nationals-2026/1158/"
   },
   "1159": {
-   "checked_at": "2026-11-15T00:12:29+00:00",
+   "checked_at": "2026-11-15T14:12:58+00:00",
    "end_date": "2026-11-15",
    "event_id": "1159",
    "location": "Um Hableen District",
@@ -49858,7 +49961,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106113"
+     ]
     },
     {
      "championship": "KSA Desert Bred - Fillies Championship (Class 9)",
@@ -49874,7 +49979,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106113"
+     ]
     },
     {
      "championship": "KSA Desert Bred - Fillies Championship (Class 9)",
@@ -49890,7 +49997,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106113"
+     ]
     },
     {
      "championship": "KSA Desert Bred - Colts Championship (Class 10)",
@@ -49960,7 +50069,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106128"
+     ]
     },
     {
      "championship": "KSA Desert Bred - Mares Championship (Class 11)",
@@ -49976,7 +50087,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106128"
+     ]
     },
     {
      "championship": "KSA Desert Bred - Mares Championship (Class 11)",
@@ -49992,7 +50105,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106128"
+     ]
     },
     {
      "championship": "KSA Desert Bred - Stallions Championship (Class 12)",
@@ -50008,7 +50123,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106115"
+     ]
     },
     {
      "championship": "KSA Desert Bred - Stallions Championship (Class 12)",
@@ -50024,7 +50141,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106115"
+     ]
     },
     {
      "championship": "KSA Desert Bred - Stallions Championship (Class 12)",
@@ -50040,7 +50159,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106115"
+     ]
     },
     {
      "championship": "Filly Foals Championship (Class FFC)",
@@ -50056,7 +50177,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106127"
+     ]
     },
     {
      "championship": "Filly Foals Championship (Class FFC)",
@@ -50072,7 +50195,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106127"
+     ]
     },
     {
      "championship": "Filly Foals Championship (Class FFC)",
@@ -50088,7 +50213,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106127"
+     ]
     },
     {
      "championship": "Colt Foals Championship (Class CFC)",
@@ -50104,7 +50231,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106116"
+     ]
     },
     {
      "championship": "Colt Foals Championship (Class CFC)",
@@ -50120,7 +50249,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106116"
+     ]
     },
     {
      "championship": "Colt Foals Championship (Class CFC)",
@@ -50136,7 +50267,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106116"
+     ]
     },
     {
      "championship": "Senior Stallions Championship (Class SSC)",
@@ -50152,7 +50285,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106117"
+     ]
     },
     {
      "championship": "Senior Stallions Championship (Class SSC)",
@@ -50168,7 +50303,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106117"
+     ]
     },
     {
      "championship": "Senior Stallions Championship (Class SSC)",
@@ -50184,7 +50321,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106117"
+     ]
     },
     {
      "championship": "Yearling Fillies Championship (Class YFC)",
@@ -50200,7 +50339,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106118"
+     ]
     },
     {
      "championship": "Yearling Fillies Championship (Class YFC)",
@@ -50216,7 +50357,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106118"
+     ]
     },
     {
      "championship": "Yearling Fillies Championship (Class YFC)",
@@ -50232,7 +50375,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106118"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -50248,7 +50393,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106124"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -50264,7 +50411,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106124"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -50280,7 +50429,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106124"
+     ]
     },
     {
      "championship": "Junior Fillies Championship (Class JFC)",
@@ -50296,7 +50447,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106123"
+     ]
     },
     {
      "championship": "Junior Fillies Championship (Class JFC)",
@@ -50312,7 +50465,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106123"
+     ]
     },
     {
      "championship": "Junior Fillies Championship (Class JFC)",
@@ -50328,7 +50483,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106123"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -50344,7 +50501,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106122"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -50360,7 +50519,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106122"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -50376,7 +50537,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106122"
+     ]
     },
     {
      "championship": "Senior Mares Championship (Class SMC)",
@@ -50392,7 +50555,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106119"
+     ]
     },
     {
      "championship": "Senior Mares Championship (Class SMC)",
@@ -50408,7 +50573,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106119"
+     ]
     },
     {
      "championship": "Senior Mares Championship (Class SMC)",
@@ -50424,7 +50591,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/17th-makkah-international-a-h-festival-2026/1159/",
      "start_date": "2026-11-12",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106119"
+     ]
     }
    ],
    "start_date": "2026-11-12",
@@ -289961,5 +290130,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-15T00:12:39+00:00"
+ "updated_at": "2026-11-15T14:13:08+00:00"
 }
