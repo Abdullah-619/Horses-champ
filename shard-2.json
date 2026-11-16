@@ -1,0 +1,22 @@
+{
+ "checked": 797,
+ "ok": 795,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "100480",
+   "horse": "ALMARA K.A",
+   "event_id": "1037",
+   "medal": "bronze",
+   "count": 1
+  },
+  {
+   "horse_id": "17527",
+   "horse": "SINGAAR GHARNATAH",
+   "event_id": "113",
+   "medal": "bronze",
+   "count": 1
+  }
+ ]
+}
