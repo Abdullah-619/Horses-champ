@@ -19811,9 +19811,12 @@
    "url": "https://www.arabianessence.tv/events/winter-arabian-horse-auction-2025/1060/"
   },
   "1061": {
-   "checked_at": "2026-10-06T08:13:09+00:00",
+   "checked_at": "2026-11-16T06:31:55+00:00",
    "end_date": "2025-12-13",
    "event_id": "1061",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/the-8th-international-ahc-show-2025/1061/senior-stallions-championship-class-ssc/22960/"
+   ],
    "location": "King Abdulaziz Arabian Horse Center",
    "name": "The 8th International AHC Show 2025",
    "results": [
@@ -20437,7 +20440,7 @@
      "event_url": "https://www.arabianessence.tv/events/the-8th-international-ahc-show-2025/1061/",
      "horse_name": "FUERTE",
      "horse_number": "746",
-     "horse_url": "https://www.arabianessence.tv/events/the-8th-international-ahc-show-2025/1061/horses/fuerte/101537/",
+     "horse_url": "https://www.arabianessence.tv/events/the-8th-international-ahc-show-2025/1061/horses/fuerte/7526/",
      "location": "King Abdulaziz Arabian Horse Center",
      "medal": "silver",
      "result": "Silver Champion",
@@ -20470,9 +20473,12 @@
    "url": "https://www.arabianessence.tv/events/the-8th-international-ahc-show-2025/1061/"
   },
   "1062": {
-   "checked_at": "2026-10-06T08:12:47+00:00",
+   "checked_at": "2026-11-16T06:31:52+00:00",
    "end_date": "2026-01-31",
    "event_id": "1062",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/psaiahf-2026/1062/senior-stallions-championship-class-ssc/23551/"
+   ],
    "location": "Al Khalediah Farm",
    "name": "PSAIAHF 2026",
    "results": [
@@ -20988,7 +20994,7 @@
      "event_url": "https://www.arabianessence.tv/events/psaiahf-2026/1062/",
      "horse_name": "FUERTE",
      "horse_number": "303",
-     "horse_url": "https://www.arabianessence.tv/events/psaiahf-2026/1062/horses/fuerte/101537/",
+     "horse_url": "https://www.arabianessence.tv/events/psaiahf-2026/1062/horses/fuerte/7526/",
      "location": "Al Khalediah Farm",
      "medal": "silver",
      "result": "Silver Champion",
@@ -269305,9 +269311,12 @@
    "url": "https://www.arabianessence.tv/events/10th-qatar-peninsula-ahs-for-individual-owners-2025/908/"
   },
   "909": {
-   "checked_at": "2026-10-06T08:15:22+00:00",
+   "checked_at": "2026-11-16T06:31:47+00:00",
    "end_date": "2025-05-04",
    "event_id": "909",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/13th-qatar-national-ahs-for-individual-owners-2025/909/junior-fillies-championship-class-jfc/20666/"
+   ],
    "location": "Qatar Equestrian Federation (QEF) Indoor Arena",
    "name": "13th Qatar National AHS for Individual Owners 2025",
    "results": [
@@ -269427,7 +269436,7 @@
      "event_url": "https://www.arabianessence.tv/events/13th-qatar-national-ahs-for-individual-owners-2025/909/",
      "horse_name": "AYSHA EV",
      "horse_number": "178",
-     "horse_url": "https://www.arabianessence.tv/events/13th-qatar-national-ahs-for-individual-owners-2025/909/horses/aysha-ev/91867/",
+     "horse_url": "https://www.arabianessence.tv/events/13th-qatar-national-ahs-for-individual-owners-2025/909/horses/aysha-ev/66765/",
      "location": "Qatar Equestrian Federation (QEF) Indoor Arena",
      "medal": "gold",
      "result": "Gold Champion",
@@ -290298,5 +290307,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-15T18:12:42+00:00"
+ "updated_at": "2026-11-16T06:31:55+00:00"
 }
