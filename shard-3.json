@@ -1,0 +1,29 @@
+{
+ "checked": 797,
+ "ok": 794,
+ "failed": [],
+ "missing": [],
+ "extra": [
+  {
+   "horse_id": "10307",
+   "horse": "SUNDOWN KA",
+   "event_id": "729",
+   "medal": "platinum",
+   "count": 1
+  },
+  {
+   "horse_id": "12739",
+   "horse": "SEHER AL JAMAL",
+   "event_id": "378",
+   "medal": "silver",
+   "count": 1
+  },
+  {
+   "horse_id": "85962",
+   "horse": "QD MAYA",
+   "event_id": "1044",
+   "medal": "bronze",
+   "count": 1
+  }
+ ]
+}
