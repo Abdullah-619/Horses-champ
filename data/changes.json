@@ -3958,5 +3958,41 @@
   "event_name": "6th Qatar Arabian Breeders Cup 2026",
   "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-breeders-cup-2026/1147/",
   "start_date": "2026-11-13"
+ },
+ {
+  "detected_at": "2026-11-19T18:12:03+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "HES MAGIA",
+  "horse_url": "https://www.arabianessence.tv/events/eahgc-brazil-2026/1092/horses/hes-magia/108402/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "EAHGC Brazil 2026",
+  "event_url": "https://www.arabianessence.tv/events/eahgc-brazil-2026/1092/",
+  "start_date": "2026-11-19"
+ },
+ {
+  "detected_at": "2026-11-19T18:12:03+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "IMAN HDC",
+  "horse_url": "https://www.arabianessence.tv/events/eahgc-brazil-2026/1092/horses/iman-hdc/113275/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "EAHGC Brazil 2026",
+  "event_url": "https://www.arabianessence.tv/events/eahgc-brazil-2026/1092/",
+  "start_date": "2026-11-19"
+ },
+ {
+  "detected_at": "2026-11-19T18:12:03+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "HYPNOSE HDC",
+  "horse_url": "https://www.arabianessence.tv/events/eahgc-brazil-2026/1092/horses/hypnose-hdc/113278/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "EAHGC Brazil 2026",
+  "event_url": "https://www.arabianessence.tv/events/eahgc-brazil-2026/1092/",
+  "start_date": "2026-11-19"
  }
 ]
