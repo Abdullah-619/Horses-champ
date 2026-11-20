@@ -51991,6 +51991,16 @@
    "start_date": "2026-10-01",
    "url": "https://www.arabianessence.tv/events/4th-sumer-int-festival-2026-straight-egyptian/1161/"
   },
+  "1162": {
+   "checked_at": "2026-11-20T00:12:16+00:00",
+   "end_date": "2026-11-22",
+   "event_id": "1162",
+   "location": "Doha - Qatar",
+   "name": "6th Qatar Arabian Horse Show for Local Bred 2026",
+   "results": [],
+   "start_date": "2026-11-20",
+   "url": "https://www.arabianessence.tv/events/6th-qatar-arabian-horse-show-for-local-bred-2026/1162/"
+  },
   "1163": {
    "checked_at": "2026-10-11T11:25:27+00:00",
    "end_date": "2026-10-11",
@@ -290624,5 +290634,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-19T21:28:03+00:00"
+ "updated_at": "2026-11-20T00:12:33+00:00"
 }
