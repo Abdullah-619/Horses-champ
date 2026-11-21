@@ -54543,6 +54543,16 @@
    "start_date": "2026-11-13",
    "url": "https://www.arabianessence.tv/events/2nd-iraq-national-arabians-championship-iaho-2026/1174/"
   },
+  "1178": {
+   "checked_at": "2026-11-21T00:11:51+00:00",
+   "end_date": "2026-11-22",
+   "event_id": "1178",
+   "location": "Ajman - United Arab Emirates",
+   "name": "Ajman Arabian Horses Auction 2026",
+   "results": [],
+   "start_date": "2026-11-21",
+   "url": "https://www.arabianessence.tv/events/ajman-arabian-horses-auction-2026/1178/"
+  },
   "118": {
    "checked_at": "2026-10-08T05:36:44+00:00",
    "end_date": "2018-06-24",
@@ -290634,5 +290644,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-20T00:12:33+00:00"
+ "updated_at": "2026-11-21T00:12:08+00:00"
 }
