@@ -52563,6 +52563,16 @@
    "start_date": "2026-10-15",
    "url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/"
   },
+  "1166": {
+   "checked_at": "2026-11-22T03:05:42+00:00",
+   "end_date": "2026-11-24",
+   "event_id": "1166",
+   "location": "Military Sports Union - Road 4725, Block 947",
+   "name": "Bahrain National Championship 2026",
+   "results": [],
+   "start_date": "2026-11-22",
+   "url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/"
+  },
   "1167": {
    "checked_at": "2026-11-02T07:38:23+00:00",
    "end_date": "2026-10-31",
@@ -290644,5 +290654,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-21T23:09:54+00:00"
+ "updated_at": "2026-11-22T03:05:55+00:00"
 }
