@@ -39187,9 +39187,12 @@
    "url": "https://www.arabianessence.tv/events/palestine-19th-b-international-ah-show-2026/1116/"
   },
   "1117": {
-   "checked_at": "2026-10-06T08:12:02+00:00",
+   "checked_at": "2026-11-23T12:33:48+00:00",
    "end_date": "2026-07-10",
    "event_id": "1117",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/gcat-monaco-2026/1117/junior-fillies-championship-class-jfc/24494/"
+   ],
    "location": "Port Hercule",
    "name": "GCAT Monaco 2026",
    "results": [
@@ -39345,7 +39348,7 @@
      "event_url": "https://www.arabianessence.tv/events/gcat-monaco-2026/1117/",
      "horse_name": "AL ARYAM HARBAH",
      "horse_number": "46",
-     "horse_url": "https://www.arabianessence.tv/events/gcat-monaco-2026/1117/horses/al-aryam-harbah/108234/",
+     "horse_url": "https://www.arabianessence.tv/events/gcat-monaco-2026/1117/horses/al-aryam-harbah/74417/",
      "location": "Port Hercule",
      "medal": "bronze",
      "result": "Bronze Champion",
@@ -46113,9 +46116,12 @@
    "url": "https://www.arabianessence.tv/events/gcat-americas-las-vegas-2026/1144/"
   },
   "1145": {
-   "checked_at": "2026-10-08T11:28:42+00:00",
+   "checked_at": "2026-11-23T12:33:46+00:00",
    "end_date": "2026-09-27",
    "event_id": "1145",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/gcat-aachen-2026-final-and-all-nations-cup/1145/junior-fillies-championship-class-jfc/25352/"
+   ],
    "location": "100.5 Arena",
    "name": "GCAT Aachen 2026 - Final & All Nations Cup",
    "results": [
@@ -46253,7 +46259,7 @@
      "event_url": "https://www.arabianessence.tv/events/gcat-aachen-2026-final-and-all-nations-cup/1145/",
      "horse_name": "AL ARYAM HARBAH",
      "horse_number": "55",
-     "horse_url": "https://www.arabianessence.tv/events/gcat-aachen-2026-final-amp-all-nations-cup/1145/horses/al-aryam-harbah/108234/",
+     "horse_url": "https://www.arabianessence.tv/events/gcat-aachen-2026-final-amp-all-nations-cup/1145/horses/al-aryam-harbah/74417/",
      "location": "100.5 Arena",
      "medal": "silver",
      "result": "Silver Champion",
@@ -85455,9 +85461,12 @@
    "url": "https://www.arabianessence.tv/events/qrec-race-horse-auction-2019/225/"
   },
   "226": {
-   "checked_at": "2026-10-08T05:33:40+00:00",
+   "checked_at": "2026-11-23T12:33:53+00:00",
    "end_date": "2019-12-08",
    "event_id": "226",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/22nd-qatar-national-arabian-horse-show/226/colt-foals-championship-class-21/5366/"
+   ],
    "location": "Qatar Racing & Equestrian Club",
    "name": "22nd Qatar National Arabian Horse Show",
    "results": [
@@ -85557,9 +85566,9 @@
      "event_id": "226",
      "event_name": "22nd Qatar National Arabian Horse Show",
      "event_url": "https://www.arabianessence.tv/events/22nd-qatar-national-arabian-horse-show/226/",
-     "horse_name": "SULTAN ALKHOR",
+     "horse_name": "SULTAN AL KHOR",
      "horse_number": "51",
-     "horse_url": "https://www.arabianessence.tv/events/22nd-qatar-national-arabian-horse-show/226/horses/sultan-alkhor/45445/",
+     "horse_url": "https://www.arabianessence.tv/events/22nd-qatar-national-arabian-horse-show/226/horses/sultan-al-khor/99812/",
      "location": "Qatar Racing & Equestrian Club",
      "medal": "bronze",
      "result": "Bronze Champion",
@@ -134062,9 +134071,12 @@
    "url": "https://www.arabianessence.tv/events/kuwait-international-egyptian-event-2022/403/"
   },
   "404": {
-   "checked_at": "2026-10-08T05:26:19+00:00",
+   "checked_at": "2026-11-23T12:33:51+00:00",
    "end_date": "2022-01-16",
    "event_id": "404",
+   "extra_classes": [
+    "https://www.arabianessence.tv/events/doha-international-arabian-horse-show-2022/404/junior-colts-championship-class-jcc/9240/"
+   ],
    "location": "Al Shaqab",
    "name": "Doha International Arabian Horse Show 2022",
    "results": [
@@ -134254,9 +134266,9 @@
      "event_id": "404",
      "event_name": "Doha International Arabian Horse Show 2022",
      "event_url": "https://www.arabianessence.tv/events/doha-international-arabian-horse-show-2022/404/",
-     "horse_name": "SULTAN ALKHOR",
+     "horse_name": "SULTAN AL KHOR",
      "horse_number": "219",
-     "horse_url": "https://www.arabianessence.tv/events/doha-international-arabian-horse-show-2022/404/horses/sultan-alkhor/45445/",
+     "horse_url": "https://www.arabianessence.tv/events/doha-international-arabian-horse-show-2022/404/horses/sultan-al-khor/99812/",
      "location": "Al Shaqab",
      "medal": "silver",
      "result": "Silver Champion",
@@ -291142,5 +291154,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-23T00:15:47+00:00"
+ "updated_at": "2026-11-23T12:33:57+00:00"
 }
