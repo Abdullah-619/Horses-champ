@@ -4378,5 +4378,113 @@
   "event_name": "6th Qatar Arabian Horse Show for Local Bred 2026",
   "event_url": "https://www.arabianessence.tv/events/6th-qatar-arabian-horse-show-for-local-bred-2026/1162/",
   "start_date": "2026-11-20"
+ },
+ {
+  "detected_at": "2026-11-23T00:15:29+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "SHAIKHA AL RAHEEL",
+  "horse_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/horses/shaikha-al-raheel/113204/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "Bahrain National Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
+  "start_date": "2026-11-22"
+ },
+ {
+  "detected_at": "2026-11-23T00:15:29+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "DANA AL LAYAL",
+  "horse_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/horses/dana-al-layal/113199/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "Bahrain National Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
+  "start_date": "2026-11-22"
+ },
+ {
+  "detected_at": "2026-11-23T00:15:29+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "SN.JIWAN",
+  "horse_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/horses/sn-jiwan/113191/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "Bahrain National Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
+  "start_date": "2026-11-22"
+ },
+ {
+  "detected_at": "2026-11-23T00:15:29+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "NAJDIYA AL SHAHAB",
+  "horse_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/horses/najdiya-al-shahab/89122/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "Bahrain National Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
+  "start_date": "2026-11-22"
+ },
+ {
+  "detected_at": "2026-11-23T00:15:29+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "JUMNA NS",
+  "horse_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/horses/jumna-ns/106764/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "Bahrain National Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
+  "start_date": "2026-11-22"
+ },
+ {
+  "detected_at": "2026-11-23T00:15:29+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "ZAINAH AL TURAIFI",
+  "horse_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/horses/zainah-al-turaifi/106755/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "Bahrain National Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
+  "start_date": "2026-11-22"
+ },
+ {
+  "detected_at": "2026-11-23T00:15:29+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "JHINDRA",
+  "horse_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/horses/jhindra/38766/",
+  "championship": "Senior Mares Championship (Class SMC)",
+  "event_name": "Bahrain National Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
+  "start_date": "2026-11-22"
+ },
+ {
+  "detected_at": "2026-11-23T00:15:29+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "KHAZAZ AL SHAHANIA",
+  "horse_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/horses/khazaz-al-shahania/48535/",
+  "championship": "Senior Mares Championship (Class SMC)",
+  "event_name": "Bahrain National Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
+  "start_date": "2026-11-22"
+ },
+ {
+  "detected_at": "2026-11-23T00:15:29+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "AJ NOMAH",
+  "horse_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/horses/aj-nomah/84882/",
+  "championship": "Senior Mares Championship (Class SMC)",
+  "event_name": "Bahrain National Championship 2026",
+  "event_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
+  "start_date": "2026-11-22"
  }
 ]
