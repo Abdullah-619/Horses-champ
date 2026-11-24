@@ -52895,7 +52895,7 @@
    "url": "https://www.arabianessence.tv/events/sharjah-arabian-horse-festival-straight-egyptian-2026/1165/"
   },
   "1166": {
-   "checked_at": "2026-11-23T20:08:05+00:00",
+   "checked_at": "2026-11-24T00:11:58+00:00",
    "end_date": "2026-11-23",
    "event_id": "1166",
    "location": "Military Sports Union - Road 4725, Block 947",
@@ -53077,7 +53077,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
      "start_date": "2026-11-22",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106464"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -53093,7 +53095,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
      "start_date": "2026-11-22",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106464"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -53109,7 +53113,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
      "start_date": "2026-11-22",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106464"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -53125,7 +53131,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
      "start_date": "2026-11-22",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106465"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -53141,7 +53149,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
      "start_date": "2026-11-22",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106465"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -53157,7 +53167,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
      "start_date": "2026-11-22",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106465"
+     ]
     },
     {
      "championship": "Senior Stallions Championship (Class SSC)",
@@ -53173,7 +53185,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
      "start_date": "2026-11-22",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106466"
+     ]
     },
     {
      "championship": "Senior Stallions Championship (Class SSC)",
@@ -53189,7 +53203,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
      "start_date": "2026-11-22",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106466"
+     ]
     },
     {
      "championship": "Senior Stallions Championship (Class SSC)",
@@ -53205,7 +53221,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
      "start_date": "2026-11-22",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106466"
+     ]
     }
    ],
    "start_date": "2026-11-22",
@@ -291298,5 +291316,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-23T20:08:18+00:00"
+ "updated_at": "2026-11-24T00:12:15+00:00"
 }
