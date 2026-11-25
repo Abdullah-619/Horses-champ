@@ -53564,6 +53564,16 @@
    "start_date": "2026-10-28",
    "url": "https://www.arabianessence.tv/events/hail-international-arabian-horse-show-2026/1167/"
   },
+  "1169": {
+   "checked_at": "2026-11-25T00:12:31+00:00",
+   "end_date": "2026-11-27",
+   "event_id": "1169",
+   "location": "Grand Palais",
+   "name": "World Arabian Horse Championship Supreme 2026",
+   "results": [],
+   "start_date": "2026-11-25",
+   "url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/"
+  },
   "117": {
    "checked_at": "2026-10-08T05:36:51+00:00",
    "end_date": "2018-05-13",
@@ -291316,5 +291326,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-24T00:12:15+00:00"
+ "updated_at": "2026-11-25T00:12:42+00:00"
 }
