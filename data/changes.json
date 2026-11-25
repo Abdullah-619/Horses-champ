@@ -4594,5 +4594,41 @@
   "event_name": "Bahrain National Championship 2026",
   "event_url": "https://www.arabianessence.tv/events/bahrain-national-championship-2026/1166/",
   "start_date": "2026-11-22"
+ },
+ {
+  "detected_at": "2026-11-25T18:13:07+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "SALLA ALREMAS",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/salla-alremas/102197/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
+ },
+ {
+  "detected_at": "2026-11-25T18:13:07+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "SULTANAH ALARAB",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/sultanah-alarab/103911/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
+ },
+ {
+  "detected_at": "2026-11-25T18:13:07+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "PALMAH O",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/palmah-o/105376/",
+  "championship": "Yearling Fillies Championship (Class YFC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
  }
 ]
