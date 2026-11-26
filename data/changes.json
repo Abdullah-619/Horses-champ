@@ -4702,5 +4702,41 @@
   "event_name": "World Arabian Horse Championship Supreme 2026",
   "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
   "start_date": "2026-11-25"
+ },
+ {
+  "detected_at": "2026-11-26T18:12:54+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "SYNATRA",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/synatra/79695/",
+  "championship": "Junior Colts Championship (Class JCC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
+ },
+ {
+  "detected_at": "2026-11-26T18:12:54+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "HABOOB AJMAL",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/haboob-ajmal/94207/",
+  "championship": "Junior Colts Championship (Class JCC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
+ },
+ {
+  "detected_at": "2026-11-26T18:12:54+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "SINAN AL BAHYA",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/sinan-al-bahya/102071/",
+  "championship": "Junior Colts Championship (Class JCC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
  }
 ]
