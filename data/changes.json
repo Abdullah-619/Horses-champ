@@ -4666,5 +4666,41 @@
   "event_name": "World Arabian Horse Championship Supreme 2026",
   "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
   "start_date": "2026-11-25"
+ },
+ {
+  "detected_at": "2026-11-26T16:13:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "D ROWA",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/d-rowa/74967/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
+ },
+ {
+  "detected_at": "2026-11-26T16:13:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "AL ARYAM HARBAH",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/al-aryam-harbah/74417/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
+ },
+ {
+  "detected_at": "2026-11-26T16:13:08+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "EXPECTATIONS AL WAJBA",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/expectations-al-wajba/85306/",
+  "championship": "Junior Fillies Championship (Class JFC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
  }
 ]
