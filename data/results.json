@@ -53565,7 +53565,7 @@
    "url": "https://www.arabianessence.tv/events/hail-international-arabian-horse-show-2026/1167/"
   },
   "1169": {
-   "checked_at": "2026-11-26T18:12:54+00:00",
+   "checked_at": "2026-11-26T20:12:56+00:00",
    "end_date": "2026-11-27",
    "event_id": "1169",
    "location": "Grand Palais",
@@ -53693,7 +53693,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/junior-fillies-championship-class-jfc/25902/",
      "start_date": "2026-11-25",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106534"
+     ]
     },
     {
      "championship": "Junior Fillies Championship (Class JFC)",
@@ -53709,7 +53711,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/junior-fillies-championship-class-jfc/25902/",
      "start_date": "2026-11-25",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106534"
+     ]
     },
     {
      "championship": "Junior Fillies Championship (Class JFC)",
@@ -53725,7 +53729,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/junior-fillies-championship-class-jfc/25902/",
      "start_date": "2026-11-25",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106534"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -53741,7 +53747,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/junior-colts-championship-class-jcc/25904/",
      "start_date": "2026-11-25",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106531"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -53757,7 +53765,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/junior-colts-championship-class-jcc/25904/",
      "start_date": "2026-11-25",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106531"
+     ]
     },
     {
      "championship": "Junior Colts Championship (Class JCC)",
@@ -53773,7 +53783,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/junior-colts-championship-class-jcc/25904/",
      "start_date": "2026-11-25",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106531"
+     ]
     }
    ],
    "start_date": "2026-11-25",
@@ -291531,5 +291543,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-26T18:13:13+00:00"
+ "updated_at": "2026-11-26T20:13:13+00:00"
 }
