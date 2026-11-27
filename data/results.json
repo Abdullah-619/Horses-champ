@@ -53575,7 +53575,7 @@
    "url": "https://www.arabianessence.tv/events/hail-international-arabian-horse-show-2026/1167/"
   },
   "1169": {
-   "checked_at": "2026-11-27T10:12:54+00:00",
+   "checked_at": "2026-11-27T16:13:25+00:00",
    "end_date": "2026-11-27",
    "event_id": "1169",
    "location": "Grand Palais",
@@ -53796,6 +53796,54 @@
      "videos": [
       "https://www.arabianessence.tv/watch/video/106536"
      ]
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-11-27",
+     "event_id": "1169",
+     "event_name": "World Arabian Horse Championship Supreme 2026",
+     "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+     "horse_name": "D NAJLAH",
+     "horse_number": "58",
+     "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/d-najlah/69681/",
+     "location": "Grand Palais",
+     "medal": "gold",
+     "result": "Gold Champion",
+     "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/senior-mares-championship-class-smc/25907/",
+     "start_date": "2026-11-25",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-11-27",
+     "event_id": "1169",
+     "event_name": "World Arabian Horse Championship Supreme 2026",
+     "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+     "horse_name": "D DHAYRAH",
+     "horse_number": "59",
+     "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/d-dhayrah/40205/",
+     "location": "Grand Palais",
+     "medal": "silver",
+     "result": "Silver Champion",
+     "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/senior-mares-championship-class-smc/25907/",
+     "start_date": "2026-11-25",
+     "videos": []
+    },
+    {
+     "championship": "Senior Mares Championship (Class SMC)",
+     "end_date": "2026-11-27",
+     "event_id": "1169",
+     "event_name": "World Arabian Horse Championship Supreme 2026",
+     "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+     "horse_name": "AJ ASAI",
+     "horse_number": "61",
+     "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/aj-asai/42764/",
+     "location": "Grand Palais",
+     "medal": "bronze",
+     "result": "Bronze Champion",
+     "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/senior-mares-championship-class-smc/25907/",
+     "start_date": "2026-11-25",
+     "videos": []
     }
    ],
    "start_date": "2026-11-25",
@@ -291553,5 +291601,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-27T10:13:09+00:00"
+ "updated_at": "2026-11-27T16:13:38+00:00"
 }

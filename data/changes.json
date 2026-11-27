@@ -4738,5 +4738,41 @@
   "event_name": "World Arabian Horse Championship Supreme 2026",
   "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
   "start_date": "2026-11-25"
+ },
+ {
+  "detected_at": "2026-11-27T16:13:25+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "D NAJLAH",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/d-najlah/69681/",
+  "championship": "Senior Mares Championship (Class SMC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
+ },
+ {
+  "detected_at": "2026-11-27T16:13:25+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "D DHAYRAH",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/d-dhayrah/40205/",
+  "championship": "Senior Mares Championship (Class SMC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
+ },
+ {
+  "detected_at": "2026-11-27T16:13:25+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "AJ ASAI",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/aj-asai/42764/",
+  "championship": "Senior Mares Championship (Class SMC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
  }
 ]
