@@ -53575,7 +53575,7 @@
    "url": "https://www.arabianessence.tv/events/hail-international-arabian-horse-show-2026/1167/"
   },
   "1169": {
-   "checked_at": "2026-11-27T04:12:48+00:00",
+   "checked_at": "2026-11-27T10:12:54+00:00",
    "end_date": "2026-11-27",
    "event_id": "1169",
    "location": "Grand Palais",
@@ -53595,7 +53595,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/yearling-fillies-championship-class-yfc/25898/",
      "start_date": "2026-11-25",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106538"
+     ]
     },
     {
      "championship": "Yearling Fillies Championship (Class YFC)",
@@ -53611,7 +53613,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/yearling-fillies-championship-class-yfc/25898/",
      "start_date": "2026-11-25",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106538"
+     ]
     },
     {
      "championship": "Yearling Fillies Championship (Class YFC)",
@@ -53627,7 +53631,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/yearling-fillies-championship-class-yfc/25898/",
      "start_date": "2026-11-25",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106538"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -53643,7 +53649,9 @@
      "result": "Gold Champion",
      "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/yearling-colts-championship-class-ycc/25900/",
      "start_date": "2026-11-25",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106537"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -53659,7 +53667,9 @@
      "result": "Silver Champion",
      "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/yearling-colts-championship-class-ycc/25900/",
      "start_date": "2026-11-25",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106537"
+     ]
     },
     {
      "championship": "Yearling Colts Championship (Class YCC)",
@@ -53675,7 +53685,9 @@
      "result": "Bronze Champion",
      "source": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/yearling-colts-championship-class-ycc/25900/",
      "start_date": "2026-11-25",
-     "videos": []
+     "videos": [
+      "https://www.arabianessence.tv/watch/video/106537"
+     ]
     },
     {
      "championship": "Junior Fillies Championship (Class JFC)",
@@ -291541,5 +291553,5 @@
    "url": "https://www.arabianessence.tv/events/al-asayel-1st-championship-for-egyptian-ah-2025/999/"
   }
  },
- "updated_at": "2026-11-27T04:13:03+00:00"
+ "updated_at": "2026-11-27T10:13:09+00:00"
 }
