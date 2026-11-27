@@ -4774,5 +4774,41 @@
   "event_name": "World Arabian Horse Championship Supreme 2026",
   "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
   "start_date": "2026-11-25"
+ },
+ {
+  "detected_at": "2026-11-27T18:12:18+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "gold",
+  "horse_name": "D SHAHHAR",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/d-shahhar/69723/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
+ },
+ {
+  "detected_at": "2026-11-27T18:12:18+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "silver",
+  "horse_name": "RHAN AL SHAHANIA",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/rhan-al-shahania/24913/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
+ },
+ {
+  "detected_at": "2026-11-27T18:12:18+00:00",
+  "type": "new",
+  "previous_horse": "",
+  "medal": "bronze",
+  "horse_name": "D SAMED",
+  "horse_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/horses/d-samed/21302/",
+  "championship": "Senior Stallions Championship (Class SSC)",
+  "event_name": "World Arabian Horse Championship Supreme 2026",
+  "event_url": "https://www.arabianessence.tv/events/world-arabian-horse-championship-supreme-2026/1169/",
+  "start_date": "2026-11-25"
  }
 ]
